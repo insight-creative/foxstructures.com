@@ -1,0 +1,75 @@
+.footer {
+  background-color: $black;
+  color: $white;
+  font-size: $ic-200;
+
+  a {
+    color: $white;
+    text-decoration: none;
+    display: block;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+
+  .copyright {
+    font-size: 14px;
+    padding: $ic-100 0;
+
+    @include breakpoint(sm) {
+      flex-direction: row;
+    }
+
+    a {
+      text-decoration: none;
+  
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+
+    p {
+      margin: 0;
+    }
+
+    &__nav {
+      margin: 0;
+      padding: 0;
+
+      @include breakpoint(sm) {
+        flex-direction: row;
+      }
+    }
+
+    &__list-item {
+      list-style-type: none;
+      margin: $ic-100;
+
+      @include breakpoint(md)  {
+        margin: 0;
+        margin-left: $ic--100;
+      }
+    }
+
+    p, .credits {
+      text-align: center;
+
+      @include breakpoint(md)  {
+        text-align: left;
+      }
+    }
+
+    @include breakpoint(md)  {
+      .credits {
+        margin-left: auto;
+      }
+    }
+  }
+}

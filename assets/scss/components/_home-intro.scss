@@ -1,0 +1,27 @@
+.home-intro .curves {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.home-intro .curves .curves__curve {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.home-intro .image-offset img {
+    max-width: 525px;
+    margin-inline: auto;
+    
+    @include breakpoint (md) {
+        position: relative;
+        top: 200px;
+        z-index: 3;
+    }
+}

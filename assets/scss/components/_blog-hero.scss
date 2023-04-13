@@ -1,0 +1,51 @@
+.blog-hero {
+  overflow: visible;
+
+  h1 {
+    font-size: clamp($ic-300, 4vw, $ic-600);
+  }
+
+  .post-featured-image {
+    img {
+      height: 275px;
+
+      @include breakpoint(md) {
+        height: 400px;
+      }
+    }
+  }
+}
+
+.back {
+  color: $primary-color;
+  transition: $transition;
+
+  svg {
+    width: $ic-200;
+    height: $ic-200;
+    stroke: $primary-color;
+    position: relative;
+    top: 4px;
+    transition: $transition;
+  }
+
+  &:hover, 
+  &:focus {
+    color: $secondary-color;
+
+    svg {
+      stroke: $secondary-color;
+      transform: translateX(-6px);
+    }
+  }
+}
+
+.reading-time {
+  gap: .5rem;
+}
+
+.post-content {
+  picture {
+    display: block;
+  }
+}

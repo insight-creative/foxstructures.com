@@ -1,0 +1,64 @@
+.breadcrumbs {
+  position: relative;
+  z-index: 3;
+  padding: $ic-200 0;
+
+  .active {
+    &::after {
+      position: absolute;
+      content: "";
+    }
+
+    a {
+      color: rgba($primary-color, 0.6);
+      pointer-events: none;
+    }
+  }
+}
+
+.breadcrumbs__inner {
+  flex-wrap: nowrap;
+  height: 20px;
+  overflow: hidden;
+}
+
+.breadcrumbs svg {
+  position: relative;
+  top: -2px;
+  stroke: $primary-color;
+  width: $ic-100;
+  height: $ic-100;
+}
+
+.breadcrumbs__nav {
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: $ic-100 0;
+  margin: 0;
+
+  @include breakpoint(md) {
+    position: relative;
+    top: 8px;
+  }
+}
+
+.breadcrumbs__list-item {
+  list-style-type: none;
+  position: relative;
+  font-size: $ic--100;
+  max-width: none;
+  margin: 0;
+
+  &::after {
+    position: absolute;
+    content: "/";
+  }
+
+  a {
+    text-decoration: none;
+    font-size: $ic--100;
+    padding: 0 $ic--100;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+<div class="block">
+    <div class="wrapper-sm flow">
+        {{ .Content  }}
+    </div>
+</div>
+{{ end }}

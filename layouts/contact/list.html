@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+<div class="block">
+  <div class="wrapper-lg columns-two-thirds-left gap-md">
+    <div class="col">
+      <div class="contact-form">
+        <div class="contact-form__wrapper">
+          {{ partial "forms/contact-form" . }}
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      {{ partial "contact-info" . }}
+    </div>
+  </div>
+</div>
+{{ end }}

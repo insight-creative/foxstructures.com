@@ -1,0 +1,192 @@
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+  font-family: $primary-font;
+  color: $primary-color;
+  font-size: $ic-100;
+  font-weight: 400;
+  line-height: 1.5;
+
+  @include breakpoint(sm) {
+    font-size: $ic-200;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $primary-font;
+  color: $primary-color;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.65em;
+}
+
+.bg-black h1,
+.bg-primary h1,
+.bg-black h2,
+.bg-primary h2,
+.bg-black h3,
+.bg-primary h3,
+.bg-black h4,
+.bg-primary h4,
+.bg-black h5,
+.bg-primary h5,
+.bg-primary h6,
+.bg-black h6 {
+  color: $white;
+}
+
+.max-80 {
+  max-width: $measure;
+}
+
+h1,
+.h1 {
+  font-size: clamp($ic-400, 4vw, $ic-700);
+  max-width: 30ch;
+}
+
+h2,
+.h2 {
+  font-size: clamp($ic-300, 4vw, $ic-500);
+}
+
+h3,
+.h3 {
+  font-size: clamp($ic-300, 4vw, $ic-400);
+}
+
+h4,
+.h4 {
+  font-size: clamp($ic-200, 4vw, $ic-400);
+}
+
+h5,
+.h5 {
+  font-size: clamp($ic-200, 4vw, $ic-300);
+}
+
+h6,
+.h6 {
+  font-size: clamp($ic-100, 4vw, $ic-200);
+}
+
+p {
+  margin: 0;
+}
+
+.i {
+  font-style: italic;
+}
+
+.b {
+  font-weight: bold;
+}
+
+.shift-first {
+  text-transform: capitalize;
+}
+
+.shift-up {
+  text-transform: uppercase;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.text-color-black {
+  color: $black;
+  transition: $transition;
+}
+
+.text-color-white {
+  color: $white;
+}
+
+.text-color-primary {
+  color: $primary-color;
+}
+
+.text-color-secondary {
+  color: $secondary-color;
+}
+
+.text-color-accent {
+  color: $secondary-color;
+}
+
+.fw-400 {
+  font-weight: 400;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.fw-900 {
+  font-weight: 900;
+}
+
+.font-size-xs {
+  font-size: $ic-100;
+}
+
+.font-size-sm {
+  font-size: $ic-200;
+}
+
+.font-size-md {
+  font-size: $ic-300;
+}
+
+.font-size-lg {
+  font-size: $ic-400;
+}
+
+.font-size-xl {
+  font-size: $ic-500;
+}
+
+.font-size-xxl {
+  font-size: $ic-600;
+}
+
+.font-size-xxxl {
+  font-size: $ic-700;
+}
+
+.text-align-start {
+  text-align: start
+}
+
+.text-align-center {
+  text-align: center
+}
+
+.text-align-end {
+  text-align: end
+}
+
+address {
+  font-style: normal;
+}
+
+.letter-spacing-2 {
+  letter-spacing: 2px;
+}

@@ -1,0 +1,59 @@
+.services-list {
+    max-width: 100%;
+    padding: 0;
+}
+
+.services-list li {
+    margin-block-start: 0;
+}
+
+.service-card {
+    transition: $transition;
+
+    .overlay--yellow-gradient {
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+    }
+
+    &:hover, 
+    &:focus {
+        transform: translateY(-10px);
+
+        .overlay--yellow-gradient {
+            opacity: 1;
+        }
+
+        .service-card__underline {
+            transform: scaleX(1.5);
+        }
+    }
+}
+
+.service-card a::after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.service-card__image-wrap {
+    width: 100%;
+    height: 250px;
+}
+
+.service-card__content { 
+    padding: 20px;
+    flex: 1;
+}
+
+.service-card__underline {
+    position: relative;
+    height: 3px;
+    width: $ic-900;
+    margin-inline: auto;
+    margin-block-start: $ic--100;
+    background-color: $secondary-color;
+    transition: $transition;
+}

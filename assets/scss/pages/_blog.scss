@@ -1,0 +1,6 @@
+@include breakpoint (md) {
+  .parent-page-blog,
+  .parent-page-blog .site-wrap {
+    overflow-x: initial;
+  }
+}

@@ -1,0 +1,50 @@
+{{ if .Params.intro.enabled }}
+  {{ with .Params.intro }} 
+  <section aria-labelledby="{{ .heading | urlize }}" class="home-intro block bg-black p-relative">
+    <div class="curves">
+      <img class="curves__curve" src="/uploads/curve-small.svg" alt="">
+      <img class="curves__curve" src="/uploads/curve-large.svg" alt="">
+    </div>
+    <div class="wrapper-lg columns">
+      <div class="col flow">
+        {{ if .heading }}
+          {{ partial "heading" . }}
+        {{ end }} 
+        {{ if .body }}
+          <div class="text-color-white flow">
+            {{ .body | markdownify }}
+          </div>
+        {{ end }} 
+        {{ if .button.enabled }}
+          <div class="flex flex-column flex-row-m">
+            {{ if .button.enabled }}
+              {{ with .button }}
+                {{ partial "button-secondary" . }}
+              {{ end }}
+            {{ end }}
+          </div>
+        {{ end }} 
+      </div>
+      <div class="col image-offset">
+        {{ if .image.enabled }}
+          {{ with .image }}
+            {{ partial "responsive-image" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <div class="image-black-background bg-white">
+    <div class="wrapper-lg grid">
+      {{ if .image_2.enabled }}
+      {{ with .image_2 }}
+        <div class="grid-12 grid-4-md"></div>
+        <div class="grid-12 grid-8-md">
+          {{ partial "responsive-image" . }}
+        </div>
+      {{ end }}
+    {{ end }}
+    </div>
+  </div>
+  {{ end }}
+{{ end }}

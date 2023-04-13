@@ -1,0 +1,32 @@
+{{ $heroClass := lower .Page.Title }}
+{{ if .Params.hero.enabled }}
+  {{ with .Params.hero }}
+  <section aria-labelledby="hero-heading" class="{{ anchorize $heroClass }}-hero flex flex-center">
+    <video height="1080" width="1920" loop="loop" muted playsinline="" style="opacity: 1;" autoplay poster="" class="hero__video aspect-video">
+      <source src="{{ .video }}" type="video/mp4">
+    </video>
+    <div class="home-hero__overlay"></div>
+    <div class="home-hero__content wrapper-lg">
+      <div class="border-left-secondary">
+        <h1 id="hero-heading" class="no-margin text-color-white shift-up letter-spacing-2">{{ .heading }}</h1>
+        {{ if .button.enabled }}
+        <div class="flex gap-sm">
+          {{ if .button.enabled }}
+            <a href="{{ .button.button_url }}" class="btn btn--arrow-light" {{ if .button.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button.button_text }} <div class="icon-md">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+          {{ end }} 
+          {{ if .button_2.enabled }}
+            <a href="{{ .button_2.button_url }}" class="btn btn--arrow-light" {{ if .button_2.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button_2.button_text }} <div class="icon-md">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+          {{ end }} 
+        </div>
+      {{ end }} 
+      </div>
+    </div>
+    <a href="javascript:void(0);" class="home-hero__controls video-playing" aria-label="play the video" title="play the video">
+			<div class="icon-sm icon-fill-white">
+        {{ partialCached "svg-icons/play.svg" . }}
+        {{ partialCached "svg-icons/pause.svg" . }}
+      </div>
+		</a>
+  </section>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,35 @@
+.category-wrapper {
+  position: relative;
+}
+
+.category-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 2;
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: $transition;
+  padding: $ic-300;
+  width: 100%;
+
+  @include breakpoint(md) {
+    columns: 2;
+    width: 500px;
+  }
+}
+
+.category-list__item {
+  list-style-type: none;
+  padding: 0;
+}
+
+.category-list__link {
+  color: $white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.category-list.list-open {
+  transform: scaleY(1);
+}

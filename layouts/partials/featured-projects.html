@@ -1,0 +1,46 @@
+<section aria-label="Services List" class="block bg-gray">
+    <h2 class="text-align-center no-margin">Featured Building Projects</h2>
+    <div class="wrapper-lg">
+        <div class="block-md">
+            <!-- Swiper -->
+            <div class="swiper projectSwiper">
+                <div class="swiper-wrapper">
+                    {{ $featuredProjects := where .Site.Pages "Params.featured" "==" true }}
+                    {{ range $featuredProjects }}
+                    <!-- Display the project information, such as title, description, etc. -->
+                    <div class="swiper-slide columns gap-xl">
+                        <div class="col swiper-slider__project-image cover-image">
+                            <img src="{{ .Params.seo.featured_image }}" alt="">
+                        </div>
+                        <div class="col swiper-slider__project-quote">
+                            <h2>{{ .Title }}</h2>
+                            <blockquote class="flow p-relative">
+                                {{ partialCached "svg-icons/quote-icon.svg" . }}
+                                <p>{{ .Params.quote.quote_short }}</p>
+                                <p>
+                                    <span class="fw-600">{{ .Params.quote.name }}</span><br>
+                                    <span class="font-size-xs">{{ .Params.quote.position }}</span>
+                                </p>
+                                <a class="btn btn--secondary" href="{{ .RelPermalink }}">View Project</a>
+                            </blockquote>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+                <div class="swiper-slider__navigation columns gap-xl">
+                    <div class="swiper-slider__controls-wrapper col">
+                        <div class="swiper-slider__controls bg-secondary p-relative">
+                            <div class="swiper-button-next"><div class="icon-lg icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></div>
+                            <div class="swiper-button-prev"><div class="icon-lg icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-left.svg" . }}</div></div>
+                            <div class="swiper-pagination fw-700 font-size-xs"></div>
+                        </div>
+                    </div>
+                    <div class="col"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-align-center">
+        <a class="btn btn--secondary" href="/portfolio/">View All Projects</a>
+    </div>
+</section>

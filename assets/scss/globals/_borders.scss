@@ -1,0 +1,28 @@
+.border-top-primary {
+    border-block-start: 1px solid $primary-color;
+}
+
+.border-bottom-primary {
+    border-block-end: 1px solid $primary-color;
+}
+
+.border-top-secondary {
+    border-block-start: 1px solid $secondary-color;
+}
+
+.border-bottom-secondary {
+    border-block-end: 1px solid $secondary-color;
+}
+
+.border-left-secondary {
+    border-inline-start: 10px solid $secondary-color;
+    padding-inline-start: $ic-400;
+}
+
+.border-top-gray {
+    border-block-start: 1px solid $light-gray;
+}
+
+.border-bottom-gray {
+    border-block-end: 1px solid $light-gray;
+}

@@ -1,0 +1,22 @@
+{{ $heroClass := lower .Page.Title }}
+<section aria-labelledby="hero-heading" class="hero {{ anchorize $heroClass }}-hero columns gap-md">
+  <div class="col p-relative">
+    {{ partial "hero-image" . }}
+  </div>
+  <div class="col">
+    <div class="hero__content-inner w-100 flow">
+      <h1 id="hero-heading">{{ .Params.hero.heading | safeHTML }}</h1>
+      <div class="fw-500 flow">{{ .Params.hero.body | markdownify }}</div>
+      {{ if .Params.hero.button.enabled }}
+        {{ with .Params.hero.button }}
+          {{ partial "button-primary" . }}
+        {{ end }}
+      {{ end }}
+      {{ if .Params.hero.button_2.enabled }}
+        {{ with .Params.hero.button_2 }}
+          {{ partial "button-primary" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

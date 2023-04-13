@@ -1,0 +1,58 @@
+.post-navigation {
+  padding: $ic-300 0 $ic-300 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  border-top: 1px solid $gray;
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  svg {
+    height: $ic-200;
+    width: $ic-200;
+    stroke: $primary-color;
+    transition: 0.3s ease;
+    margin: 0 $ic-100;
+  }
+}
+
+.post-navigation__next a,
+.post-navigation__prev a,
+.post-navigation__back a {
+  display: flex;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    color: $primary-color;
+
+    svg {
+      stroke: $primary-color;
+    }
+  }
+} 
+
+.post-navigation__next {
+  margin-left: $ic-200;
+
+  &:hover,
+  &:focus {
+    svg {
+      transform: translateX(5px);
+    }
+  }
+}
+
+.post-navigation__prev {
+  margin-right: $ic-200;
+
+  &:hover,
+  &:focus {
+    svg {
+      transform: translateX(-5px);
+    }
+  }
+}

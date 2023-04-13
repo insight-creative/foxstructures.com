@@ -1,0 +1,17 @@
+.image-black-background {
+    position: relative;
+}
+
+.image-black-background::before {
+    position: absolute;
+    z-index: 1;
+    content: "";
+    height: 300px;
+    width: 100%;
+    background-color: $black;
+}
+
+.image-black-background img {
+    position: relative;
+    z-index: 2;
+}
