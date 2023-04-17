@@ -58,4 +58,18 @@ experts_in_construction:
     button_url: /contact/
     button_text: Get in Touch
     open_in_new_tab: false
+join_our_team: 
+  enabled: true
+  heading: Join Our Team
+  body: >-
+    Looking to hone your construction expertise with a great team? View our open positions and apply today!
+  image:
+    enabled: true
+    image_url: /uploads/fox-structures-employees-working-on-jobsite.jpg
+    image_alt:
+  button:
+    enabled: true
+    button_url: /careers/
+    button_text: View Careers
+    open_in_new_tab: false
 ---

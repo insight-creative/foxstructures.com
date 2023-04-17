@@ -12,10 +12,10 @@
         {{ if .button.enabled }}
         <div class="flex gap-sm">
           {{ if .button.enabled }}
-            <a href="{{ .button.button_url }}" class="btn btn--arrow-light" {{ if .button.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button.button_text }} <div class="icon-md">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+            <a href="{{ .button.button_url }}" class="btn btn--arrow-light" {{ if .button.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button.button_text }} <div class="icon-md icon-stroke-secondary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
           {{ end }} 
           {{ if .button_2.enabled }}
-            <a href="{{ .button_2.button_url }}" class="btn btn--arrow-light" {{ if .button_2.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button_2.button_text }} <div class="icon-md">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+            <a href="{{ .button_2.button_url }}" class="btn btn--arrow-light" {{ if .button_2.open_in_new_tab }} target="_blank" rel="noopener noreferrer nofollower"{{ end }}>{{ .button_2.button_text }} <div class="icon-md icon-stroke-secondary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
           {{ end }} 
         </div>
       {{ end }} 

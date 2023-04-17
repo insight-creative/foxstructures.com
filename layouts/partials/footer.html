@@ -1,5 +1,46 @@
 <footer class="footer">
-  <div class="footer__top"></div>
+  <div class="footer__top block-md">
+    <div class="columns gap-xl wrapper-lg">
+      <div class="col flow">
+        <a class="footer__logo" href="{{ site.BaseURL }}">
+          <img src="/uploads/fox-structures-logo-white.svg" alt="{{ .Site.Data.site_settings.business_name }} logo" class="img-responsive dim" width="275" height="125">
+        </a>
+        <address>
+          <p>{{ .Site.Data.site_settings.address.street }}.<br>{{ .Site.Data.site_settings.address.city }}, {{ .Site.Data.site_settings.address.state }} {{ .Site.Data.site_settings.address.zip }}</p>
+        </address>
+        <div>
+          <p class="flex gap-sm">Local: <a href="tel:{{ .Site.Data.site_settings.phone_local }}" class="text-white"> {{ .Site.Data.site_settings.phone_local }}</a></p>
+          <p class="flex gap-sm">Phone: <a href="tel:{{ .Site.Data.site_settings.phone }}" class="text-white">{{ .Site.Data.site_settings.phone }}</a></p>
+          <p>Fax: {{ .Site.Data.site_settings.fax }}</p>
+        </div>
+      </div>
+      <div class="col">
+        <nav aria-label="Footer Services Menu">
+          <h2 class="h3 text-color-white">Services</h2>
+          <ul class="footer__menu">
+            {{ $pages := .Site.RegularPages }}
+            {{ $services := where $pages "Type" "construction-services" }}
+            {{ range $services }}
+            <li><a href="{{ .Permalink }}" class="transform-x-8">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+      <div class="col">
+        <nav aria-label="Footer Explore More Menu">
+          <h2 class="h3 text-color-white">Explore More</h2>
+          <ul class="footer__menu">
+            {{ range .Site.Menus.explore }}
+            <li><a href="{{ .URL }}" class="transform-x-8">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </div>
+      <div class="col">
+        {{ partialCached "social-media" . }}
+      </div>
+    </div>
+  </div>
   <div class="footer__bottom wrapper-lg">
     <div class="copyright flex flex-column flex-row-md flex-center">
       <p>© {{ dateFormat "2006" now }} {{ .Site.Data.site_settings.business_name }}</p>

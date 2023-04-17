@@ -1,0 +1,24 @@
+.cta::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    content: "";
+    height: 50%;
+    background-color: $black;
+}
+
+.cta__wrapper {
+    z-index: 2;
+}
+
+.cta,
+.cta h2 {
+    color: $black;
+}
+
+.cta__body {
+    max-inline-size: 550px;
+    margin-inline: auto;
+}

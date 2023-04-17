@@ -10,7 +10,7 @@
   padding: $ic--100 $ic-400;
   text-decoration: none;
   transition: $transition;
-  width: max-content;
+  width: fit-content;
 
   &:hover,
   &:focus {
@@ -39,6 +39,19 @@
   &:focus {
     color: $black;
     background-color: #EC9D0B;
+  }
+}
+
+
+.btn--black {
+  color: $secondary-color;
+  background-color: $black;
+  transition: $transition;
+
+  &:hover,
+  &:focus {
+    color: $secondary-color;
+    background-color: $primary-color;
   }
 }
 
@@ -75,7 +88,7 @@ button {
 }
 
 .btn--category {
-  padding: 0.5rem;
+  font-size: .8rem;
 }
 
 .btn--layout-toggle {

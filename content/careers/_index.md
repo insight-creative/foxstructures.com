@@ -3,8 +3,8 @@ title: Careers
 menu:
   main:
     weight: 5
-  footer:
-    weight: 5
+  explore:
+    weight: 3
 seo:
   page_title:
   meta_description:

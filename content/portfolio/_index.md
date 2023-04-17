@@ -3,8 +3,8 @@ title: Portfolio
 menu:
   main:
     weight: 2
-  footer:
-    weight: 2
+  explore:
+    weight: 4
 seo:
   page_title:
   meta_description:

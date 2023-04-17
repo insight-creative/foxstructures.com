@@ -1,23 +1,65 @@
 .card {
   list-style-type: none;
-  border-bottom: 1px solid $primary-color;
   max-width: none;
-  padding-block: $ic-100;
   margin-block-start: 0;
+  transition: $transition;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, .15);
 
-  article {
-    max-width: none;
+  .overlay--yellow-gradient {
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
   }
+
+  &:hover, 
+  &:focus {
+      transform: translateY(-10px);
+
+      .overlay--yellow-gradient {
+          opacity: 1;
+      }
+
+      .service-card__underline {
+          transform: scaleX(1.5);
+      }
+  }
+}
+
+.card::after {
+  position: absolute;
+  bottom: -5px;
+  right: 0;
+  content: "";
+  width: 75%;
+  height: 10px;
+  background-color: $secondary-color;
 }
 
 .card__meta {
   position: absolute;
-  top: 0;
+  top: -18px;
   left: 0;
+}
+
+.card__image-wrap {
+  width: 100%;
+  height: 250px;
 }
 
 .card__img {
   block-size: 250px;
   inline-size: 100%;
   object-fit: cover;
+}
+
+.card__link::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.card__content {
+  padding: $ic-200;
 }

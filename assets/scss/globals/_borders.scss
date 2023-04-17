@@ -16,7 +16,7 @@
 
 .border-left-secondary {
     border-inline-start: 10px solid $secondary-color;
-    padding-inline-start: $ic-400;
+    padding-inline-start: clamp($ic-100, 3vw, $ic-400);
 }
 
 .border-top-gray {

@@ -29,4 +29,36 @@
 {{ end }}
 {{ partialCached "services-grid" . }}
 {{ partialCached "featured-projects" . }}
+{{ if .Params.join_our_team.enabled }}
+    {{ with .Params.join_our_team }}
+    <section aria-labelledby="{{ .heading | urlize }}" class="join-our-team block-xl bg-white">
+        <div class="bg-gray">
+            <div class="wrapper-lg">
+                <div class="grid gap-md">
+                    <div class="join-our-team__image">
+                        {{ if .image.enabled }}
+                            {{ with .image }}
+                                {{ partial "responsive-image" . }}
+                            {{ end }}
+                        {{ end }}
+                    </div>
+                    <div class="join-our-team__content bg-primary block flow">
+                        {{ partial "heading" . }}
+                        {{ if .body }}
+                        <div class="border-left-secondary text-color-white">{{ .body | markdownify }}</div>
+                        {{ end }} 
+                        {{ if .button.enabled }}
+                        {{ with .button }}
+                            {{ partial "button-secondary" . }}
+                        {{ end }}
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+{{ end }}
+{{ partialCached "blog-feed" . }}
+{{ partial "cta" . }}
 {{ end }}

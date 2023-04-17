@@ -6,12 +6,41 @@
     position: absolute;
     z-index: 1;
     content: "";
-    height: 300px;
+    height: 50%;
     width: 100%;
     background-color: $black;
+}
+
+.image-black-background picture {
+    grid-column: auto / span 12;
+
+    @include breakpoint(md) {
+        grid-column: 4/span 10;
+    }
 }
 
 .image-black-background img {
     position: relative;
     z-index: 2;
+}
+
+.join-our-team__image {
+    grid-column: auto / span 12;
+
+    @include breakpoint(md) {
+        grid-area: 1 / 1 / 2 / 9;
+        position: relative;
+        top: -100px;
+    }
+}
+
+.join-our-team__content {
+    grid-column: auto / span 12;
+    padding-inline: clamp($ic-100, 4vw, $ic-900); 
+
+    @include breakpoint(md) {
+        grid-area: 1 / 7 / 2 / 13;
+        position: relative;
+        top: 100px;
+    }
 }

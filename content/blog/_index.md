@@ -3,8 +3,8 @@ title: Blog
 menu:
   main:
     weight: 4
-  footer:
-    weight: 4
+  explore:
+    weight: 6
 seo:
   page_title:
   meta_description:

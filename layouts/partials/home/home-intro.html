@@ -5,7 +5,7 @@
       <img class="curves__curve" src="/uploads/curve-small.svg" alt="">
       <img class="curves__curve" src="/uploads/curve-large.svg" alt="">
     </div>
-    <div class="wrapper-lg columns">
+    <div class="wrapper-lg columns gap-lg">
       <div class="col flow">
         {{ if .heading }}
           {{ partial "heading" . }}
@@ -37,13 +37,10 @@
   <div class="image-black-background bg-white">
     <div class="wrapper-lg grid">
       {{ if .image_2.enabled }}
-      {{ with .image_2 }}
-        <div class="grid-12 grid-4-md"></div>
-        <div class="grid-12 grid-8-md">
+        {{ with .image_2 }}
           {{ partial "responsive-image" . }}
-        </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
     </div>
   </div>
   {{ end }}

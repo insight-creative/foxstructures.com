@@ -3,8 +3,8 @@ title: About
 menu:
   main:
     weight: 3
-  footer:
-    weight: 3
+  explore:
+    weight: 1
 seo:
   page_title:
   meta_description:

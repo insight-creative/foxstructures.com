@@ -7,10 +7,10 @@
   transition: $transition;
 }
 
-.header__hamburger {
-  width: 80px;
-  height: 80px;
-}
+// .header__hamburger {
+//   width: 50px;
+//   height: 50px;
+// }
 
 .header__mobile-nav {
   position: absolute;
@@ -139,7 +139,7 @@
   align-items: center;
   justify-content: space-between;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
-  padding-inline: $ic-600;
+  padding-inline: clamp($ic-200, 3vw, $ic-600);
 
   @include breakpoint(lg) {
     overflow: visible;
@@ -148,7 +148,8 @@
 
 .header__logo {
   width: 100%;
-  max-width: clamp(120px, 20vw, 140px);
+  max-width: clamp(100px, 20vw, 140px);
+  padding-block: .5rem;
 }
 
 .header__nav {
@@ -196,17 +197,27 @@
   transition: .3s ease-out;
   color: $black;
 
+  &::before, 
   &::after {
+    position: absolute;
     background: $secondary-color;
-    height: 3px;
+    height: 2px;
     width: 100%;
     transform: scaleX(0);
-    transform-origin: top right;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    transition: transform $transition;
     content: "";
-    transition: transform 0.4s ease-out;
+  }
+
+  &::before {
+    top: 0;
+    left: 0;
+    transform-origin: top right;
+  }
+
+  &::after {
+    bottom: 0;
+    right: 0;
+    transform-origin: bottom left;
   }
 
   @include breakpoint(md) {
@@ -214,9 +225,17 @@
     &:focus {
       color: $primary-color;
 
+      &::before, 
       &::after {
         transform: scaleX(1);
+      }
+
+      &::before {
         transform-origin: top left;
+      }
+
+      &::after {
+        transform-origin: bottom right;
       }
     }
   }

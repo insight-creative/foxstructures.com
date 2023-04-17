@@ -1,7 +1,16 @@
 .home-hero {
   position: relative;
-  height: 100vh;
+  height: 75vh;
   width: 100vw;
+
+  @include breakpoint(sm) {
+    height: 60vh;
+  }
+
+  @include breakpoint(md) {
+    height: 100vh;
+    max-height: 1000px;
+  }
 }
 
 .home-hero video {
@@ -31,6 +40,7 @@
 }
 
 .home-hero h1 {
+  font-size: clamp($ic-200, 4vw, $ic-700);
   max-width: 22ch;
 }
 
@@ -58,7 +68,7 @@
 .home-hero__controls {
   position: absolute;
   z-index: 3;
-  top: $ic-200;
+  bottom: $ic-200;
   right: $ic-500;
   border-radius: 50%;
   display: flex;
@@ -68,11 +78,6 @@
   width: $ic-500;
   border: none;
   background-color: $secondary-color;
-
-  @include breakpoint(md) {
-    top: unset;
-    bottom: $ic-200;
-  }
 }
 
 .video-playing {

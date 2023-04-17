@@ -1,5 +1,8 @@
 ---
 title: Leadership
+menu:
+  explore:
+    weight: 2
 seo:
   page_title:
   meta_description:

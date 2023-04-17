@@ -3,8 +3,8 @@ title: Contact Us
 menu:
   main:
     weight: 6
-  footer:
-    weight: 6
+  explore:
+    weight: 5
 seo:
   page_title:
   meta_description:

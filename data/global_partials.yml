@@ -1,0 +1,19 @@
+contact_cta: 
+  heading: Ready to Start Building?
+  body: >-
+    Contact us to request a proposal, share your project vision, or learn more about our services.
+  button:
+    enabled: true
+    button_url: /contact/
+    button_text: Contact Us
+    open_in_new_tab: false
+
+careers_cta: 
+  heading: Join Our Team
+  body: >-
+    Looking to hone your construction expertise with a great team? View our open positions and apply today!
+  button:
+    enabled: true
+    button_url: /careers/
+    button_text: View Careers
+    open_in_new_tab: false
