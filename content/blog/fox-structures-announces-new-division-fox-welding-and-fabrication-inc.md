@@ -2,7 +2,7 @@
 title: "Fox Structures Announces new Division, Fox Welding and Fabrication, Inc."
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description:
   featured_image: /uploads/foxWeldingEmployeeWorkingInShop-1.jpg
 draft: false
 author:

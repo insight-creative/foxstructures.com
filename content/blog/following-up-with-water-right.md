@@ -2,7 +2,7 @@
 title: "Commercial Construction Built to Last: Following up with Water-Right"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description:
   featured_image: /uploads/water-right-inc-new-cover.jpg
 draft: false
 author:

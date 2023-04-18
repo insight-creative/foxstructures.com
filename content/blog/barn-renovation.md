@@ -2,7 +2,7 @@
 title: "Barn Renovation: 5 Telltale Signs it’s Time to Renovate Your Ag Buildings"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description:
   featured_image: /uploads/old-dilapidated-barn.jpg
 draft: false
 author:

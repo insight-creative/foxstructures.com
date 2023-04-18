@@ -2,7 +2,7 @@
 title: "Top Reasons to Work in Construction"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/Verhasselt-CroppedMedium-2.jpg
 draft: false
 author:

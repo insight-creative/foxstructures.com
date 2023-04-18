@@ -2,7 +2,7 @@
 title: "Farming for Education"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/kessler-barn-cover-fox-structures-low.jpg
 draft: false
 author:

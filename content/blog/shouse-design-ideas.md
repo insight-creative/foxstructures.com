@@ -2,7 +2,7 @@
 title: "Shouse Design Examples: Three Beautiful Custom Shouses to Inspire You"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description:
   featured_image: /uploads/swaney-shouse.jpg
 draft: false
 author:

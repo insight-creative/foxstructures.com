@@ -2,7 +2,7 @@
 title: "5 Reasons Storage Buildings Are in High Demand"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/overhead-drone-shot-of-all-storage-buildings-at-cecil-storage-in-green-bay-wi.jpg
 draft: false
 author:

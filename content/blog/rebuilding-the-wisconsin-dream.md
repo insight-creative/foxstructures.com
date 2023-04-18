@@ -2,7 +2,7 @@
 title: "Rebuilding the Wisconsin Dream"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/DogBonestallsfromSturdyBuilt-1.jpg
 draft: false
 author:

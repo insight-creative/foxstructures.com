@@ -2,7 +2,7 @@
 title: "Want to Automate Your Agricultural Buildings? Fox Structures can Help."
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/fox-structures-spring-breeze-dairy-agricultural-construction.jpg
 draft: false
 author:

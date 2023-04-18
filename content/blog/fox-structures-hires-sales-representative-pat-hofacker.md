@@ -2,7 +2,7 @@
 title: "Fox Structures Hires Sales Representative Pat Hofacker"
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/were-building-our-team-cover.jpg
 draft: false
 author:

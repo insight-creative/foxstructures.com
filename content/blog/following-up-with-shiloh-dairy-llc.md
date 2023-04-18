@@ -2,7 +2,7 @@
 title: "Agricultural Construction Built to Last: Follow up with Shiloh Dairy "
 seo:
   page_title:
-  meta_description: A brief description of Hugo Shortcodes
+  meta_description: 
   featured_image: /uploads/shiloh-dairy-new-cover.jpg
 draft: false
 author:
