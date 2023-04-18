@@ -1,22 +1,10 @@
 .post-navigation {
-  padding: $ic-300 0 $ic-300 0;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  border-top: 1px solid $gray;
+  border-top: 1px solid rgba($black, .5);
+}
 
-  @include breakpoint(sm) {
-    flex-direction: row;
-    align-items: center;
-  }
-
-  svg {
-    height: $ic-200;
-    width: $ic-200;
-    stroke: $primary-color;
-    transition: 0.3s ease;
-    margin: 0 $ic-100;
-  }
+.post-navigation__next,
+.post-navigation__prev {
+  padding: $ic-100;
 }
 
 .post-navigation__next a,
@@ -24,19 +12,22 @@
 .post-navigation__back a {
   display: flex;
   text-decoration: none;
-
-  &:hover,
-  &:focus {
-    color: $primary-color;
-
-    svg {
-      stroke: $primary-color;
-    }
-  }
 } 
 
+.post-navigation__next svg,
+.post-navigation__prev svg {
+  position: relative; 
+  top: -1px;
+  transition: $transition;
+}
+
 .post-navigation__next {
-  margin-left: $ic-200;
+  padding-left: $ic-200;
+  border-left: 1px solid rgba($black, .5);
+
+  svg {
+    left: .5rem;
+  }
 
   &:hover,
   &:focus {
@@ -47,7 +38,11 @@
 }
 
 .post-navigation__prev {
-  margin-right: $ic-200;
+  padding-right: $ic-200;
+  
+  svg {
+    right: .5rem;
+  }
 
   &:hover,
   &:focus {

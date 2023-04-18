@@ -4,3 +4,7 @@
     overflow-x: initial;
   }
 }
+
+.parent-page-blog .blog-list .col {
+  flex-basis: calc(min(100%, 400px));
+}

@@ -18,6 +18,10 @@
     color: $black;
 }
 
+.cta h2 {
+    max-inline-size: 100%;
+}
+
 .cta__body {
     max-inline-size: 550px;
     margin-inline: auto;

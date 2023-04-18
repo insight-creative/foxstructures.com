@@ -5,11 +5,12 @@
   background-image: url("/uploads/footer-curves.svg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 
   a {
     color: $white;
     text-decoration: none;
-    display: block;
+    // display: block;
 
     &:hover,
     &:focus {
@@ -22,7 +23,12 @@
   }
 }
 
+.footer .col {
+  flex-basis: calc(min(100%, 250px));
+}
+
 .footer__logo {
+  display: block;
   width: 100%;
   max-width: clamp(150px, 20vw, 250px);
 }
@@ -61,25 +67,6 @@
     margin: 0;
   }
 
-  &__nav {
-    margin: 0;
-    padding: 0;
-
-    @include breakpoint(sm) {
-      flex-direction: row;
-    }
-  }
-
-  &__list-item {
-    list-style-type: none;
-    margin: $ic-100;
-
-    @include breakpoint(md)  {
-      margin: 0;
-      margin-left: $ic--100;
-    }
-  }
-
   p, .credits {
     text-align: center;
 
@@ -92,5 +79,24 @@
     .credits {
       margin-left: auto;
     }
+  }
+}
+
+.copyright__nav {
+  margin: 0;
+  padding: 0;
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+  }
+}
+
+.copyright__list-item {
+  list-style-type: none;
+  margin: $ic-100;
+
+  @include breakpoint(md)  {
+    margin: 0;
+    margin-left: $ic--100;
   }
 }

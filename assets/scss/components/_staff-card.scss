@@ -1,0 +1,50 @@
+.staff-list {
+    position: relative;
+    top: -50px;
+}
+
+.card--staff {
+    position: relative;
+    padding-top: $ic-200;
+    padding-inline: $ic-200;
+    box-shadow: none;
+
+    &:hover, 
+    &:focus {
+        &::after {
+            transform: scaleY(1);
+        }
+    }
+}
+
+.card--staff::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 60%;
+    width: 100%;
+    content: "";
+    background-color: $primary-color;
+    z-index: 1;
+}
+
+.card--staff::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 60%;
+    width: 100%;
+    content: "";
+    background-color: $secondary-color;
+    transition: transform $transition;
+    transform-origin: top;
+    transform: scaleY(0);
+    z-index: 1;
+}
+
+.card--staff .card__image-wrap {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    z-index: 2;
+}

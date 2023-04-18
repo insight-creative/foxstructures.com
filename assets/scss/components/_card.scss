@@ -53,13 +53,19 @@
 
 .card__link::after {
   position: absolute;
-  content: "";
   top: 0;
   left: 0;
+  z-index: 9;
   height: 100%;
   width: 100%;
+  content: "";
 }
 
 .card__content {
   padding: $ic-200;
+}
+
+.card__job-position {
+  color: $secondary-color;
+  margin-block-start: .5rem;
 }

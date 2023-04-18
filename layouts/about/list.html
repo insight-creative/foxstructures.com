@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+{{ partial "intro" . }}
+<div class="wrapper-sm border-left-secondary flow">
+    <p>Today Fox Structures provides design, welding and construction services for all types of agricultural, commercial, retail, light manufacturing and residential buildings. In addition, mini warehouses, storage facilities and special-use buildings have continued to fuel our growth and progress in northeast Wisconsin.</p>
+
+    <p>Browse some of the <a href="/portfolio/">unique projects</a> we’ve built in the past. Then <a href="/contact-us/">contact us</a> and see how <strong><em>we build with you in mind</em></strong>!</p>
+</div>
+<section aria-label="Fox Structures Staff List" class="block">
+    <div class="bg-black">
+        <div class="wrapper-lg">
+            <ul class="staff-list max-width-none auto-grid gap-sm">
+                {{ $staffPages := where .Site.RegularPages "Section" "about" }}
+                {{ range $staffPages }}
+                {{ if strings.HasPrefix .RelPermalink "/about/leadership/" }}
+                    <li class="card card--staff flex flex-column p-relative">
+                        <div class="card__image-wrap">
+                            <img src="{{ .Params.headshot }}" alt="">
+                        </div>
+                        <div class="card__content text-align-center text-color-white">
+                            <h3 class="no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                            <p class="card__job-position font-size-xs shift-up letter-spacing-2 fw-700">{{ .Params.job_position }}</p>
+                        </div>
+                    </li>
+                {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+{{ partial "careers-cta" . }}
+{{ end }}

@@ -3,31 +3,20 @@ title: "Fox Structures Hires Sales Representative Pat Hofacker"
 seo:
   page_title:
   meta_description: A brief description of Hugo Shortcodes
-  featured_image: 
+  featured_image: /uploads/were-building-our-team-cover.jpg
 draft: false
 author:
-date: 2019-03-10
+date: 2021-07-12
 categories:
-  - Shortcodes
-  - Privacy
+  - News
 ---
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+<img src="/uploads/pat-hofacker.jpg">
 
-<!--more-->
+Fox Structures recently hired Pat Hofacker as sales representative. With extensive farming and construction experience, Hofacker will specialize in leading agricultural and commercial projects from initial layout and design to finishing touches.
 
-## YouTube Privacy Enhanced Shortcode
+Hofacker worked for Appleton Papers for over 30 years, first as a millwright, then later as a master mechanic for the boiler house. He simultaneously ran a construction business—P&K Home Improvement, LLC—for 20 years. His career began with the completion of a Millwright apprenticeship from Fox Valley Technical College. Gaining agriculture experience early on, Hofacker worked on his family’s farm most of his life, even throughout his professional career.
 
-{{< youtube ZJthWmvUzzc >}}
+In his new role, Hofacker will be responsible for sales and project management, offering valuable input every step of the way to ensure projects are done on time, within budget and meet the unique needs of each client.
 
-<br>
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+Since 1982, Fox Structures has provided premier design and construction services throughout Northeast Wisconsin. Specializing in agricultural, commercial, retail, light manufacturing and residential buildings, Fox Structures also constructs mini warehouses, storage facilities and special-use buildings. For more information, visit [foxstructures.com](/).

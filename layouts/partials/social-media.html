@@ -1,8 +1,8 @@
-<ul class="social flex flex-center gap-sm">
+<ul class="social flex flex-row flex-column-md flex-center gap-sm">
     {{ range .Site.Data.site_settings.social_media }}
         {{ if .link }}
         <li class="social__list-item">
-            <a href="{{ .link }}" class="social__icon icon-lg {{ .title | lower }}-icon dim" target="_blank" rel="noopener noreferrer">
+            <a href="{{ .link }}" class="social__icon icon-lg icon-fill-secondary {{ .title | lower }}-icon dim" target="_blank" rel="noopener noreferrer">
                 {{ with .title }}
                 {{ $icon_name := printf "svg-icons/%s.svg" (lower .) }}
                 {{ partial $icon_name . }}

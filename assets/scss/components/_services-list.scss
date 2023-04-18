@@ -15,6 +15,10 @@
         transition: opacity .3s ease-in-out;
     }
 
+    .btn {
+        cursor: pointer;
+    }
+
     &:hover, 
     &:focus {
         transform: translateY(-10px);

@@ -11,8 +11,11 @@ seo:
   featured_image:
 hero: 
   enabled: true
-  heading: Blog
+  heading: Fox Structures Blog
   body: 
+  image: 
+    image_url: /uploads/oaks-golf-course-drone-shot.jpg
+    image_alt:
   button:
     enabled: false
     open_in_new_tab: true

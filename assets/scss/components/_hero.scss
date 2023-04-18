@@ -44,27 +44,6 @@
   max-width: 22ch;
 }
 
-.hero {
-  position: relative;
-  height: 300px;
-
-  @include breakpoint(md) {
-    height: 400px; 
-  }
-
-  &__image {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-
-    img {
-      height: 100%;
-      width: 100%;
-      object-fit: cover;
-    }
-  }
-}
-
 .home-hero__controls {
   position: absolute;
   z-index: 3;
@@ -98,4 +77,52 @@
   .pause-icon {
     display: none;
   }
+}
+
+.hero {
+  position: relative;
+  height: 500px;
+
+  @include breakpoint(md) {
+    height: 600px; 
+  }
+}
+
+.hero__content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+}
+.hero__content h1 {
+  max-width: 20ch;
+}
+
+.hero__body {
+  max-width: 500px;
+}
+
+.hero__image {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+.hero__vertical-curves svg {
+  position: absolute;
+  top: 0;
+  right: -145px;
+  z-index: 1;
+  height: 100%;
+}
+
+.hero--short {
+  height: 400px;
 }

@@ -1,13 +1,26 @@
-<section aria-labelledby="{{ .heading | urlize }}" class="intro block">
-  <div class="wrapper flow">
-    {{ partial "heading" . }}
-    {{ if .body }}
-      <p>{{ .body | markdownify }}</p>
-    {{ end }} 
-    {{ if .button.enabled }}
-      {{ with .button }}
-        {{ partial "button-primary" . }}
-      {{ end }}
-    {{ end }}
-  </div>
-</section>
+{{ if .Params.intro.enabled }}
+  {{ with .Params.intro }}
+  <section aria-labelledby="{{ .heading | urlize }}" class="intro block">
+    <div class="grid gap-md wrapper-lg">
+      <div class="grid-12 grid-5-md flow">
+        {{ partial "heading" . }}
+        {{ if .body }}
+          <p>{{ .body | markdownify }}</p>
+        {{ end }} 
+        {{ if .button.enabled }}
+          {{ with .button }}
+            {{ partial "button-primary" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="grid-12 grid-7-md">
+        {{ if .image }}
+            {{ with .image }}
+                {{ partial "responsive-image" . }}
+            {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}

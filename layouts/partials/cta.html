@@ -2,14 +2,16 @@
 <section aria-labelledby="{{ .heading | urlize }}" class="cta bg-white p-relative">
   <div class="cta__wrapper wrapper-md p-relative">
     <div class="bg-secondary text-align-center">
-      <div class="block-md flow">
-        <h2 class="h1 no-margin">{{ .heading }}</h2>
-        <div class="cta__body">{{ .body }}</div>
-        {{ if .button.enabled }}
-          {{ with .button }}
-              {{ partial "button-black" . }}
+      <div class="block-md">
+        <div class="wrapper-sm flow">
+          <h2 class="h1 no-margin">{{ .heading }}</h2>
+          <div class="cta__body">{{ .body }}</div>
+          {{ if .button.enabled }}
+            {{ with .button }}
+                {{ partial "button-black" . }}
+            {{ end }}
           {{ end }}
-        {{ end }}
+        </div>
       </div>
     </div>
   </div>

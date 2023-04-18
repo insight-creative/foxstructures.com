@@ -9,15 +9,19 @@ seo:
   featured_image:
 hero: 
   enabled: true
-  heading: Leadership
-  body: 
+  heading: Fox Structures Leadership Team
+  body: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: 
+    image_url: /uploads/oaks-golf-course-drone-shot.jpg
+    image_alt:
   button:
-    enabled: true
+    enabled: false
     open_in_new_tab: true
     button_url: #
     button_text: Visit Us
   button_2:
-    enabled: true
+    enabled: false
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
