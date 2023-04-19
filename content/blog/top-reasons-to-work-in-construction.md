@@ -8,7 +8,7 @@ draft: false
 author:
 date: 2022-02-23
 categories:
-  - Uncategorized
+  - News
 ---
 
 There’s no denying it. Construction is tough. You have to be willing to get your hands dirty but keep your attitude clean. Brave the weather but exercise caution to stay safe. At times, the work is too busy for breaks, and other times, the breaks outweigh the work. But as one of the nation’s most booming industries, it’s ripe with opportunity. And with the right team, it’s quite rewarding. If you’re thinking about a career in construction, consider our list of top reasons to put on a tool belt and thrive in building.

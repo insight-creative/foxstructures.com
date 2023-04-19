@@ -1,17 +1,17 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Quintessence"
+title = "Fox Structures, Inc."
 enableRobotsTXT = true
 disableAliases = true
 # post pagination
-paginate = "6"
+paginate = "9"
 summaryLength = 30
 
 #################### default parameters ################################
 
 [params]
   minifyBundles = true
-  imgixDomain = "https://stadium-bike.imgix.net"
+  imgixDomain = "https://foxstructures.imgix.net"
 
 # add redirects/headers
   [outputs]

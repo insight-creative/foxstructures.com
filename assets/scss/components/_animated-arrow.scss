@@ -1,0 +1,39 @@
+.animated__arrow {
+  position: relative;
+}
+
+.animated__arrow-body {
+  position: absolute;
+  height: 2px;
+  width: 30px;
+  top: 9px;
+  right: 0;
+  opacity: 0;
+  transition: $transition;
+  background-color: $black;
+  transform: translateX(-20px);
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: $black;
+    height: 2px;
+    width: 0;
+    opacity: 0;
+    transition: 0.2s ease-out;
+    transition-delay: 0.2s;
+  }
+
+  &::before {
+    transform-origin: bottom right;
+    transform: rotate(-40deg);
+  }
+
+  &::after {
+    transform-origin: top right;
+    transform: rotate(40deg);
+  }
+}

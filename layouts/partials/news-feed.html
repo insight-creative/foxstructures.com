@@ -1,0 +1,18 @@
+<section aria-label="The Latest Fox Structures News" class="block bg-white">
+    <div class="wrapper-lg">
+        <h2 class="text-align-center">The Latest Fox Structures News</h2>
+        <div class="block-md">
+            {{ $pages := .Site.RegularPages }}
+            {{ $blog := where $pages "Type" "blog" }}
+            {{ $newsBlog := where $blog "Params.categories" "intersect" (slice "News") }}
+            <div class="columns gap-sm">
+                {{- range first 3 $newsBlog -}}
+                    {{ .Render "blog-card" }}
+                {{- end -}}
+            </div>
+        </div>
+        <div class="text-align-center">
+            <a href="/blog/" class="btn btn--secondary">View All Posts</a>
+        </div>
+    </div>
+</section>

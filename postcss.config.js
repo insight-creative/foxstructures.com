@@ -25,6 +25,7 @@ module.exports = {
         'parent-page-about',
         'parent-page-contact',
         'parent-page-blog',
+        'parent-page-careers',
         'active-button',
         'position-open',
         'list-open',

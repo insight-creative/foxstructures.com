@@ -11,7 +11,7 @@ hero:
   enabled: true
   heading: Fox Structures Leadership Team
   body: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Since 1982 Fox Structures has focused on two things: listening to customers and delivering what we promise.
   image: 
     image_url: /uploads/oaks-golf-course-drone-shot.jpg
     image_alt:

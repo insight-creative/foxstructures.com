@@ -1,6 +1,8 @@
 @include breakpoint (md) {
   .parent-page-blog,
-  .parent-page-blog .site-wrap {
+  .parent-page-blog .site-wrap,
+  .parent-page-careers,
+  .parent-page-careers .site-wrap {
     overflow-x: initial;
   }
 }

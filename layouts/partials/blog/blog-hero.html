@@ -3,20 +3,29 @@
   <div class="wrapper-lg columns gap-lg">
       <div class="col">
         <div class="flow">
-          <a href="/blog/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all posts</a>
+          {{ if eq .Section "blog" }}
+            <a href="/blog/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all posts</a>
+          {{ else if eq .Section "careers" }}
+            <a href="/careers/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all positions</a>
+          {{ end }}
           <h1>{{ .Title | markdownify }}</h1>
           <div class="columns-two-thirds-left gap-sm">
             <div class="col flex flex-wrap gap-sm">
               {{ if .Params.Categories }}
                 {{ range (.GetTerms "categories") }}
-                  <a href="{{ .Permalink }}" class="btn btn--secondary btn--category" aria-label="View all {{ .Page.Title }} posts">{{ .LinkTitle }}</a>
+                  <a class="btn btn--secondary btn--category" href="{{ .Permalink }}" aria-label="View all {{ .Page.Title }} posts">{{ .LinkTitle }}</a>
                 {{ end }}
               {{ end }}
+              {{ if eq .Section "careers" }}
+                <a class="btn btn--secondary" href="/apply/">Apply Now</a>
+              {{ end }}
             </div>
+            {{ if eq .Section "blog" }}
             <div class="reading-time col flex">
               <div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/clock.svg" . }}</div>
               <div class="font-size-xs text-color-white"> {{ .ReadingTime }} min read</div>
             </div>
+            {{ end }}
           </div>
         </div>
       </div>

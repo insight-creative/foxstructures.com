@@ -14,10 +14,14 @@
         {{ end }}
       </div>
       <div class="grid-12 grid-7-md">
-        {{ if .image }}
-            {{ with .image }}
-                {{ partial "responsive-image" . }}
-            {{ end }}
+        {{ if .video }}
+          {{ .video | safeHTML }}
+        {{ else }}          
+          {{ if .image }}
+              {{ with .image }}
+                  {{ partial "responsive-image" . }}
+              {{ end }}
+          {{ end }}
         {{ end }}
       </div>
     </div>

@@ -3,23 +3,15 @@ title: Experienced Building Foreman/Supervisor
 seo:
   page_title:
   meta_description:
-  featured_image:
-hero: 
-  enabled: true
-  heading: Experienced Building Foreman/Supervisor
-  body: 
-  button:
-    enabled: true
-    open_in_new_tab: true
-    button_url: #
-    button_text: Visit Us
-  button_2:
-    enabled: true
-    open_in_new_tab: false
-    button_url: #
-    button_text: Contact Us
+  featured_image: /uploads/fox-structures-build-project.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
+**Position Summary**: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff. Accomplishes construction human resource objectives by orienting, training, assigning, scheduling, coaching, counseling, and disciplining employees; communicating job expectations; planning, monitoring, appraising job contributions; adhering to policies and procedures. Ability to read blueprints, plans, specifications received for project (steel frame and/or wood frame metal clad buildings) to determine work activities, materials and scheduling. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Meeting operational standards by contributing construction information to strategic plans and reviews; implementing production, productivity, quality, and customer-service standards; resolving problems; identifying construction management system improvements. Performing other duties as assigned by management.
 
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+**Skills/Qualifications**: Project Management, Quality Management, Supervision, Delegation, Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Strong Work Ethic, Problem Solving Skills, Technical Skills, Dependability, Initiative, Professionalism. Experience in building erection and job site management is required.
+
+**Benefits**: Fox Structures offers many great benefits such as health insurance, vacation pay, holiday pay, 401(k), life insurance, short-term disability, AD&D and profit-sharing. As a growing company, our experienced team is willing to train and there are opportunities to advance. In addition, Fox Structures is a local company with local jobs—no overnight travel!
+
+**Pay Range**: Fox Structures offers competitive pay. Wages vary based on experience.
+
+**Hours per week**: 40-60 average

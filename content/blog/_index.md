@@ -14,7 +14,7 @@ hero:
   heading: Fox Structures Blog
   body: 
   image: 
-    image_url: /uploads/oaks-golf-course-drone-shot.jpg
+    image_url: /uploads/fox-structures-custom-building-plans.jpg
     image_alt:
   button:
     enabled: false
