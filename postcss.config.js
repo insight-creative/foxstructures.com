@@ -46,6 +46,7 @@ module.exports = {
         'blog--grid',
         'video-playing',
         'video-paused',
+        'swiper-slide-thumb-active',
       ],
     }),
   ],

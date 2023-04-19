@@ -11,7 +11,7 @@ gallery:
       image_url: /uploads/temme-residential-construction-cover.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-2.jpg
+      image_url: /uploads/temme-residential-construction-exterior-1.jpg
       image_alt:
   - image: 
       image_url: /uploads/temme-residential-construction-exterior-2.jpg

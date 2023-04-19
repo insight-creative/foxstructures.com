@@ -118,11 +118,8 @@ var swiper = new Swiper(".projectSwiper", {
 
 var thumbnailSwiper = new Swiper(".thumbnailSwiper", {
   grabCursor: true,
-  loop: true,
   spaceBetween: 10,
   slidesPerView: 4,
-  freeMode: true,
-  watchSlidesProgress: true,
 });
 var gallerySwiper = new Swiper(".gallerySwiper", {
   grabCursor: true,
