@@ -2,9 +2,8 @@
 {{ partial "hero" . }}
 {{ partial "breadcrumbs" . }}
 <section class="block">
-  <div class="wrapper-lg flex flex-justify-between">
-    {{ partial "blog/category-filter" . }}
-    {{ partial "blog/layout-toggle" . }}
+  <div class="wrapper-lg">
+    {{ partial "category-filter" . }}
   </div>
   <ul class="blog--list wrapper-lg gap-md">
     {{ range .Paginator.Pages.ByDate.Reverse }}

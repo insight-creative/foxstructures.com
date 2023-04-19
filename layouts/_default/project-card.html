@@ -1,0 +1,20 @@
+<li class="card flex flex-column p-relative col">
+    {{ if .Params.sectors }}
+	<div class="card__meta">
+		{{ range (.GetTerms "sectors") }}
+			<a href="{{ .Permalink }}" class="btn btn--secondary btn--category" aria-label="View all {{ .LinkTitle }} posts">{{ .LinkTitle }}</a>
+		{{ end }}
+	</div>
+	{{ end }}
+    <div class="card__image-wrap p-relative cover-image">
+        {{ if .Params.seo.featured_image }}
+            <img src="{{ .Params.seo.featured_image }}" alt="" class="card__img dim">
+            <div class="overlay overlay--yellow-gradient">
+                <div class="btn btn--secondary" aria-label="Learn more about Fox Structures' {{ .Title }} Services">Learn More</div>
+            </div>
+        {{  end }}
+    </div>
+    <div class="card__content bg-white">
+        <h3 class="h4"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    </div>
+</li>

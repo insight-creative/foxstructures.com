@@ -113,3 +113,32 @@ var swiper = new Swiper(".projectSwiper", {
     nextSlideMessage: "Next slide",
   },
 });
+
+
+
+var thumbnailSwiper = new Swiper(".thumbnailSwiper", {
+  grabCursor: true,
+  loop: true,
+  spaceBetween: 10,
+  slidesPerView: 4,
+  freeMode: true,
+  watchSlidesProgress: true,
+});
+var gallerySwiper = new Swiper(".gallerySwiper", {
+  grabCursor: true,
+  loop: true,
+  keyboard: {
+    enabled: true,
+  },
+  pagination: {
+    el: ".swiper-pagination",
+    type: "fraction",
+  },
+  a11y: {
+    prevSlideMessage: "Previous slide",
+    nextSlideMessage: "Next slide",
+  },
+  thumbs: {
+    swiper: thumbnailSwiper,
+  },
+});

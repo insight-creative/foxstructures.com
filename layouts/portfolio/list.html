@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+<section aria-label="Blog Post List" class="blog-list block">
+  <div class="wrapper-lg">
+    {{ partial "category-filter" . }}
+  </div>
+  <ul class="columns wrapper-lg gap-md">
+    {{ $portfolio := .Paginate (where .Site.RegularPages "Section" "portfolio") }}
+    {{ range $portfolio.Pages }}
+        {{ .Render "project-card" }}
+    {{ end }}
+  </ul>
+  {{ partial "blog/custom-pagination.html" . }}
+</section>
+{{ end }}

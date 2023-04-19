@@ -32,6 +32,11 @@
         position: relative;
         top: -100px;
     }
+
+    img {
+        max-height: 350px;
+        object-fit: cover;
+    }
 }
 
 .join-our-team__content {

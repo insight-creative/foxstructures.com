@@ -13,7 +13,7 @@ hero:
   enabled: true
   heading: Fox Structures—Experts at Building Success.
   body: >-
-    Since 1982 Fox Structures has focused on two things: listening to customers and delivering what we promise.
+    Providing the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.
   image: 
     image_url: /uploads/oaks-golf-course-drone-shot.jpg
     image_alt:

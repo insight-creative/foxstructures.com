@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "portfolio/hero" . }}
+{{ partial "breadcrumbs" . }}
+<section aria-label="Blog Post Content Body" class="block">
+    <div class="post-content wrapper-sm flex flex-column-reverse flex-row-md">
+
+        <div class="w-100 w-80-md">
+            <article class="flow">
+                {{ .Content  }}
+            </article>
+        </div>
+    </div>
+</section>
+{{ partial "post-navigation" . }}
+{{ end }}

@@ -43,3 +43,20 @@ summaryLength = 30
 
 [markup.goldmark.renderer]
   unsafe= true
+
+[taxonomies]
+  category = 'categories'
+  sector = 'sectors'
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[[related.indices]]
+  name = "sectors"
+  weight = 100

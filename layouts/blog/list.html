@@ -2,8 +2,8 @@
 {{ partial "hero" . }}
 {{ partial "breadcrumbs" . }}
 <section aria-label="Blog Post List" class="blog-list block">
-  <div class="wrapper-lg flex flex-justify-between">
-    {{ partial "blog/category-filter" . }}
+  <div class="wrapper-lg">
+    {{ partial "category-filter" . }}
   </div>
   <ul class="columns wrapper-lg gap-md">
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "blog") }}

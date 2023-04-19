@@ -52,10 +52,12 @@
   z-index: 2;
 }
 
-.careers-card__content,
-.careers-card__heading,
-.careers-card__details {
-  width: 100%;
+.careers-card__content {
+  inline-size: 100%;
+}
+
+.careers-card__heading {
+  max-inline-size: 28ch;
   transition: $transition;
 }
 
