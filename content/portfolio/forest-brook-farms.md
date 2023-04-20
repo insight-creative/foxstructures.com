@@ -6,13 +6,66 @@ seo:
   featured_image: /uploads/forest-Brook-Farms-new-cover.jpg
 featured: true
 weight: 2
+gallery: 
+  - image: 
+      image_url: /uploads/forest-brook-farms-7.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-6.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-5.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-8.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-3.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-4.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-9.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-10.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-1.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/forest-brook-farms-2.jpg
+      image_alt:
+project_features: >-
+  - Industrial wash bay
+  
+  - Original rustic design
+  
+  - Custom fabricated staircase
+  
+  - Hand crafted windows and beams
+specs: >-
+  - 80’ x 280’ shop, wash bay and storage
+
+  - 28’ X 54’ office and employee lounge
+location:
+  street: N4897 HWY 57
+  city: Chilton
+  state: WI
+  zip: 53014
 quote:
-  quote_short: “Alex, Dan, Jesse, Tim and all the rest of the guys were great to work with. Jesse’s craftsmanship on the window sliders and beams was amazing and Tim’s fabrication of the stair railings were spot on. I’d recommend Fox Structures without hesitation.”
-  quote_full:
+  quote_short: >-
+    “Alex, Dan, Jesse, Tim and all the rest of the guys were great to work with. Jesse’s craftsmanship on the window sliders and beams was amazing and Tim’s fabrication of the stair railings were spot on. I’d recommend Fox Structures without hesitation.”
+  quote_full: >-
+    “Jason put in a lot of long days and nights in the planning stages. Through the process Jason wasn’t just our contractor—he also became a good friend. Alex, Dan, Jesse, Tim and all the rest of the guys were great to work with. Jesse’s craftsmanship on the window sliders and beams was amazing and Tim’s fabrication of the stair railings were spot on. I’d recommend Fox Structures without hesitation.”
   name: Jay Juckem
   position: Owner, Forest Brook Farms
+video_embed: >-
+
+sectors:
+  - Agricultural
+related_projects: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
-
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Fox Structures collaborated with the owner of Forest Brook Farms to design two unique multi-purpose buildings for their farm in Chilton. The first includes a shop, storage room and a sizable wash bay with capacity for multiple semis or large farm equipment, plus a service pit. The second features an employee lounge, work out area and office that can convert to living space.

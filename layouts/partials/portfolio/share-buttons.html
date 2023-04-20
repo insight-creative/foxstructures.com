@@ -1,0 +1,22 @@
+<ul class="flex gap-sm flex-center list-style-none">
+    <li>
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" title="Share on Facebook" target="_blank" class="icon-lg icon-fill-black">
+            {{ partial "svg-icons/facebook.svg" . }}
+        </a>
+    </li>
+    <li>
+        <a href="https://twitter.com/intent/tweet?source={{ .Permalink }}" target="_blank" title="Tweet" class="icon-lg icon-fill-black">
+            {{ partial "svg-icons/twitter.svg" . }}
+        </a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}" target="_blank" title="Share on LinkedIn" class="icon-lg icon-fill-black">
+            {{ partial "svg-icons/linkedin.svg" . }}
+        </a>
+    </li>
+    <li>
+        <a href="mailto:?subject=&body={{ .Permalink }}" target="_blank" title="Send email" class="icon-lg icon-fill-black">
+            {{ partial "svg-icons/email.svg" . }}
+        </a>
+    </li>
+</ul>

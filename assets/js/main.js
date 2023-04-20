@@ -127,6 +127,10 @@ var gallerySwiper = new Swiper(".gallerySwiper", {
   keyboard: {
     enabled: true,
   },
+  autoplay: {
+    delay: 6000,
+    disableOnInteraction: false,
+  },
   pagination: {
     el: ".swiper-pagination",
     type: "fraction",

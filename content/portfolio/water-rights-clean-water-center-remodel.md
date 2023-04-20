@@ -3,16 +3,50 @@ title: Water-Right’s Clean Water Center Remodel
 seo:
   page_title:
   meta_description:
-  featured_image: /uploads/Commercial-Construction-Water-Right’s-Clean-Water-Center-Remodel-Small.jpg
+  featured_image: /uploads/clean-water-1.jpg
 featured: true
 weight: 3
+gallery: 
+  - image: 
+      image_url: /uploads/clean-water-1.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/clean-water-2.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/clean-water-3.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/clean-water-5.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/clean-water-6.jpg
+      image_alt:
+project_features: >-
+  - Complete renovation of existing structure
+  
+  - Open steel frame construction
+  
+  - Attractive, modern appearance and highly functional space
+specs: >-
+
+location:
+  street: 1990 Prospect Court
+  city: Appleton
+  state: WI
+  zip: 54914
 quote:
-  quote_short: “As our company changed, we realized we needed to remodel. There’s a comfort level working with Fox Structures, because they know what they’re doing, and they simplify the building process so you don’t need to sweat every detail.“
-  quote_full:
+  quote_short: >-
+    “As our company changed, we realized we needed to remodel. There’s a comfort level working with Fox Structures, because they know what they’re doing, and they simplify the building process so you don’t need to sweat every detail.“
+  quote_full: >-
+    “As our company changed, we realized we needed to remodel. There’s a comfort level working with Fox Structures, because they know what they’re doing, and they simplify the building process so you don’t need to sweat every detail. The biggest challenge was that our daily operations were going on throughout the remodel. Fox Structures had to reroute the plumbing and computer lines and it had to be done in stages so it didn’t impede workflow. They also needed to bring in some “big steel” and move it around our showroom after hours, without breaking anything. They did a great job! All of the guys were good to work with and if you had questions they took time to answer. I wouldn’t hesitate to recommend Fox Structures.”
   name: Michael Hanten
   position: General Manager, Water-Right’s Clean Water Center
+video_embed: >-
+
+sectors:
+  - Commercial
+related_projects: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
-
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Water-Right’s Clean Water Center has conducted residential and commercial water testing, and provided clean water solutions, since 2003. Over the years, they’ve turned to Fox Structures for their building needs. When their main facility—built in 2010—needed a big remodel, they called Fox Structures once again. Fox Structures gutted most of the building, added a second story, renovated the showroom, added on to the state-certified lab, opened up the work area and added 15 office, sales and lab work stations. In addition to more space and better workflow, the structure’s impressive open steel framing and glass give it a real WOW factor!

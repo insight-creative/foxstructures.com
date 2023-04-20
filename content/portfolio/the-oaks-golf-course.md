@@ -3,16 +3,52 @@ title: The Oaks Golf Course
 seo:
   page_title:
   meta_description:
-  featured_image: /uploads/oaks-golf-club-exterior-large.jpg
+  featured_image: /uploads/oaks-golf-course-1.jpg
 featured: true
 weight: 3
+gallery: 
+  - image: 
+      image_url: /uploads/oaks-golf-course-1.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/oaks-golf-course-2.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/oaks-golf-course-3.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/oaks-golf-course-4.jpg
+      image_alt:
+  - image: 
+      image_url: /uploads/oaks-golf-course-5.jpg
+      image_alt:
+project_features: >-
+  - Space-saving Amish barn doors
+  
+  - Pre-cast concrete flooring for storage
+  
+  - Standing seam metal roof with asphalt shingles
+specs: >-
+  - 1,536 sq. foot remodel of 6,517 sq. foot building
+  
+  - 780 sq. foot Pro Shop addition
+location:
+  street: 4740 Pierceville Rd
+  city: Cottage Grove
+  state: WI
+  zip: 53527
 quote:
-  quote_short: “We have used Fox Structures for other projects in the past, and they have always produced quality work. They were the original builders of our clubhouse, and have always stood behind their work, so it seemed like a no-brainer to bring them on for our addition.“
-  quote_full:
+  quote_short: >-
+    “We have used Fox Structures for other projects in the past, and they have always produced quality work. They were the original builders of our clubhouse, and have always stood behind their work, so it seemed like a no-brainer to bring them on for our addition.“
+  quote_full: >-
+    “We have used Fox Structures for other projects in the past, and they have always produced quality work. They were the original builders of our clubhouse, and have always stood behind their work, so it seemed like a no-brainer to bring them on for our addition. Everyone at Fox Structures was always available and quick to answer questions and handle changes or issues with the job. They are so easy to work with—we have already called them for another small project. I would absolutely recommend them to others.”
   name: Jessica Blaska-Grady
   position: Manager, The Oaks Golf Course
+video_embed: >-
+
+sectors:
+  - Commercial
+related_projects: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
-
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Fox Structures collaborated with the owners of The Oaks Golf Course in Cottage Grove to convert their existing retail space into a new office and basement storage area. The remodel also included an approximate 1,500-square-foot addition to the clubhouse Fox Structures built in 2004. As the builders of the original clubhouse, they were able to perfectly match all materials for a beautiful, seamless interior and exterior appearance. Fox Structures kept the work site clean and professional so the clubhouse could remain open for business during construction.

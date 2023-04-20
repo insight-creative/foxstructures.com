@@ -1,4 +1,4 @@
-<section aria-labelledby="hero-heading" class="portfolio-hero p-relative">
+<section aria-labelledby="hero-heading" class="hero-portfolio p-relative">
     <div class="swiper gallerySwiper">
         <div class="swiper-wrapper">
             {{ if .Params.gallery }}
@@ -9,31 +9,33 @@
                 {{ end }}
             {{ end }}
         </div>
-        <div class="swiper-pagination fw-700 font-size-xs"></div>
     </div>
     <img class="portfolio__curve p-absolute" src="/uploads/portfolio-curves.svg" alt="">
-    <div class="portfolio-hero__content grid gap-sm wrapper-lg p-absolute">
-        <div class="grid-12 grid-5-md">
-            <p class="portfolio-hero__location shift-up letter-spacing-2 font-size-xs fw-700 no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
+    <div class="hero-portfolio__content grid gap-sm wrapper-lg p-absolute">
+        <div class="grid-12 grid-6-md">
+            <p class="hero-portfolio__location opacity-80 shift-up letter-spacing-2 font-size-xs fw-700 no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
             <h1 id="hero-heading" class="h2 no-margin shift-up letter-spacing-2">{{ .Title }}</h1>
         </div>
-        <div thumbsSlider="" class="swiper thumbnailSwiper grid-12 grid-7-md">
-            <div class="swiper-wrapper">
-                {{ if .Params.gallery }}
-                    {{ range .Params.gallery }}
-                    <div class="swiper-slide">
-                        <picture>
-                            <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=75&width=100&height=100&fit=crop" type="image/avif">
-                        
-                            <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=75&width=100&height=100&fit=crop" type="image/webp">
-                        
-                            <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=75&width=100&height=100&fit=crop" type="image/jpg">
-                        
-                            <img src="{{ .image.image_url }}" alt="{{ .image.image_alt }}" width="100" height="100">   
-                        </picture>
-                    </div>
+        <div class="grid-12 grid-6-md">
+            <div class="flex shift-up fw-700 font-size-xs letter-spacing-2 opacity-80">Gallery (<div class="swiper-pagination fw-700 font-size-xs">Gallery</div>)</div>
+            <div thumbsSlider="" class="swiper thumbnailSwiper">
+                <div class="swiper-wrapper">
+                    {{ if .Params.gallery }}
+                        {{ range .Params.gallery }}
+                        <div class="swiper-slide">
+                            <picture>
+                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=75&width=100&height=100&fit=crop" type="image/avif">
+                            
+                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=75&width=100&height=100&fit=crop" type="image/webp">
+                            
+                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=75&width=100&height=100&fit=crop" type="image/jpg">
+                            
+                                <img src="{{ .image.image_url }}" alt="{{ .image.image_alt }}" width="100" height="100">   
+                            </picture>
+                        </div>
+                        {{ end }}
                     {{ end }}
-                {{ end }}
+                </div>
             </div>
         </div>
     </div>

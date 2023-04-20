@@ -15,7 +15,7 @@
                         <div class="col swiper-slider__project-quote">
                             <h2>{{ .Title }}</h2>
                             <blockquote class="flow p-relative">
-                                {{ partialCached "svg-icons/quote-icon.svg" . }}
+                                <div class="icon-fill-primary">{{ partialCached "svg-icons/quote-icon.svg" . }}</div>
                                 <p>{{ .Params.quote.quote_short }}</p>
                                 <p>
                                     <span class="fw-600">{{ .Params.quote.name }}</span><br>

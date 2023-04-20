@@ -1,15 +1,69 @@
 {{ define "main" }}
 {{ partial "portfolio/hero" . }}
 {{ partial "breadcrumbs" . }}
-<section aria-label="Blog Post Content Body" class="block">
-    <div class="post-content wrapper-sm flex flex-column-reverse flex-row-md">
-
-        <div class="w-100 w-80-md">
-            <article class="flow">
-                {{ .Content  }}
-            </article>
+<section aria-label="{{ .Title }} Project Overview" class="block">
+    <div class="wrapper-lg grid gap-sm">
+        <div class="project-overview grid-12 grid-8-md flow">
+            <h2>Project Overview</h2>
+            {{ .Content  }}
+            {{ if .Params.project_features }}
+            <h2>Project Features</h2>
+            <div>{{ .Params.project_features | markdownify }}</div>
+            {{ end }}
+        </div>
+        <div class="project-details grid-12 grid-4-md flow bg-secondary">
+            <h2>Project Details</h2>
+            {{ if .Params.sectors }}
+                <div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Type</div>
+                    {{ range (.GetTerms "sectors") }}
+                        <a href="{{ .Permalink }}" class="" aria-label="View all {{ .LinkTitle }} posts">{{ .LinkTitle }}</a>
+                    {{ end }}
+                </div>
+            {{ end }}
+            {{ if .Params.location }}
+                <div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Location</div>
+                    <address>
+                        <p>
+                            {{ .Params.location.street }}<br>
+                            {{ .Params.location.city }}, {{ .Params.location.state }} {{ .Params.location.zip }}
+                        </p>
+                    </address>
+                </div>
+            {{ end }}
+            {{ if .Params.specs }}
+                <div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Specs</div>
+                    <div>{{ .Params.specs | markdownify }}</div>
+                </div>
+            {{ end }}
+            <div class="project-share-buttons">
+                <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Share</div>
+                {{ partial "portfolio/share-buttons" . }}
+            </div>
         </div>
     </div>
+    {{ if .Params.video_embed }} 
+    <div class="block-sm">
+        <div class="wrapper-md">
+            {{ .Params.video_embed | safeHTML }}
+        </div>
+    </div>
+    {{ end }}
 </section>
+{{ if .Params.quote }}    
+<div class="block bg-primary">
+    <div class="testimonial wrapper-md flow">
+        <div class="testimonial__icon icon-xxl icon-fill-white">{{ partialCached "svg-icons/quote-icon.svg" . }}</div>
+        <div class="text-color-white font-size-md">{{ .Params.quote.quote_full | markdownify }}</div>
+        <div>
+            <div class="text-align-center text-color-white fw-600">{{ .Params.quote.name | markdownify }}</div>
+            <div class="testimonial__job-position text-align-center text-color-secondary">{{ .Params.quote.position | markdownify }}</div>
+        </div>
+    </div>
+</div>
+{{ end }}
+{{ partial "portfolio/related-posts" . }}
 {{ partial "post-navigation" . }}
 {{ end }}

@@ -1,0 +1,16 @@
+{{ $related := .Site.RegularPages.RelatedIndices . "sectors" | first 3 }}
+{{ with $related }}
+<div class="block">
+    <div class="related-posts wrapper-lg flow">
+        <div class="flex flex-justify-between">
+            <h2 class="no-margin">Explore Similar Projects</h2>
+            <a href="/portfolio/" class="btn btn--secondary">View all Projects</a>
+        </div>
+        <ul aria-label="Related Projects List" class="related-posts__list columns gap-sm max-width-none">
+            {{ range . }}
+            {{ .Render "project-card" }}
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}
