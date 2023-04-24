@@ -1,5 +1,6 @@
 .project-details {
     padding: $ic-600 $ic-400;
+    height: fit-content;
 }
 
 .project-details__label {
@@ -17,4 +18,8 @@
 
 .project-share-buttons li {
     margin-block-start: 0;
+}
+
+.parent-page-portfolio .portfolio-list .col {
+    flex-basis: calc(min(100%, 400px));
 }

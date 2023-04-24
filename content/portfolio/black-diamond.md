@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/black-diamond-1.jpg
+date: 2020-08-13T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/black-diamond-1.jpg

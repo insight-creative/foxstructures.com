@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/westside-fondy-storage-1.jpg
+date: 2022-09-12T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/westside-fondy-storage-3.jpg

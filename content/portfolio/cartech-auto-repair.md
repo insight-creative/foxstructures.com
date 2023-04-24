@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/cartech-1.jpg
+date: 2021-11-23T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/cartech-1.jpg

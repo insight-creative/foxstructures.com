@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/dean-horse-arena-1.jpg
+date: 2022-01-28T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/dean-horse-arena-1.jpg

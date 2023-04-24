@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/valley-christian-school-1.jpg
+date: 2021-06-25T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/valley-christian-school-1.jpg

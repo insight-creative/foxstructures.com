@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/plum-creek-dairy-1.jpg
+date: 2021-12-13T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/plum-creek-dairy-1.jpg

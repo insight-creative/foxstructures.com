@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/appleton-northeast-storage-1.jpg
+date: 2021-03-18T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/appleton-northeast-storage-1.jpg

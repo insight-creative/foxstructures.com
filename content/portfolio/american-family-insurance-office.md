@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/american-family-insurance-1.jpg
+date: 2021-02-19T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/american-family-insurance-1.jpg

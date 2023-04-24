@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/waldron-sports-facility-10.jpg
+date: 2020-07-07T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/waldron-sports-facility-1.jpg

@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/speedy-clean-1.jpg
+date: 2022-05-10T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/speedy-clean-1.jpg

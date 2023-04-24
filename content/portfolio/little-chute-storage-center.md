@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/little-chute-storage-1.jpg
+date: 2020-04-10T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/little-chute-storage-1.jpg

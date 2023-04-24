@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/redtail-ridge-dairy-1.jpg
+date: 2020-10-26T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/redtail-ridge-dairy-1.jpg

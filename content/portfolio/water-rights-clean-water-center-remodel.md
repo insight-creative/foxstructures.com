@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/clean-water-1.jpg
+date: 2019-11-24T07:00:00Z
 featured: true
 weight: 3
 gallery: 

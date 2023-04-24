@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/two-guernsey-girls-1.jpg
+date: 2021-08-16T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/two-guernsey-girls-1.jpg

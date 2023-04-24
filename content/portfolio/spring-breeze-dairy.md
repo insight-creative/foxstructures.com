@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/spring-breeze-dairy-1.jpg
+date: 2022-02-24T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/spring-breeze-dairy-1.jpg

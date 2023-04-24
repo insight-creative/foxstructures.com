@@ -23,6 +23,8 @@ module.exports = {
         'page-contact',
         'parent-page-home',
         'parent-page-about',
+        'parent-page-construction-sevices',
+        'parent-page-portfolio',
         'parent-page-contact',
         'parent-page-blog',
         'parent-page-careers',

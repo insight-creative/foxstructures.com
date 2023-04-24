@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/c3-remodel-1.jpg
+date: 2021-10-14T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/c3-remodel-1.jpg

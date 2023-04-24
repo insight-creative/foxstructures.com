@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/amcor-1.jpg
+date: 2022-01-05T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/amcor-1.jpg

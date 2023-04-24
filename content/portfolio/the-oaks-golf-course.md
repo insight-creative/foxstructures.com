@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/oaks-golf-course-1.jpg
+date: 2019-11-20T07:00:00Z
 featured: true
 weight: 3
 gallery: 

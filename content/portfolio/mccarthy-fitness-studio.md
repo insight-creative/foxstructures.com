@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/mycarthy-gym-1.jpg
+date: 2020-09-10T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/mycarthy-gym-1.jpg

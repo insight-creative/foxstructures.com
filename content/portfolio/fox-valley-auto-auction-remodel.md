@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/fox-valley-auto-auction-cover-1.jpg
+date: 2022-11-30T07:00:00Z
 gallery: 
   - image: 
       image_url: /uploads/fox-valley-auto-auction-1.jpg
@@ -48,5 +49,13 @@ If you’ve ever driven on HWY 41 heading towards Green Bay, you’ve no doubt s
 The commercial construction team completed various metal building alterations,  modernized the exterior and gave the entire commercial building the upgrade it needed.
 
 <div>
-{{< responsive-image image_url="/uploads/fox-valley-auto-auction-before-after.jpg" image_alt="" >}}
-</div> 
+<picture>
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=avif&amp;q=75&amp;width=400&amp;height=267 400w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=avif&amp;q=75&amp;width=600&amp;height=400 600w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=avif&amp;q=75&amp;w=800&amp;h=533 800w" type="image/avif">
+
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=webp&amp;q=75&amp;width=325&amp;height=267 400w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=webp&amp;q=75&amp;width=600&amp;height=400 600w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=webp&amp;q=75&amp;w=800&amp;h=533 800w" type="image/webp">
+
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=jpg&amp;q=75&amp;width=325&amp;height=250 400w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=jpg&amp;q=75&amp;width=600&amp;height=400 600w, https://foxstructures.imgix.net/uploads/fox-valley-auto-auction-before-after.jpg?fm=jpg&amp;q=75&amp;w=800&amp;h=533 800w" type="image/jpg">
+
+  <img src="/uploads/fox-valley-auto-auction-before-after.jpg" width="600" height="450" alt="">   
+</picture>
+</div>
