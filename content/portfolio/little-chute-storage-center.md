@@ -18,15 +18,6 @@ gallery:
       image_url: /uploads/little-chute-storage-4.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-5.jpg
-      image_alt:
-  - image: 
-      image_url: /uploads/little-chute-storage-6.jpg
-      image_alt:
-  - image: 
-      image_url: /uploads/little-chute-storage-7.jpg
-      image_alt:
-  - image: 
       image_url: /uploads/little-chute-storage-8.jpg
       image_alt:
   - image: 
@@ -43,9 +34,6 @@ gallery:
       image_alt:
   - image: 
       image_url: /uploads/little-chute-storage-13.jpg
-      image_alt:
-  - image: 
-      image_url: /uploads/little-chute-storage-14.jpg
       image_alt:
 project_features: >-
   - Covered entrances
