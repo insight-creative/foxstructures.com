@@ -8,21 +8,28 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/concrete-placeholder-small.jpg
-short_description: Thanks to our merger with R&R Concrete, our team can complete large-scale concrete projects faster and more precisely than ever.
+sector: Concrete
 hero: 
   enabled: true
   heading: Concrete
-  body: 
+  body: Thanks to our merger with R&R Concrete, our team can complete large-scale concrete projects faster and more precisely than ever.
+  image: 
+    image_url: /uploads/redtail-ridge-dairy-1.jpg
+    image_alt: 
   button:
     enabled: true
-    open_in_new_tab: true
-    button_url: #
-    button_text: Visit Us
+    open_in_new_tab: false
+    button_url: /sectors/agricultural/
+    button_text: See Our Work
   button_2:
-    enabled: true
+    enabled: false
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: Redtail Ridge Dairy
+    url: /portfolio/redtail-ridge-dairy/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.

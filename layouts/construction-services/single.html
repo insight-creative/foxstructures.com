@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+<div class="block">
+    <div class="wrapper-sm flow">
+        {{ .Content }}
+    </div>
+</div>
+<section aria-label="Portfolio List" class="portfolio-list block bg-gray">
+    <div class="wrapper-lg flow">
+        <h2 class="no-margin">Latest {{ .Title }} Projects</h2>        
+        <ul class="cards max-width-none grid-columns-3">
+            {{ if .Params.sector }}
+                {{ $currentSector := .Params.sector }}
+                {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
+                {{ $sectorPortfolio := where $portfolio ".Params.sectors" "intersect" (slice $currentSector) }}
+    
+                {{ range first 3 (sort $sectorPortfolio "Date" "desc") }}
+                    {{ .Render "project-card" }}
+                {{ end }}
+            {{ end }}
+        </ul>
+        <div class="text-align-center">
+            <a href="/portfolio/" class="btn btn--secondary">View all Projects</a>
+        </div>
+    </div>
+  </section>
+{{ partial "cta" . }}
+{{ end }}

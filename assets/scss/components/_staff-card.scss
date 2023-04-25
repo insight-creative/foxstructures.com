@@ -1,6 +1,7 @@
 .staff-list {
     position: relative;
     top: -50px;
+    padding-inline: 0;
 }
 
 .card--staff {
@@ -8,6 +9,7 @@
     padding-top: $ic-200;
     padding-inline: $ic-200;
     box-shadow: none;
+    background-color: $black;
 
     &:hover, 
     &:focus {
@@ -44,7 +46,7 @@
 
 .card--staff .card__image-wrap {
     width: 100%;
-    height: 400px;
+    height: 450px;
     overflow: hidden;
     z-index: 2;
 }

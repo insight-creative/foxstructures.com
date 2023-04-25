@@ -3,9 +3,9 @@
 {{ partial "breadcrumbs" . }}
 <section aria-label="Portfolio List" class="portfolio-list block">
   <div class="wrapper-lg">
-    {{ partial "category-filter" . }}
+    {{ partial "sector-filter" . }}
   </div>
-  <ul class="columns wrapper-lg gap-md">
+  <ul class="grid-columns-3 wrapper-lg">
     {{ $portfolio := .Paginate (where .Site.RegularPages "Section" "portfolio") }}
     {{ range $portfolio.Pages }}
         {{ .Render "project-card" }}

@@ -5,7 +5,7 @@
 <section aria-label="Open Positions at Fox Structures" class="block bg-black flow">
     <h2 class="text-align-center">Open Positions</h2>
     <p class="text-align-center text-color-white max-width-none">Browse our open job opportunities and apply online today!</p>
-    <div id="open-positions" class="wrapper-lg grid-3">
+    <div id="open-positions" class="wrapper-lg grid-columns-3">
         {{ $pages := .Site.RegularPages }}
         {{ $careers := where $pages "Type" "careers" }}
         {{ range $careers }}

@@ -6,17 +6,12 @@
   position: absolute;
   top: 100%;
   left: 0;
-  z-index: 2;
+  z-index: 9;
   transform: scaleY(0);
   transform-origin: top;
   transition: $transition;
   padding: $ic-300;
-  width: 100%;
-
-  @include breakpoint(md) {
-    columns: 2;
-    width: 500px;
-  }
+  width: fit-content;
 }
 
 .category-list__item {

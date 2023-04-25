@@ -8,23 +8,33 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/storage-building-services.jpg
-short_description: Start or expand your storage business with custom wood and steel storage structures featuring all siding and roofing options.
+sector: Storage
 hero: 
   enabled: true
   heading: Storage
-  body: 
+  body: Start or expand your storage business with custom wood and steel storage structures featuring all siding and roofing options.
+  image: 
+    image_url: /uploads/appleton-northeast-storage-1.jpg
+    image_alt: 
   button:
     enabled: true
-    open_in_new_tab: true
-    button_url: #
-    button_text: Visit Us
+    open_in_new_tab: false
+    button_url: /sectors/storage/
+    button_text: See Our Work
   button_2:
-    enabled: true
+    enabled: false
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: Appleton Northeast Storage
+    url: /portfolio/appleton-northeast-storage/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
+## We’re Quality Storage and Mini Warehouse Specialists.
+The team at Fox Structures specializes in building warehouse facilities of all sizes for a variety of purposes. To get the best possible result, we work with you on every step of the process to design and build a custom solution that exactly meets your needs. And we bring our attention to detail to each project—overseeing the installation of all doors and outside lighting—and finishing the drive area.
 
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Count on us for site design and comprehensive design/build services for steel and wood structures featuring all siding and roofing options, plus general contractor support—including all concrete work and coordination of sub contractors. The highest quality at a very competitive price—these are the hallmarks of Fox Structures mini warehouses and commercial storage facilities.
+
+[Contact us](/contact/) and see how **_we build with you in mind_**!

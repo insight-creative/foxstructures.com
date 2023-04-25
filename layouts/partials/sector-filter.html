@@ -1,9 +1,9 @@
 <div class="category-wrapper">
   <button class="btn--filter text-color-primary">{{ partialCached "svg-icons/filter.svg" . }} Filter by Category</button>
-    {{- if isset site.Taxonomies "categories" }}
-    {{- if not (eq (len site.Taxonomies.categories) 0) }}
+    {{- if isset site.Taxonomies "sectors" }}
+    {{- if not (eq (len site.Taxonomies.sectors) 0) }}
     <ul class="category-list bg-primary">
-      {{- range .Site.Taxonomies.categories }}
+      {{- range .Site.Taxonomies.sectors }}
       <li class="category-list__item">
         <a class="category category-list__link font-size-xs fw-500" href="{{ .Page.Permalink }}" aria-label="View all {{ .Page.Title }} posts">{{ .Page.Title }}<span> ({{ .Count }})</span></a>
       </li>

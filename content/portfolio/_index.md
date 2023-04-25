@@ -8,14 +8,14 @@ menu:
 seo:
   page_title:
   meta_description:
-  featured_image:
+  featured_image: /uploads/forest-brook-farms-7.jpg
 hero: 
   enabled: true
   heading: See our Successful Projects for Yourself.
   body: >-
     From commercial office spaces and mini-warehouses to pole barns, milking parlors and equestrian riding arenas, our expert construction team has designed and built it all.
   image:
-    image_url: /uploads/water-right-inc-new-cover.jpg
+    image_url: /uploads/forest-brook-farms-7.jpg
   button:
     enabled: false
     open_in_new_tab: true
@@ -26,6 +26,10 @@ hero:
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: Forest Brook Farms
+    url: /portfolio/forest-brook-farms/
 ---
 
 Exemplary finished projects and satisfied customers are our greatest reward. Take a look at just some of our completed projects and see why over 80% of our business today comes from repeat clients.

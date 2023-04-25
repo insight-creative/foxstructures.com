@@ -81,20 +81,25 @@
 
 .hero {
   position: relative;
-  height: 500px;
+  height: 700px;
 
   @include breakpoint(md) {
-    height: 600px; 
+    height: 650px; 
   }
 }
 
 .hero__content {
   position: absolute;
-  top: 50%;
+  top: 28%;
   left: 50%;
   z-index: 2;
   transform: translate(-50%, -50%);
+
+  @include breakpoint(md) {
+    top: 50%;
+  }
 }
+
 .hero__content h1 {
   max-width: 20ch;
 }
@@ -118,11 +123,21 @@
 .hero__vertical-curves svg {
   position: absolute;
   top: 0;
-  right: -145px;
+  left: calc(100% - 10px);
   z-index: 1;
   height: 100%;
 }
 
 .hero--short {
   height: 400px;
+}
+
+.hero__featured-project {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: $white;
+  padding: $ic-100;
+  border-left: 6px solid $secondary-color;
+  // max-width: 22ch;
 }

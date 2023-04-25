@@ -15,3 +15,5 @@ seo:
 **Pay Range**: Fox Structures offers competitive pay. Wages vary based on experience.
 
 **Hours per Week**: 40-60 average
+
+<a class="btn btn--secondary" href="/apply/">Apply Now</a>

@@ -1,15 +1,16 @@
 {{ define "main" }}
 {{ partial "hero" . }}
 {{ partial "breadcrumbs" . }}
-<section class="block">
+<section aria-label="Portfolio List" class="portfolio-list block">
   <div class="wrapper-lg">
-    {{ partial "category-filter" . }}
+    {{ partial "sector-filter" . }}
   </div>
-  <ul class="blog--list wrapper-lg gap-md">
+  <ul class="grid-columns-3 wrapper-lg">
     {{ range .Paginator.Pages.ByDate.Reverse }}
-      {{ .Render "blog-card" }}
+      {{ .Render "project-card" }}
     {{ end }}
   </ul>
   {{ partial "blog/custom-pagination.html" . }}
 </section>
 {{ end }}
+

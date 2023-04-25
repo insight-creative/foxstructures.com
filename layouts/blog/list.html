@@ -5,7 +5,7 @@
   <div class="wrapper-lg">
     {{ partial "category-filter" . }}
   </div>
-  <ul class="columns wrapper-lg gap-md">
+  <ul class="grid-columns-3 wrapper-lg">
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "blog") }}
     {{ range $paginator.Pages }}
         {{ .Render "blog-card" }}

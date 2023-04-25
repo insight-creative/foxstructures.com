@@ -4,7 +4,7 @@
         <div class="block-md">
             {{ $pages := .Site.RegularPages }}
             {{ $blog := where $pages "Type" "blog" }}
-            <div class="columns gap-sm">
+            <div class="grid-columns-3">
                 {{- range first 3 $blog -}}
                 {{ .Render "blog-card" }}
                 {{- end -}}

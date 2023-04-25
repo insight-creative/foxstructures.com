@@ -65,7 +65,7 @@ join_our_team:
     Looking to hone your construction expertise with a great team? View our open positions and apply today!
   image:
     enabled: true
-    image_url: /uploads/fox-structures-employees-working-on-jobsite.jpg
+    image_url: /uploads/hiring-image-3.jpg
     image_alt:
   button:
     enabled: true

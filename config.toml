@@ -4,7 +4,7 @@ title = "Fox Structures, Inc."
 enableRobotsTXT = true
 disableAliases = true
 # post pagination
-paginate = "9"
+paginate = "12"
 summaryLength = 30
 
 #################### default parameters ################################

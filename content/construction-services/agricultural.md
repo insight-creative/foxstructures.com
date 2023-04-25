@@ -1,30 +1,51 @@
 ---
-title: Agricultural
+title: Agricultural 
 menu:
   main:
     parent: Construction Services
     weight: 1
 seo:
-  page_title:
+  page_title: Agricultural Construction Services in WI
   meta_description:
   featured_image: /uploads/rieden-farms-calf-barn.jpg
-short_description: Design and outfit your farm or other ag property with a team who understands the specialized challenges facing the ag industry.
+sector: Agricultural
 hero: 
   enabled: true
   heading: Agricultural
-  body: 
+  body: Design and outfit your farm or other ag property with a team who understands the specialized challenges facing the ag industry.
+  image: 
+    image_url: /uploads/redtail-ridge-dairy-1.jpg
+    image_alt: 
   button:
     enabled: true
-    open_in_new_tab: true
-    button_url: #
-    button_text: Visit Us
+    open_in_new_tab: false
+    button_url: /sectors/agricultural/
+    button_text: See Our Work
   button_2:
-    enabled: true
+    enabled: false
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: Redtail Ridge Dairy
+    url: /portfolio/redtail-ridge-dairy/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
+## Our Agricultural Expertise can Help You Grow.
 
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Fox Structures designs and builds unique agricultural facilities for customers in northeast Wisconsin. Our significant experience means we understand the specialized challenges facing the agricultural industry.
+
+From 100,000-sq.-ft. freestall barns to utility buildings to curtain installation, each structure we build is designed and tailored to your operation and herd management needs. Ask around, Fox Structures provides complete design/build services and project management for steel and wood frame structures, performs all erection and concrete work, addresses details like doors and lighting and guarantees the highest quality work with competitive pricing.
+
+- Freestall Barns
+- Milking Parlors
+- Youngstock Facilities
+- Maintenance Facilities
+- Commodity Buildings
+- Utility/Storage Buildings
+- Special Needs Buildings
+- Equestrian Facilities
+- Maintenance/Curtain Repair
+
+[Contact us](/contact/) and see how **_we build with you in mind_**!

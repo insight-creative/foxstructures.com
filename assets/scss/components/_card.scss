@@ -1,8 +1,13 @@
+.cards {
+  padding-inline: 0;
+}
+
 .card {
   list-style-type: none;
   max-width: none;
   margin-block-start: 0;
   transition: $transition;
+  background-color: $white;
   box-shadow: 0 4px 8px rgba(0, 0, 0, .15);
 
   .overlay--yellow-gradient {
@@ -16,6 +21,10 @@
 
       .overlay--yellow-gradient {
           opacity: 1;
+      }
+
+      .card__img {
+        transform: scale(1.1);
       }
 
       .service-card__underline {
@@ -38,6 +47,7 @@
   position: absolute;
   top: -18px;
   left: 0;
+  z-index: 8;
 }
 
 .card__image-wrap {
@@ -49,13 +59,14 @@
   block-size: 250px;
   inline-size: 100%;
   object-fit: cover;
+  transition: $transition;
 }
 
 .card__link::after {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 8;
+  z-index: 7;
   height: 100%;
   width: 100%;
   content: "";

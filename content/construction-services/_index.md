@@ -8,23 +8,54 @@ menu:
 seo:
   page_title:
   meta_description: 
-  featured_image: 
+  featured_image: /uploads/temme-residential-construction-cover.jpg
 hero: 
   enabled: true
   heading: Construction Services
-  body: 
+  body: Fox Structures is a full-service agricultural, commercial and residential contractor.
+  image: 
+    image_url: /uploads/temme-residential-construction-cover.jpg
+    image_alt: 
   button:
     enabled: true
-    open_in_new_tab: true
-    button_url: #
-    button_text: Visit Us
+    open_in_new_tab: false
+    button_url: /portfolio/
+    button_text: See Our Work
   button_2:
-    enabled: true
+    enabled: false
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: Troy & Gail Temme’s Waterfront Workshop
+    url: /portfolio/troy-gail-temmes-waterfront-workshop/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc faucibus a pellentesque sit amet. Quam viverra orci sagittis eu volutpat odio. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. In iaculis nunc sed augue lacus viverra. In hac habitasse platea dictumst. Iaculis eu non diam phasellus vestibulum lorem sed. Feugiat nibh sed pulvinar proin. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Nibh venenatis cras sed felis eget. In nisl nisi scelerisque eu. Semper viverra nam libero justo laoreet sit amet cursus. Felis imperdiet proin fermentum leo vel orci porta non pulvinar.
+From initial planning to follow-up service, Fox Structures offers all the critical services needed to complete your new construction or building addition project on time, within budget and to your satisfaction.
 
-Massa ultricies mi quis hendrerit dolor magna eget est. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Adipiscing enim eu turpis egestas pretium. Tristique senectus et netus et malesuada fames ac turpis egestas. Nam aliquam sem et tortor consequat id. Erat pellentesque adipiscing commodo elit at. Magna fermentum iaculis eu non. Convallis convallis tellus id interdum velit laoreet id. Hendrerit dolor magna eget est lorem ipsum dolor sit amet. Lorem mollis aliquam ut porttitor leo a. Mollis nunc sed id semper risus in.
+Review our similar [past projects](/portfolio/), then [contact us](/contact/) to share plans or ideas and discuss options. You can count on us for:
+
+- Complete design/build services including engineering and architectural support
+- State plan approval
+- General contracting and turnkey services
+  - Welding
+  - Electrical
+  - Plumbing
+  - Painting
+  - Flooring
+  - Masonry
+- Dry walling
+- Insulating
+- Self-performed concrete work
+- Highest quality craftsmanship
+- Hands-on management
+- Realistic completion dates
+- Successful completion within budget
+- Self-performed concrete work
+- Highest quality craftsmanship
+- Hands-on management
+- Realistic completion dates
+- Successful completion within budget
+
+[Contact us](/contact/) and see how **_we build with you in mind_**!

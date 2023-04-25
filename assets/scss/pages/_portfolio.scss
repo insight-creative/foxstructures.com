@@ -20,6 +20,7 @@
     margin-block-start: 0;
 }
 
-.parent-page-portfolio .portfolio-list .col {
+.parent-page-portfolio .portfolio-list .col,
+.parent-page-sectors .portfolio-list .col {
     flex-basis: calc(min(100%, 400px));
 }

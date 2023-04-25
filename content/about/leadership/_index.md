@@ -25,4 +25,8 @@ hero:
     open_in_new_tab: false
     button_url: #
     button_text: Contact Us
+  featured_project: 
+    enabled: true
+    name: The Oaks Golf Course
+    url: /portfolio/the-oaks-golf-course/
 ---

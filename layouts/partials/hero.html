@@ -1,10 +1,18 @@
 {{ $heroClass := lower .Page.Title }}
-<section aria-labelledby="hero-heading" class="hero {{ anchorize $heroClass }}-hero grid gap-sm">
+<section aria-labelledby="hero-heading" class="hero {{ anchorize $heroClass }}-hero grid">
   <div class="hero__vertical-curves grid-12 grid-5-md bg-black p-relative">
     {{ partialCached "svg-icons/curves-vertical.svg" . }}
   </div>
   <div class="grid-12 grid-7-md p-relative">
     {{ partial "hero-image" . }}
+    {{ if .Params.hero.featured_project.enabled }}
+      {{ with .Params.hero.featured_project }}
+      <div class="hero__featured-project bg-black">
+        <div class="h5 fw-700">{{ .name }}</div>
+        <a class="font-size-xs" href="{{ .url }}">View Project</a>
+      </div>
+      {{ end }}
+    {{ end }}
   </div>
   <div class="hero__content wrapper-lg">
     <div class="border-left-secondary flow">

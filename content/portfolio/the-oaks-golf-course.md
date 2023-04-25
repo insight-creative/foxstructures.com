@@ -9,13 +9,13 @@ featured: true
 weight: 3
 gallery: 
   - image: 
+      image_url: /uploads/oaks-golf-course-3.jpg
+      image_alt:
+  - image: 
       image_url: /uploads/oaks-golf-course-1.jpg
       image_alt:
   - image: 
       image_url: /uploads/oaks-golf-course-2.jpg
-      image_alt:
-  - image: 
-      image_url: /uploads/oaks-golf-course-3.jpg
       image_alt:
   - image: 
       image_url: /uploads/oaks-golf-course-4.jpg
