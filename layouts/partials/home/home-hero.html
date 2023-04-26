@@ -1,11 +1,10 @@
 {{ $heroClass := lower .Page.Title }}
 {{ if .Params.hero.enabled }}
   {{ with .Params.hero }}
-  <section aria-labelledby="hero-heading" class="{{ anchorize $heroClass }}-hero flex flex-center">
+  <section aria-labelledby="hero-heading" class="{{ anchorize $heroClass }}-hero">
     <video height="1080" width="1920" loop="loop" muted playsinline="" style="opacity: 1;" autoplay poster="" class="hero__video aspect-video">
       <source src="{{ .video }}" type="video/mp4">
     </video>
-    <div class="home-hero__overlay"></div>
     <div class="home-hero__content wrapper-lg">
       <div class="border-left-secondary">
         <h1 id="hero-heading" class="no-margin text-color-white shift-up letter-spacing-2">{{ .heading }}</h1>

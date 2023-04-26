@@ -2,6 +2,7 @@
   position: relative;
   height: 75vh;
   width: 100vw;
+  display: grid;
 
   @include breakpoint(sm) {
     height: 60vh;
@@ -24,19 +25,19 @@
   object-fit: cover;
 }
 
-.home-hero__overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  z-index: 1;
+.home-hero::after,
+.home-hero__content {
+  grid-area: 1/-1;
+}
+
+.home-hero::after {
+  content: "";
   background-color: rgba($black, .5);
 }
 
 .home-hero__content {
-  position: relative;
   z-index: 2;
+  margin: auto;
 }
 
 .home-hero h1 {

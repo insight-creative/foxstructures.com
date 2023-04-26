@@ -34,6 +34,7 @@
 .portfolio__curve {
     z-index: 1;
     bottom: -2px;
+    pointer-events: none;
 }
 
 .hero-portfolio__content h1 {
