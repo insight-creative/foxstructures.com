@@ -4,6 +4,8 @@ menu:
   main:
     parent: Construction Services
     weight: 1
+  footer:
+    weight: 5
 seo:
   page_title:
   meta_description:

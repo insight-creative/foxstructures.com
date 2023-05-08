@@ -1,0 +1,15 @@
+<section aria-label="Fox Structures Frequently Asked Questions" class="faqs-block block">
+    <div class="wrapper-lg text-align-center">
+        <h2>{{ .heading }}</h2>
+    </div>
+    <div class="wrapper-lg">
+        <div class="grid-columns-2 block-sm">
+            {{ range .questions }}
+            <details class="fs-300 flow">
+                <summary class="fw-500">{{ .question }}</summary>
+                <div class="flow">{{ .answer | markdownify }}</div>
+            </details>
+            {{ end }}
+        </div>
+    </div>
+</section>

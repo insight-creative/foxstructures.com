@@ -4,6 +4,8 @@ menu:
   main:
     parent: Construction Services
     weight: 1
+  footer:
+    weight: 1
 seo:
   page_title: Agricultural Construction Services in WI
   meta_description:

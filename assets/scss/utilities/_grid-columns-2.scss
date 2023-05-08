@@ -1,0 +1,9 @@
+.grid-columns-2 {
+    display: grid;
+    gap: $ic-300;
+  
+    @include breakpoint(sm) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  

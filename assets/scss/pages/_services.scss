@@ -2,6 +2,7 @@
     padding-top: clamp($ic-400, 10%, $ic-900);
 }
 
-.page-welding .portfolio-list {
+.page-welding .portfolio-list,
+.page-concrete .portfolio-list {
     display: none;
 }

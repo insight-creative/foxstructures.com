@@ -8,7 +8,7 @@
 </div>
 <section aria-label="Portfolio List" class="portfolio-list block bg-gray">
     <div class="wrapper-lg flow">
-        <h2 class="no-margin">Latest {{ .Title }} Projects</h2>        
+        <h2 class="no-margin">Latest {{ .Params.sector }} Projects</h2>        
         <ul class="cards max-width-none grid-columns-3">
             {{ if .Params.sector }}
                 {{ $currentSector := .Params.sector }}
@@ -25,5 +25,10 @@
         </div>
     </div>
   </section>
+{{ if .Params.faq_block.enabled }}
+  {{ with .Params.faq_block }}
+      {{ partial "faqs" . }}
+  {{ end }}
+{{ end }}
 {{ partial "cta" . }}
 {{ end }}

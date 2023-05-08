@@ -30,6 +30,7 @@ module.exports = {
         'parent-page-careers',
         'parent-page-sectors',
         'page-welding',
+        'page-concrete',
         'active-button',
         'position-open',
         'list-open',

@@ -3,6 +3,7 @@ details {
     border-radius: $radius;
     padding: $ic-100;
     cursor: pointer;
+    height: fit-content;
 
     summary::marker {
         color: $primary-color;
