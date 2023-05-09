@@ -17,3 +17,13 @@ careers_cta:
     button_url: /careers/
     button_text: View Careers
     open_in_new_tab: false
+
+faqs_cta: 
+  heading: Still Have Questions?
+  body: >-
+    Our team is here to help. We can answer any construction-related questions you may have and help provide a quote for your project. Send us your inquiry or give us a call at <a href="tel:920-766-9305">(920) 766-9305</a>.
+  button:
+    enabled: true
+    button_url: /contact/
+    button_text: Contact Us
+    open_in_new_tab: false

@@ -109,8 +109,7 @@ button {
   transform: scale(.8);
 }
 
-.btn--arrow-light {
-  color: $white;
+.btn--arrow {
   font-size: $ic-100;
   display: flex; 
   align-items: center;
@@ -127,4 +126,12 @@ button {
       transform: translateX(8px);
     }
   }
+}
+
+.btn--arrow-light {
+  color: $white;
+}
+
+.btn--arrow-dark {
+  color: $black;
 }

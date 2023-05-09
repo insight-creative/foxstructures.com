@@ -1,8 +1,13 @@
-.parent-page-construction-services .cta {
+.parent-page-construction-services .cta,
+.page-are-we-the-right-builder-for-you .cta {
     padding-top: clamp($ic-400, 10%, $ic-900);
 }
 
 .page-welding .portfolio-list,
 .page-concrete .portfolio-list {
     display: none;
+}
+
+.page-concrete .faqs-block {
+    padding: 0;
 }

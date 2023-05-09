@@ -1,13 +1,27 @@
 {{ define "main" }}
-{{ partial "hero" . }}
+{{ if eq .Section "sectors" }}
+  {{ partial "hero" . }}
+{{ else }}
+  {{ partial "hero-small" . }}
+{{ end }}
 {{ partial "breadcrumbs" . }}
 <section aria-label="Portfolio List" class="portfolio-list block">
   <div class="wrapper-lg">
-    {{ partial "sector-filter" . }}
+    {{ if eq .Section "sectors" }}
+      {{ partial "sector-filter" . }}
+    {{ else }}
+      {{ partial "category-filter" . }}
+    {{ end }}
   </div>
   <ul class="grid-columns-3 wrapper-lg">
-    {{ range .Paginator.Pages.ByDate.Reverse }}
-      {{ .Render "project-card" }}
+    {{ if eq .Section "sectors" }}
+      {{ range .Paginator.Pages.ByDate.Reverse }}
+        {{ .Render "project-card" }}
+      {{ end }}
+    {{ else }}
+      {{ range .Paginator.Pages.ByDate.Reverse }}
+        {{ .Render "blog-card" }}
+      {{ end }}
     {{ end }}
   </ul>
   {{ partial "blog/custom-pagination.html" . }}

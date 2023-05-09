@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Resources
 menu:
   main:
     weight: 4
@@ -11,7 +11,7 @@ seo:
   featured_image:
 hero: 
   enabled: true
-  heading: Fox Structures Blog
+  heading: Fox Structures Resources
   body: 
   image: 
     image_url: /uploads/fox-structures-custom-building-plans.jpg

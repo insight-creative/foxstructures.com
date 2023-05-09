@@ -1,7 +1,9 @@
 <section aria-label="Fox Structures Frequently Asked Questions" class="faqs-block block">
+    {{ if .heading }}
     <div class="wrapper-lg text-align-center">
         <h2>{{ .heading }}</h2>
     </div>
+    {{ end }}
     <div class="wrapper-lg">
         <div class="grid-columns-2 block-sm">
             {{ range .questions }}

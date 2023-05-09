@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+{{ partial "intro" . }}
+{{ if .Content }}
+    <div class="block">
+        <div class="wrapper-sm flow">
+            {{ .Content }}
+        </div>
+    </div>
+{{ end }}
+{{ partialCached "featured-projects" . }}
+{{ partial "cta" . }}
+{{ end }}

@@ -22,14 +22,28 @@
                 <li class="header__nav-list-item has-sub-menu">
                   <a class="header__nav-list-link sub-menu-toggle" id="menu-item-{{ .Name | lower | urlize }}" href="{{ .URL }}" aria-label="{{ .Name }}" aria-haspopup="true" aria-controls="submenu-{{ .Name | lower | urlize }}" aria-expanded="false">{{ .Name }}<span class="header__sub-menu-indicator"></span></a>
                   <div class="header__sub-menu" role="navigation" id="submenu-{{ .Name | lower | urlize }}" aria-labelledby="menu-item-{{ .Name | lower | urlize }}">
-                    <div class="header__sub-menu-inner">
-                      <ul>
+                    <div class="header__sub-menu-inner grid">
+                      <ul class="grid-8">
                         {{ range sort .Children "value" "desc" }}
                           <li class="header__sub-menu-item">
                               <a class="header__sub-menu-link fs-100 no-decoration w-100 transform-x-8" href="{{ .URL }}" aria-label="{{ .Name }}">{{ .Name }}</a>
                           </li>
                         {{ end }}
-                      </ul>                            
+                      </ul> 
+                      {{ if eq .Name "Construction Services" }}
+                      <div class="header__sub-menu-content grid-4 flow">
+                        <span class="h5 fw-700">Quality Structures Built to Last</span>
+                        <p class="font-size-xs">Fox Structures has provided the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.</p>
+                        <a href="/portfolio/" class="btn btn--arrow btn--arrow-dark">See Our Work <div class="icon-md icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+                      </div>
+                      {{ end }}                         
+                      {{ if eq .Name "About" }}
+                      <div class="header__sub-menu-content grid-4 flow">
+                        <span class="h5 fw-700">Join Our Team</span>
+                        <p class="font-size-xs">Looking to hone your construction expertise with a great team? View our open positions and apply today!</p>
+                        <a href="/careers/" class="btn btn--arrow btn--arrow-dark">Join Our Team <div class="icon-md icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+                      </div>
+                      {{ end }}                         
                     </div>
                   </div>
                 </li>

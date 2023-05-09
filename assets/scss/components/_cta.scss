@@ -26,3 +26,15 @@
     max-inline-size: 550px;
     margin-inline: auto;
 }
+
+.page-frequently-asked-questions .cta__body {
+    max-inline-size: 670px;
+
+    a {
+        background-image: linear-gradient($black, $black),linear-gradient(270deg,$secondary-color 0%,$secondary-color 100%) !important;
+
+        &:hover {
+            color: $black;
+        }
+    }
+}

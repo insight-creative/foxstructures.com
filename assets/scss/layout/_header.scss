@@ -340,15 +340,19 @@
 .header__sub-menu-item {
   list-style-type: none;
   margin: 0;
-  padding: .25rem 0;
   break-inside: avoid;
 }
 
 .header__sub-menu-link {
-  padding: 0.3rem;
   display: block;
   color: $black;
   font-family: $secondary-font;
+  font-size: $ic-100;
+}
+
+.header__sub-menu-content {
+  border-left: 1px solid $light-gray;
+  padding-left: $ic-300;
 }
 
 .nav-open {

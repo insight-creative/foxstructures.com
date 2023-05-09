@@ -1,12 +1,17 @@
 @include breakpoint (md) {
-  .parent-page-blog,
-  .parent-page-blog .site-wrap,
+  .parent-page-resources,
+  .parent-page-resources .site-wrap,
   .parent-page-careers,
   .parent-page-careers .site-wrap {
     overflow-x: initial;
   }
 }
 
-.parent-page-blog .blog-list .col {
+.parent-page-resources .blog-list .col {
   flex-basis: calc(min(100%, 400px));
+}
+
+.category-videos .reading-time,
+.category-videos .post-featured-image img {
+  display: none;
 }

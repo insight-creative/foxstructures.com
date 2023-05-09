@@ -5,7 +5,7 @@
 {{ $mainClass := lower .Page.Title }}
 {{ $pageParent := .Section }}
 
-<body class="page-{{ anchorize $mainClass }}{{ if .Params.page_class }} {{ .Params.page_class }}{{ end }}{{ if $pageParent }} parent-page-{{ $pageParent | urlize }}{{ end }}" data-instant-intensity="viewport">
+<body class="page-{{ anchorize $mainClass }}{{ if .Params.page_class }} {{ .Params.page_class }}{{ end }}{{ if $pageParent }} parent-page-{{ $pageParent | urlize }}{{ end }}{{ if .Params.categories }} {{ range (.GetTerms "categories") }}category-{{ .LinkTitle | lower }}{{ end }}{{ end }}" data-instant-intensity="viewport">
   <div class="site-wrap">
     {{ block "header" . }}{{ partial "header" . }}{{end}}
     <main id="main-content" class="site-main">
@@ -16,3 +16,4 @@
 </body>
 
 </html>
+

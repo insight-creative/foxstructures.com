@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+{{ partial "breadcrumbs" . }}
+{{ if .Params.faq_block.enabled }}
+  {{ with .Params.faq_block }}
+      {{ partial "faqs" . }}
+  {{ end }}
+{{ end }}
+{{ partial "faqs-cta" . }}
+{{ end }}

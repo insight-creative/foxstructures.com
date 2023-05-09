@@ -1,12 +1,5 @@
 {{ define "main" }}
-<div class="hero--short flex flex-center bg-black">
-    <div class="wrapper-lg">
-        <div class="border-left-secondary">
-            <h1 class="no-margin">{{ .Title }}</h1>
-            <p class="card__job-position font-size-xs shift-up letter-spacing-2 fw-700">{{ .Params.job_position }}</p>
-        </div>
-    </div>
-</div>
+{{ partial "hero-small" . }}
 {{ partial "breadcrumbs" . }}
 <div class="block">
     <div class="wrapper-sm columns gap-md">

@@ -3,8 +3,8 @@
   <div class="wrapper-lg columns gap-lg">
       <div class="col">
         <div class="flow">
-          {{ if eq .Section "blog" }}
-            <a href="/blog/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all posts</a>
+          {{ if eq .Section "resources" }}
+            <a href="/resources/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all posts</a>
           {{ else if eq .Section "careers" }}
             <a href="/careers/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all positions</a>
           {{ end }}

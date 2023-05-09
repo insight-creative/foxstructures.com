@@ -6,7 +6,7 @@
     {{ partial "category-filter" . }}
   </div>
   <ul class="grid-columns-3 wrapper-lg">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "blog") }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "resources") }}
     {{ range $paginator.Pages }}
         {{ .Render "blog-card" }}
     {{ end }}
