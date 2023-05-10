@@ -24,4 +24,4 @@ With over 30 years of welding experience, Fox Welding and Fabrication specialize
 
 Fox Structures’ commercial and residential customers will also benefit from the weld shop. With in-house design and engineering capabilities, Fox Structures can handle any steel project. They design, engineer, and fabricate structural steel buildings, handrails, stairways, masonry headers and lintels, anchor plates, structural steel columns and headers, plus security gating, structural signage and lighting projects.
 
-Delivery, installation and mobile weld service and repair are available regardless of project size or type. The new weld shop is located just down the street from Fox Structures, Inc. at 731 Eastline Road in Kaukauna. For more information about Fox Welding and Fabrication, visit our [Welding](/services/welding/) page.
+Delivery, installation and mobile weld service and repair are available regardless of project size or type. The new weld shop is located just down the street from Fox Structures, Inc. at 731 Eastline Road in Kaukauna. For more information about Fox Welding and Fabrication, visit our [Welding](/construction-services/welding/) page.

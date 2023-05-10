@@ -40,14 +40,16 @@ Fox Structures designs and builds unique agricultural facilities for customers i
 
 From 100,000-sq.-ft. freestall barns to utility buildings to curtain installation, each structure we build is designed and tailored to your operation and herd management needs. Ask around, Fox Structures provides complete design/build services and project management for steel and wood frame structures, performs all erection and concrete work, addresses details like doors and lighting and guarantees the highest quality work with competitive pricing.
 
-- Freestall Barns
+- [Barn Construction](/construction-services/agricultural/barn-construction/)
+- [Farm Design](/construction-services/agricultural/farm-design/)
+- [Freestall Barns](/portfolio/plum-creek-dairy/)
 - Milking Parlors
 - Youngstock Facilities
 - Maintenance Facilities
 - Commodity Buildings
 - Utility/Storage Buildings
 - Special Needs Buildings
-- Equestrian Facilities
+- [Equestrian Facilities](/construction-services/equestrian/)
 - Maintenance/Curtain Repair
 
 [Contact us](/contact/) and see how **_we build with you in mind_**!

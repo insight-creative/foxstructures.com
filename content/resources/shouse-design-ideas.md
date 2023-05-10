@@ -41,11 +41,11 @@ Wondering what it looks like on the inside of a shouse? The answer is, your shou
 
 For example, here is the interior of the wooded cottage shouse we showed above.
 
-{{< responsive-image image_url="/uploads/brault-shouse-interior-combined-3.jpg" image_alt="" >}}
+<img src="/uploads/brault-shouse-interior-combined-3.jpg" alt="Kitchen with large island and living room with large rock corner fire place">
 
 The open floor plan from kitchen to living room makes this smaller-sized shouse feel large and airy inside. Plus, the lightwood accents and stone fireplace keep the log cabin feeling with a modern upgrade.
 
 ## Design Your Custom Shouse with Fox Structures
 Build the shouse of your dreams, no matter what style you’re hoping to achieve. Our expert shouse construction team will ensure your shouse provides the style and function you’re looking for.
 
-Contact us today to get started, or learn more about our [residential construction services](/services/residential/).
+Contact us today to get started, or learn more about our [residential construction services](/construction-services/residential/).

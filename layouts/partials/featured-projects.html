@@ -6,7 +6,7 @@
             <div class="swiper projectSwiper">
                 <div class="swiper-wrapper">
                     {{ $featuredProjects := where .Site.Pages "Params.featured" "==" true }}
-                    {{ range $featuredProjects }}
+                    {{ range sort $featuredProjects "Params.order" }}
                     <!-- Display the project information, such as title, description, etc. -->
                     <div class="swiper-slide columns gap-xl">
                         <div class="col swiper-slider__project-image cover-image">
@@ -21,7 +21,7 @@
                             </picture>
                         </div>
                         <div class="col swiper-slider__project-quote">
-                            <h2>{{ .Title }}</h2>
+                            <h3>{{ .Title }}</h3>
                             <blockquote class="flow p-relative">
                                 <div class="icon-fill-primary">{{ partialCached "svg-icons/quote-icon.svg" . }}</div>
                                 <p>{{ .Params.quote.quote_short }}</p>

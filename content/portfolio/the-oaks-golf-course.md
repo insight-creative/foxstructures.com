@@ -6,7 +6,7 @@ seo:
   featured_image: /uploads/oaks-golf-course-1.jpg
 date: 2019-11-20T07:00:00Z
 featured: true
-weight: 3
+order: 5
 gallery: 
   - image: 
       image_url: /uploads/oaks-golf-course-3.jpg

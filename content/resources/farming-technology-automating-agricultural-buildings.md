@@ -11,7 +11,7 @@ categories:
   - Uncategorized
 ---
 
-Farming is a tough industry to be in right now, even in America’s Dairyland. In fact, there’s an unprecedented amount of [farms going out of business in Wisconsin every day](/news/rebuilding-the-wisconsin-dream/). Paired with the current labor shortage, many Wisconsin farmers are struggling to maintain their farm operations quickly enough to meet the growing demand. To succeed, farmers must implement the latest technology to automate their operations, and Fox Structures is here to help.
+Farming is a tough industry to be in right now, even in America’s Dairyland. In fact, there’s an unprecedented amount of [farms going out of business in Wisconsin every day](/resources/rebuilding-the-wisconsin-dream/). Paired with the current labor shortage, many Wisconsin farmers are struggling to maintain their farm operations quickly enough to meet the growing demand. To succeed, farmers must implement the latest technology to automate their operations, and Fox Structures is here to help.
 
 Learn how you can improve your agricultural buildings and automate your farm operations with Fox Structures’ innovative construction services.
 
@@ -36,9 +36,9 @@ Fox Structures is capable of constructing various agricultural buildings for you
 - Milking parlors
 - Youngstock facilities
 - Commodity buildings
-- [Utility/storage buildings](/services/storage/)
+- [Utility/storage buildings](/construction-services/storage/)
 - Special needs buildings
-- [Equestrian facilities](/services/equestrian/)
+- [Equestrian facilities](/construction-services/equestrian/)
 - Maintenance/Curtain repair
 - And more!
 

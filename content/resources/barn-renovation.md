@@ -13,7 +13,7 @@ categories:
 
 Even the highest quality metal barns and ag buildings will need small repairs to maintain their condition over the years. But what happens when your buildings are so outdated they no longer fit your operation? Turn to the ag construction experts at Fox Structures!
 
-We’ve helped countless ag clients throughout Northeast Wisconsin redesign, restructure and renovate their barns, silos and various other [farm buildings](/services/agricultural/).
+We’ve helped countless ag clients throughout Northeast Wisconsin redesign, restructure and renovate their barns, silos and various other [farm buildings](/construction-services/agricultural/).
 
 Not sure whether your farm structures are actually in need of a renovation? We’re breaking down everything you need to know, including 5 clear signs it’s time to renovate your ag buildings, to make your farm maintenance a success.
 
@@ -68,7 +68,7 @@ This way, you can add more space to your barn without having to invest in an ent
 {{< responsive-image image_url="/uploads/old-rusted-circuit-breaker-panel.jpg" image_alt="" >}}
 
 ### 4. Your barn has outdated technology.
-Environ-Tech, Agrimesh AI and various other farming technologies are essential to [automate your farming operations](/news/farming-technology-automating-agricultural-buildings/) and keep up with the competition. If your barn isn’t outfitted with the latest technology, it’s likely time for an upgrade.
+Environ-Tech, Agrimesh AI and various other farming technologies are essential to [automate your farming operations](/resources/farming-technology-automating-agricultural-buildings/) and keep up with the competition. If your barn isn’t outfitted with the latest technology, it’s likely time for an upgrade.
 
 Since most high-tech farming equipment needs to be fully integrated within your barn, they can be difficult to add to existing buildings without expert help. Our ag team has helped prep barns for seamless installation and integration of various farm technologies.
 

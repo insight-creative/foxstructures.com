@@ -6,7 +6,7 @@ seo:
   featured_image: /uploads/temme-residential-construction-cover.jpg
 date: 2019-11-22T07:00:00Z
 featured: true
-weight: 1
+order: 1
 gallery: 
   - image: 
       image_url: /uploads/temme-residential-construction-cover.jpg

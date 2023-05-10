@@ -19,10 +19,10 @@ hero:
     image_url: /uploads/forest-brook-farms-welding.jpg
     image_alt: 
   button:
-    enabled: false
+    enabled: true
     open_in_new_tab: false
-    button_url: /sectors/agricultural/
-    button_text: See Our Work
+    button_url: /contact/
+    button_text: Contact Us
   button_2:
     enabled: false
     open_in_new_tab: false

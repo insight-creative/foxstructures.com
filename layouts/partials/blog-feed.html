@@ -3,7 +3,7 @@
         <h2 class="text-align-center">Featured Articles</h2>
         <div class="block-md">
             {{ $pages := .Site.RegularPages }}
-            {{ $blog := where $pages "Type" "blog" }}
+            {{ $blog := where $pages "Type" "resources" }}
             <div class="grid-columns-3">
                 {{- range first 3 $blog -}}
                 {{ .Render "blog-card" }}
@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="text-align-center">
-            <a href="/blog/" class="btn btn--secondary">View All Posts</a>
+            <a href="/resources/" class="btn btn--secondary">View All Posts</a>
         </div>
     </div>
 </section>

@@ -43,4 +43,4 @@ We pride ourselves on the ongoing partnership we have with Shiloh Dairy so they 
 ## Farm Buildings Made to Last
 At Fox Structures, we don’t just construct ag buildings—we help to design, maintain, update, repair and remodel functional, quality buildings that stand the test of time. All while keeping your unique business operations and building needs in mind.
 
-Learn more about our [agricultural construction services](/services/agricultural/).
+Learn more about our [agricultural construction services](/construction-services/agricultural/).

@@ -62,7 +62,7 @@ faq_block:
 
 When it comes to barn construction, you need a builder who understands your needs and can work around your active operation. That’s why the expert ag builders here at Fox Structures are the clear choice for your next barn build. Our team not only takes the time to learn your needs but also works around your operation to ensure as little down-time as possible during construction. 
 
-Designed and built with top-quality materials and advanced [farming technology integrations that help automate your operations](/blog/farming-technology-automating-agricultural-buildings/#farming-technology-meets-innovative-construction), it’s no surprise that countless farmers throughout Wisconsin rely on Fox Structures as their dedicated barn builder. 
+Designed and built with top-quality materials and advanced [farming technology integrations that help automate your operations](/resources/farming-technology-automating-agricultural-buildings/#farming-technology-meets-innovative-construction), it’s no surprise that countless farmers throughout Wisconsin rely on Fox Structures as their dedicated barn builder. 
 
 - Pole barns
 - Steel barns
@@ -82,5 +82,5 @@ Want to improve your ag operation and make your entire farm more efficient? Fox 
 
 No matter what kind of farm or agricultural facility you operate, your buildings can benefit from automation technology. Our team is here to help you outfit your buildings or add-on to tech you already have installed.
 
-<a class="btn btn--secondary" href="/blog/farming-technology-automating-agricultural-buildings/">Read More About Barn Automation</a>
+<a class="btn btn--secondary" href="/resources/farming-technology-automating-agricultural-buildings/">Read More About Barn Automation</a>
 

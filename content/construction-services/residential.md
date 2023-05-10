@@ -40,7 +40,7 @@ When it comes to residential construction, the choices and decisions may seem en
 - Cottages
 - Garages
 - Residential Storage Buildings
-- Hobby Buildings
-- Shouses
+- [Hobby Buildings](/portfolio/waldrons-youth-sports-facility/)
+- [Shouses](/resources/shouse-design-ideas/)
 
 [Contact us](/contact/) and see how **_we build with you in mind_**!

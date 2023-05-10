@@ -26,7 +26,7 @@ intro:
     Fox Structures has provided the highest quality design and construction services throughout Northeast Wisconsin for over 40 years. Known for our large-scale construction capabilities, our expert team is committed to using design savvy, attention to detail and unbeatable customer satisfaction to build structures and relationships that last. It’s no surprise that 80% of our business comes from repeat customers! 
 
 
-    [Take a look at some of our impressive projects](/portfolio/) and see for yourself [why we’re the right builder for you](#).
+    [Take a look at some of our impressive projects](/portfolio/) and see for yourself [why we’re the right builder for you](/are-we-the-builder-for-you/).
   button:
     enabled: true
     button_url: /about/

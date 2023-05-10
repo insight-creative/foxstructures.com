@@ -6,7 +6,7 @@ seo:
   featured_image: /uploads/forest-Brook-Farms-new-cover.jpg
 date: 2019-11-21T07:00:00Z
 featured: true
-weight: 2
+order: 2
 gallery: 
   - image: 
       image_url: /uploads/forest-brook-farms-7.jpg

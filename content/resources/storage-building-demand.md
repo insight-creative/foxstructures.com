@@ -11,7 +11,7 @@ categories:
   - Uncategorized
 ---
 
-Running out of space? Investing in a [custom storage building](/services/storage/) can be one of the most cost-effective ways to maximize whatever space you’ve got.
+Running out of space? Investing in a [custom storage building](/construction-services/storage/) can be one of the most cost-effective ways to maximize whatever space you’ve got.
 
 If you’re looking to invest in storage building construction, don’t wait. The Fox Structures team has seen the demand for storage growing rapidly throughout the last few years, and it doesn’t seem to be slowing down any time soon.
 

@@ -6,3 +6,25 @@ ol li + li {
 .list-style-none {
   list-style-type: none;
 }
+
+.site-main {
+  ul li:not(.service-card, .share-buttons__list-items, .social__list-item, .category-list__item, .card) {
+    position: relative;
+    list-style-type: none;
+    break-inside: avoid;
+
+    &::before {
+      background-image: url("/uploads/checkmark.svg");
+      background-position: 50%;
+      background-repeat: no-repeat;
+      background-size: contain;
+      content: "";
+      display: block;
+      height: 16px;
+      width: 16px;
+      left: -$ic-400;
+      position: absolute;
+      top: 8px;
+    }
+  }
+}

@@ -49,7 +49,7 @@ faq_block:
         Your personal farm plan should include as much detail as possible about your operation, similar to a business plan. When it comes to your farm design, you should include details about the physical space, as well as the functions of these spaces and even the systems you will use within your farm. 
 
 
-        At Fox Structures, we can help you lay out your farm design and identify the ideal areas to construct various structures, including barns, storage buildings, milking parlors and more. We can also help design and construct your farm buildings, complete with [automation technology](/blog/farming-technology-automating-agricultural-buildings/) that improves your output and efficiency.
+        At Fox Structures, we can help you lay out your farm design and identify the ideal areas to construct various structures, including barns, storage buildings, milking parlors and more. We can also help design and construct your farm buildings, complete with [automation technology](/resources/farming-technology-automating-agricultural-buildings/) that improves your output and efficiency.
     - question: Can Fox Structures complete my farm design and farm construction?
       answer: >-
         Yes! Our team is capable of not only designing your farm layout but also completing the construction of your farm structures. Whether you need barn buildings, storage buildings, milking parlors, on-site houses and more, we can complete your agricultural construction project for your farming operation. View our [barn construction page](/construction-services/agricultural/barn-construction/) to learn more.

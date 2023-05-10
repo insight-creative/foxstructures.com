@@ -38,14 +38,14 @@ hero:
 
 From retail storefronts to light industrial buildings to specialized structures, we know that your needs are unique. That’s why Fox Structures works with you at each stage of the building process to determine the best solution for your company’s needs. From aesthetics and space planning to exterior colors and selecting materials utilizing the latest design technology—we do it all to ensure your finished project works for you. We also assist with local and state approvals, building code reviews, site design and permitting. Our dedication to detail and years of experience make your move to a new facility—or the upgrade of your existing facility—as efficient and hassle free as possible.
 
- - Light Manufacturing
- - Corporate Offices
+ - [Light Manufacturing](/portfolio/c3-corporation-remodel/)
+ - [Corporate Offices](/construction-services/commercial/office-buildings/)
  - Retail
  - Convenience Stores
- - Auto Service Stations
+ - [Auto Service Stations](/portfolio/cartech-auto-repair/)
  - Restaurants & Eateries
  - Laboratory/Research
  - Animal Boarding
- - Golf Clubhouses
+ - [Golf Clubhouses](/portfolio/the-oaks-golf-course/)
 
 [Contact us](/contact/) and see how **_we build with you in mind_**!

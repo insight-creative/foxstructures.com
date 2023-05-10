@@ -35,7 +35,7 @@ hero:
 faq_block:
   enabled: true
   heading: >-
-    Frequently Asked Commercial Storage Questions
+    Frequently Asked Concrete Questions
   questions:
     - question: How much do concrete services cost?
       answer: >-

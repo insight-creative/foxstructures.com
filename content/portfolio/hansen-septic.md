@@ -3,17 +3,17 @@ title: Hansen Septic
 seo:
   page_title:
   meta_description:
-  featured_image: /uploads/amcor-1.jpg
+  featured_image: 
 date: 2020-02-05T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/amcor-1.jpg
+      image_url:
       image_alt:
   - image: 
-      image_url: /uploads/amcor-2.jpg
+      image_url:
       image_alt:
   - image: 
-      image_url: /uploads/amcor-3.jpg
+      image_url:
       image_alt:
 project_features: >-
   - Recycled foundation

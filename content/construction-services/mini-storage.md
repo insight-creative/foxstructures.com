@@ -37,7 +37,7 @@ faq_block:
         Self-storage businesses are becoming more and more popular in Wisconsin and throughout the nation. That’s because they require minimal upkeep and can provide a great return on investment if you follow the proper steps and invest in high-quality building materials like those offered at Fox Structures. 
 
 
-        Once you have a storage unit facility built or purchased, you can rent out the units as a landlord would rent apartment space. Because [personal storage is in such high demand](/blog/storage-building-demand/), this can be a great business opportunity.
+        Once you have a storage unit facility built or purchased, you can rent out the units as a landlord would rent apartment space. Because [personal storage is in such high demand](/resources/storage-building-demand/), this can be a great business opportunity.
     - question: How much does it cost to construct a mini storage facility?
       answer: >-
         The cost of constructing a mini storage business space varies greatly depending on your specific project specifications, timeline and more. Here at Fox Structures, we offer premier storage building services that take your unique vision and needs into account, as well as the use of high-quality materials that last, even in harsh Wisconsin weather conditions. 

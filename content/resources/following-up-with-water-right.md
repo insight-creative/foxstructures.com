@@ -55,4 +55,4 @@ We value client feedback, and asked Kurt if, after many years in the same buildi
 ## Commercial Buildings Made to Last
 At Fox Structures, we don’t just construct commercial buildings—we help to design, maintain, update, repair and remodel buildings that stand the test of time. All while keeping your unique business operations and building needs in mind.
 
-Dreaming of a new build for your business? View our [commercial construction services](/services/commercial/).
+Dreaming of a new build for your business? View our [commercial construction services](/construction-services/commercial/).

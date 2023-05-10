@@ -37,7 +37,7 @@ Review our similar [past projects](/portfolio/), then [contact us](/contact/) to
 - Complete design/build services including engineering and architectural support
 - State plan approval
 - General contracting and turnkey services
-  - Welding
+  - [Welding](/construction-services/welding/)
   - Electrical
   - Plumbing
   - Painting
@@ -45,12 +45,7 @@ Review our similar [past projects](/portfolio/), then [contact us](/contact/) to
   - Masonry
 - Dry walling
 - Insulating
-- Self-performed concrete work
-- Highest quality craftsmanship
-- Hands-on management
-- Realistic completion dates
-- Successful completion within budget
-- Self-performed concrete work
+- [Self-performed concrete work](/construction-services/concrete/)
 - Highest quality craftsmanship
 - Hands-on management
 - Realistic completion dates
