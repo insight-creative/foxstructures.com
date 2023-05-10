@@ -13,17 +13,17 @@
             <ul class="staff-list max-width-none grid-columns-3">
                 {{ $staffPages := where .Site.RegularPages "Section" "about" }}
                 {{ range $staffPages }}
-                {{ if strings.HasPrefix .RelPermalink "/about/leadership/" }}
-                    <li class="card card--staff flex flex-column p-relative">
-                        <div class="card__image-wrap">
-                            <img src="{{ .Params.headshot }}" alt="">
-                        </div>
-                        <div class="card__content text-align-center text-color-white">
-                            <h3 class="no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                            <p class="card__job-position font-size-xs shift-up letter-spacing-2 fw-700">{{ .Params.job_position }}</p>
-                        </div>
-                    </li>
-                {{ end }}
+                    {{ if strings.HasPrefix .RelPermalink "/about/leadership/" }}
+                        <li class="card card--staff flex flex-column p-relative">
+                            <div class="card__image-wrap">
+                                <img src="{{ .Params.headshot }}" alt="">
+                            </div>
+                            <div class="card__content text-align-center text-color-white">
+                                <h3 class="no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                                <p class="card__job-position font-size-xs shift-up letter-spacing-2 fw-700">{{ .Params.job_position }}</p>
+                            </div>
+                        </li>
+                    {{ end }}
                 {{ end }}
             </ul>
         </div>
