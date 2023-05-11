@@ -49,8 +49,8 @@
                 </li>
             {{ else }}
             <li class="header__nav-list-item">
-              {{ $contact := "Contact Us" }}
-              <a class="{{ if eq .Name $contact }}btn btn--primary{{ else }}header__nav-list-link{{ end }}" href="{{ .URL }}" aria-label="{{ .Name }}">
+              {{ $careeres := "Careers" }}
+              <a class="{{ if eq .Name $careeres }}btn btn--primary{{ else }}header__nav-list-link{{ end }}" href="{{ .URL }}" aria-label="{{ .Name }}">
                   {{ .Name }}
               </a>
             </li>

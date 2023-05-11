@@ -7,8 +7,8 @@ menu:
   footer:
     weight: 2
 seo:
-  page_title:
-  meta_description:
+  page_title: Commercial Construction Services in Kaukauna, WI
+  meta_description: From retail storefronts to specialized structures, we know that your needs are unique. Learn how we can build the best solution for your company’s needs.
   featured_image: /uploads/water-right-small.jpg
 sector: Commercial
 hero: 
@@ -17,7 +17,7 @@ hero:
   body: Design and build your custom office space, light industrial building, mini-warehouse or other commercial structure.
   image: 
     image_url: /uploads/clean-water-1.jpg
-    image_alt: 
+    image_alt: Exterior view of Water Right's Clean Water Center from their parking lot
   button:
     enabled: true
     open_in_new_tab: false

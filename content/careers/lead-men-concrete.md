@@ -2,7 +2,7 @@
 title: Lead Men (Concrete)
 seo:
   page_title:
-  meta_description:
+  meta_description: "Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
   featured_image: /uploads/poured-concrete.jpg
 ---
 

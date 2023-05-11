@@ -2,7 +2,7 @@
 title: Redtail Ridge Dairy
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how after constructing almost a dozen agricultural buildings at Redtail Ridge, Fox Structures is the go-to source for the farm’s expansion projects.
   featured_image: /uploads/redtail-ridge-dairy-1.jpg
 date: 2020-10-26T07:00:00Z
 gallery: 

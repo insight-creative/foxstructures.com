@@ -2,7 +2,7 @@
 title: Speedy Clean Remodel and Additions
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how over four years, Speedy Clean relied on Fox Structures for expansion projects including two new buildings, an addition and an extensive remodel.
   featured_image: /uploads/speedy-clean-1.jpg
 date: 2022-05-10T07:00:00Z
 gallery: 

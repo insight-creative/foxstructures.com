@@ -2,7 +2,7 @@
 title: CarTech Auto Repair
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how in just three months, Fox Structures helped CarTech rev up their customer experience with a showstopping remodel featuring many new amenities.
   featured_image: /uploads/cartech-1.jpg
 date: 2021-11-23T07:00:00Z
 gallery: 

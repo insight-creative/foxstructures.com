@@ -4,7 +4,7 @@
     <div class="bg-secondary text-align-center">
       <div class="block-md">
         <div class="wrapper-sm flow">
-          <h2 class="h1 no-margin">{{ .heading }}</h2>
+          <h2 class="h1 no-margin" id="{{ .heading | urlize }}">{{ .heading }}</h2>
           <div class="cta__body">{{ .body }}</div>
           {{ if .button.enabled }}
             {{ with .button }}

@@ -11,7 +11,7 @@ categories:
   - News
 ---
 
-<img src="/uploads/pat-hofacker.jpg">
+<img src="/uploads/pat-hofacker.jpg" alt="headshot of Pat Hofacker">
 
 Fox Structures recently hired Pat Hofacker as sales representative. With extensive farming and construction experience, Hofacker will specialize in leading agricultural and commercial projects from initial layout and design to finishing touches.
 

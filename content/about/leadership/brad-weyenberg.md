@@ -2,8 +2,8 @@
 title: Brad Weyenberg
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: An owner since 2016, Brad’s exceptional organization skills and extreme attention to detail greatly contribute to the success of every job he leads at Fox Structures.
+  featured_image: /uploads/brad-weyenberg.jpg
 headshot: /uploads/brad-weyenberg.jpg
 job_position: Foreman
 ---

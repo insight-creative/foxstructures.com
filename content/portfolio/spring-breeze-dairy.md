@@ -2,7 +2,7 @@
 title: Spring Breeze Dairy
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures built a new free-stall barn—complete with an innovative maternity wing—and demolished and rebuilt a neighboring barn.
   featured_image: /uploads/spring-breeze-dairy-1.jpg
 date: 2022-02-24T07:00:00Z
 gallery: 

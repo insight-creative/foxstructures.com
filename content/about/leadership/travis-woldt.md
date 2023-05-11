@@ -2,8 +2,8 @@
 title: Travis Woldt
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: An owner since 2016, Travis supervises up to six crews on and off a variety of Fox Structures’ construction sites.
+  featured_image: /uploads/travis-woldt.jpg
 headshot: /uploads/travis-woldt.jpg
 job_position: Foreman
 ---

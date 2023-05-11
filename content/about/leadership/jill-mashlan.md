@@ -2,8 +2,8 @@
 title: Jill Mashlan
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: As the office manager, Jill is the first face you’ll see when visiting or the first voice you’ll hear when calling Fox Structures.
+  featured_image: /uploads/jill-mashlan.jpg
 headshot: /uploads/jill-mashlan.jpg
 job_position: Human Resources/Office Manager
 ---

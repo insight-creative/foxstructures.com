@@ -2,7 +2,7 @@
 title: Experienced Building Foreman/Supervisor
 seo:
   page_title:
-  meta_description:
+  meta_description: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.
   featured_image: /uploads/fox-structures-build-project.jpg
 ---
 

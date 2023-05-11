@@ -2,7 +2,7 @@
 title: Hidden Hollow
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures helped bring to life the whimsical vision for Hidden Hollow ART’s retail space.
   featured_image: /uploads/hidden-hollow-1-optimized.jpg
 date: 2019-11-18T07:00:00Z
 gallery: 

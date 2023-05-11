@@ -7,9 +7,9 @@ menu:
   footer:
     weight: 5
 seo:
-  page_title:
-  meta_description:
-  featured_image: /uploads/angotti-residential-building-fox-structures-mid.jpg
+  page_title: Residential Construction Services in Kaukauna, WI
+  meta_description: Design and build your shouse, at-home storage facility, warehouse or workshop with top-quality materials built to last.
+  featured_image: /uploads/waldron-sports-facility-8.jpg
 sector: Residential
 hero: 
   enabled: true
@@ -17,7 +17,7 @@ hero:
   body: Design and build your shouse, at-home storage facility, warehouse or workshop with top-quality materials built to last.
   image: 
     image_url: /uploads/waldron-sports-facility-8.jpg
-    image_alt: 
+    image_alt: An old barn converted to sports practice facility with blue and yellow painted basketball court and basketball hoop mounted on wall.
   button:
     enabled: true
     open_in_new_tab: false

@@ -2,7 +2,7 @@
 title: Carpenter/Erection Laborer
 seo:
   page_title:
-  meta_description:
+  meta_description: "Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
   featured_image: /uploads/erection-laborers-on-jobsite.jpg
 ---
 

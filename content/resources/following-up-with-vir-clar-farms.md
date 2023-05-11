@@ -2,7 +2,7 @@
 title: "A Life-Long Ag Construction Partnership: Following up with Vir-Clar Farm"
 seo:
   page_title:
-  meta_description: 
+  meta_description: Learn how Vir-Clar Farm’s ongoing partnership with Fox Structures has helped build, maintain and grow their farm with quality ag construction.
   featured_image: /uploads/vir-clar-farms.jpg
 draft: false
 author:

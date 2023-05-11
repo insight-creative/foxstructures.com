@@ -2,7 +2,7 @@
 title: Waldron’s Youth Sports Facility
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures helped the Waldrons convert their 1950s-style shed into a practice facility for their two sons and teammates.
   featured_image: /uploads/waldron-sports-facility-10.jpg
 date: 2020-07-07T07:00:00Z
 gallery: 

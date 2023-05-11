@@ -2,7 +2,7 @@
 title: Milk Source
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures helped restore two collapsed barn roofs at Milk Source and rebuild the farm’s infrastructure to be even stronger than before.
   featured_image: /uploads/milk-source-1-optimized.jpg
 date: 2019-11-16T07:00:00Z
 gallery: 

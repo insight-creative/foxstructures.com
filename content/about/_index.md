@@ -16,7 +16,7 @@ hero:
     Providing the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.
   image: 
     image_url: /uploads/oaks-golf-course-drone-shot.jpg
-    image_alt:
+    image_alt: Aerial drone view of the Oak Golf Course clubhouse
   button:
     enabled: false
     open_in_new_tab: true
@@ -38,5 +38,6 @@ intro:
     Since 1982 Fox Structures has focused on two things: listening to customers and delivering what we promise. That’s a pretty simple business plan for a design/build contractor. But it’s one that works. From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way. Fox Structures’ owners are even present on every job, ensuring we complete projects to our customer’s personal specifications, in the most cost-efficient manner, while always meeting our own demanding quality standards.
   image: 
     image_url: /uploads/fox-owners-group.jpg
+    image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---
 

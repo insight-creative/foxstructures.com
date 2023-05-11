@@ -7,9 +7,9 @@ menu:
   footer:
     weight: 4
 seo:
-  page_title:
-  meta_description:
-  featured_image: /uploads/steve-frisch-equestrian-facility.jpg
+  page_title: Equestrian Construction Services in Kaukauna, WI
+  meta_description: Our team has years of experience building functional riding arenas, stall barns, run-in shelters and more.
+  featured_image: /uploads/equestrian-hero-image.jpg
 sector: Equestrian
 hero: 
   enabled: true
@@ -17,7 +17,7 @@ hero:
   body: Our team has years of experience building functional riding arenas, stall barns, run-in shelters and more.
   image: 
     image_url: /uploads/equestrian-hero-image.jpg
-    image_alt: 
+    image_alt: Small custom horse barn with natural wood pillars
   button:
     enabled: true
     open_in_new_tab: false

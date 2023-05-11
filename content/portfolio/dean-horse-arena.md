@@ -2,7 +2,7 @@
 title: Dean Horse Arena
 seo:
   page_title:
-  meta_description:
+  meta_description: When the Deans needed a large indoor riding arena attached to their current barn, Fox Structures put their equestrian experience to work.
   featured_image: /uploads/dean-horse-arena-1.jpg
 date: 2022-01-28T07:00:00Z
 gallery: 

@@ -2,7 +2,7 @@
 title: The Oaks Golf Course
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures collaborated with the owners of The Oaks Golf Course in Cottage Grove to convert their existing retail space into a new office.
   featured_image: /uploads/oaks-golf-course-1.jpg
 date: 2019-11-20T07:00:00Z
 featured: true

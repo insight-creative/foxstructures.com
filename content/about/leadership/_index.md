@@ -4,8 +4,8 @@ menu:
   explore:
     weight: 2
 seo:
-  page_title:
-  meta_description:
+  page_title: Our Leadership
+  meta_description: From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way.
   featured_image:
 hero: 
   enabled: true
@@ -14,7 +14,7 @@ hero:
     Providing the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.
   image: 
     image_url: /uploads/oaks-golf-course-drone-shot.jpg
-    image_alt:
+    image_alt: Aerial drone view of the Oak Golf Course clubhouse
   button:
     enabled: false
     open_in_new_tab: true

@@ -2,8 +2,8 @@
 title: Mark Mashlan
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: Mark brings friendly service, forthright advice and over 30 years of building experience to his leadership role at Fox Structures.
+  featured_image: /uploads/mark-mashlan.jpg
 headshot: /uploads/mark-mashlan.jpg
 job_position: President
 ---

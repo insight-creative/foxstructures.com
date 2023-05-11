@@ -7,8 +7,8 @@ menu:
   footer:
     weight: 7
 seo:
-  page_title:
-  meta_description:
+  page_title: Welding Services in Kaukauna, WI
+  meta_description: From crafting blueprints to custom engineering, our full-service weld shop takes construction to the next level.
   featured_image: /uploads/welder-working-in-shop.jpg
 sector: Welding
 hero: 
@@ -17,7 +17,7 @@ hero:
   body: From crafting blueprints to custom engineering, our full-service weld shop takes construction to the next level.
   image: 
     image_url: /uploads/forest-brook-farms-welding.jpg
-    image_alt: 
+    image_alt: A custom steel handrail leading to the lower level of an office building at Forest Brook Farms
   button:
     enabled: true
     open_in_new_tab: false

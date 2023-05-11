@@ -2,13 +2,13 @@
 title: Careers
 menu:
   main:
-    weight: 5
+    weight: 6
   explore:
     weight: 3
 seo:
-  page_title:
-  meta_description:
-  featured_image:
+  page_title: Construction Careers in WI
+  meta_description: Our employees are the backbone of our success. Learn about our benefits such as health insurance, 401(k), life insurance, and profit sharing.
+  featured_image: /uploads/hiring-image-3.jpg
 hero: 
   enabled: true
   heading: Careers

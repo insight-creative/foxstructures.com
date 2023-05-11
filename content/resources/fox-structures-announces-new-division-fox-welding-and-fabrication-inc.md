@@ -16,7 +16,7 @@ Fox Structures recently opened its own welding division, Fox Welding and Fabrica
 
 “We’ll be able to tackle weld projects within the shop while working on other aspects of the build onsite,” Fox Structures President Mark Mashlan shared. “This type of efficiency will save our customers time and money.”
 
-{{< responsive-image image_url="/uploads/foxWeldingShopInteriorMedium.jpg" image_alt="" >}}
+{{< responsive-image image_url="/uploads/foxWeldingShopInteriorMedium.jpg" image_alt="Interior of Fox Structures welding shop" >}}
 
 Fox Structures’ decision to expand into welding came initially as the result of numerous changes in recent years to the agricultural industry. “As dairy industry expansion has slowed, we realized the vast majority of existing freestall barns were built 15 or more years ago,” Mashlan added. “It’s time to repair and remodel those facilities for those farms to remain productive.” With the ability to quickly produce the metal goods required in many of these remodels, the weld shop provides great value to customers, saving them both time and money.
 

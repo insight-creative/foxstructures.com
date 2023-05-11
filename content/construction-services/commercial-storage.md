@@ -12,7 +12,7 @@ hero:
   body: Design and build your custom commercial office building with strategic, space-saving design layouts and top-quality materials built to last.
   image: 
     image_url: /uploads/mr-q-shops-and-storage-1.jpg
-    image_alt: 
+    image_alt: Drone view of Mr. Q's Shops and Storage and their five storage buildings
   button:
     enabled: true
     open_in_new_tab: false

@@ -6,8 +6,8 @@ menu:
   explore:
     weight: 4
 seo:
-  page_title:
-  meta_description:
+  page_title: Construction Portfolio
+  meta_description: From commercial office spaces and mini-warehouses to pole barns and milking parlors, our expert construction team has designed and built it all.
   featured_image: /uploads/forest-brook-farms-7.jpg
 hero: 
   enabled: true

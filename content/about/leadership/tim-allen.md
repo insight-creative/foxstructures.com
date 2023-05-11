@@ -2,8 +2,8 @@
 title: Tim Allen
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: Identifying his career path early on, Tim’s high school work-study program led him to his first welding job over 25 years ago.
+  featured_image: /uploads/tim-allen.jpg
 headshot: /uploads/tim-allen.jpg
 job_position: Agriculture Specialist
 ---

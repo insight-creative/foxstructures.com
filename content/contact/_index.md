@@ -2,13 +2,13 @@
 title: Contact Us
 menu:
   main:
-    weight: 6
+    weight: 5
   explore:
     weight: 5
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: If you’ve got a large-scale building project to complete, Fox Structures has the expertise to make it happen—on your budget and timeline.
+  featured_image: /uploads/fox-structures-offices.jpg
 hero: 
   enabled: true
   heading: Contact Us
@@ -16,7 +16,7 @@ hero:
     If you’ve got a large-scale building project to complete, Fox Structures has the specialty equipment and expertise to make it happen—on your budget and timeline.
   image:
     image_url: /uploads/fox-structures-offices.jpg
-    image_alt: 
+    image_alt: Exterior of the main Fox Structures office building
   button:
     enabled: false
     open_in_new_tab: true

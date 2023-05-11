@@ -2,7 +2,7 @@
 title: Water Right
 seo:
   page_title:
-  meta_description:
+  meta_description: During June of 2013 Fox Structures broke ground on a 31,000 sq. ft. addition to Water Right of Appleton.
   featured_image: /uploads/water-right-1-optimized.jpg
 date: 2019-11-17T07:00:00Z
 gallery: 

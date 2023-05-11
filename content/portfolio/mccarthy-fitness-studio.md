@@ -2,7 +2,7 @@
 title: McCarthy Fitness Studio
 seo:
   page_title:
-  meta_description:
+  meta_description: After enlisting Fox Structures to build multiple agriculture buildings on their dairy farm, the McCarthys knew they had the creativity and skill for this unique project.
   featured_image: /uploads/mycarthy-gym-1.jpg
 date: 2020-09-10T07:00:00Z
 gallery: 

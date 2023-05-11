@@ -12,7 +12,7 @@ hero:
   body: Design and build your custom commercial office building with strategic, space-saving design layouts and top-quality materials built to last.
   image: 
     image_url: /uploads/american-family-insurance-1.jpg
-    image_alt: 
+    image_alt: Exterior of the American Family Insurance office in Chilton, WI
   button:
     enabled: true
     open_in_new_tab: false

@@ -15,6 +15,7 @@
         {{  end }}
     </div>
     <div class="card__content bg-white">
-        <h3 class="h4"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <h3 class="h4 no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="opacity-80 font-size-xs no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
     </div>
 </li>

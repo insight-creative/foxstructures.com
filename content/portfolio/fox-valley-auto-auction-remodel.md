@@ -2,7 +2,7 @@
 title: Fox Valley Auto Auction Remodel
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures helped Fox Valley Auto Auction determine which upgrades would make the biggest impact and give the building a much-needed remodel.
   featured_image: /uploads/fox-valley-auto-auction-cover-1.jpg
 date: 2022-11-30T07:00:00Z
 gallery: 

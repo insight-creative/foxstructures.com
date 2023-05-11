@@ -2,7 +2,7 @@
 title: "Commercial Construction Built to Last: Following up with Water-Right"
 seo:
   page_title:
-  meta_description:
+  meta_description: With Fox Structures commercial construction, you can count on high-quality commercial buildings that stand the test of time! Just ask our customers.
   featured_image: /uploads/water-right-inc-new-cover.jpg
 draft: false
 author:

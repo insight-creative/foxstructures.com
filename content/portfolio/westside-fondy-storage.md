@@ -2,7 +2,7 @@
 title: Westside Fondy Storage
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how in just two months, Fox Structures built two new warehouses totaling an additional 54 storage units for Westside Fondy Storage.
   featured_image: /uploads/westside-fondy-storage-1.jpg
 date: 2022-09-12T07:00:00Z
 gallery: 

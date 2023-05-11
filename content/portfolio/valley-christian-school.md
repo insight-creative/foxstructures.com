@@ -2,7 +2,7 @@
 title: Valley Christian School
 seo:
   page_title:
-  meta_description:
+  meta_description: Learn how Fox Structures built Valley Christian School of Oshkosh a custom school wing to withstand the activity of kids today and vehicles in the future.
   featured_image: /uploads/valley-christian-school-1.jpg
 date: 2021-06-25T07:00:00Z
 gallery: 

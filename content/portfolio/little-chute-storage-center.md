@@ -2,7 +2,7 @@
 title: Little Chute Storage Center
 seo:
   page_title:
-  meta_description:
+  meta_description: When Little Chute Storage Center needed a full-service contractor, they selected Fox Structures based on their strong storage construction reputation.
   featured_image: /uploads/little-chute-storage-1.jpg
 date: 2020-04-10T07:00:00Z
 gallery: 
