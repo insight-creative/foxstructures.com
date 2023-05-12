@@ -10,7 +10,7 @@
         {{ if .Params.seo.featured_image }}
             <img src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" class="card__img dim">
             <div class="overlay overlay--yellow-gradient">
-                <div class="btn btn--secondary" aria-label="Learn more about Fox Structures' {{ .Title }} Services">Read More</div>
+                <div class="btn btn--secondary">Read More</div>
             </div>
         {{ else }}
             <img src="https://source.unsplash.com/random/800x600?farm" alt="" class="card__img dim">
@@ -21,7 +21,7 @@
     </div>
     <div class="card__content bg-white flow">
         <div>
-            <h3 class="h4"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h2 class="h4"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         </div>
         <div class="card__summary font-size-xs">{{ if .Params.seo.meta_description }}{{ .Params.seo.meta_description | safeHTML | truncate 125 }}{{ else }}{{ .Summary  | safeHTML | truncate 125 }}{{ end }}</div>
     </div>

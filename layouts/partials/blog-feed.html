@@ -4,11 +4,11 @@
         <div class="block-md">
             {{ $pages := .Site.RegularPages }}
             {{ $blog := where $pages "Type" "resources" }}
-            <div class="grid-columns-3">
+            <ul class="grid-columns-3 max-width-none">
                 {{- range first 3 $blog -}}
                 {{ .Render "blog-card" }}
                 {{- end -}}
-            </div>
+            </ul>
         </div>
         <div class="text-align-center">
             <a href="/resources/" class="btn btn--secondary">View All Posts</a>

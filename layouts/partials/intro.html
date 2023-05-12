@@ -5,7 +5,7 @@
       <div class="grid-12 grid-5-md flow">
         {{ partial "heading" . }}
         {{ if .body }}
-          <p>{{ .body | markdownify }}</p>
+          <div class="flow">{{ .body | markdownify }}</div>
         {{ end }} 
         {{ if .button.enabled }}
           {{ with .button }}

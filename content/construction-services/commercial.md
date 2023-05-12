@@ -10,6 +10,7 @@ seo:
   page_title: Commercial Construction Services in Kaukauna, WI
   meta_description: From retail storefronts to specialized structures, we know that your needs are unique. Learn how we can build the best solution for your company’s needs.
   featured_image: /uploads/water-right-small.jpg
+  featured_image_alt: Front exterior of the Water Right office building
 sector: Commercial
 hero: 
   enabled: true

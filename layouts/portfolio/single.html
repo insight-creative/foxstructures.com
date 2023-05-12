@@ -15,7 +15,7 @@
             <h2>Project Details</h2>
             {{ if .Params.sectors }}
                 <div>
-                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Type</div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 letter-spacing-2">Type</div>
                     {{ range (.GetTerms "sectors") }}
                         <a href="{{ .Permalink }}" class="" aria-label="View all {{ .LinkTitle }} posts">{{ .LinkTitle }}</a>
                     {{ end }}
@@ -23,7 +23,7 @@
             {{ end }}
             {{ if .Params.location }}
                 <div>
-                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Location</div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 letter-spacing-2">Location</div>
                     <address>
                         <p>
                             {{ .Params.location.street }}<br>
@@ -34,12 +34,12 @@
             {{ end }}
             {{ if .Params.specs }}
                 <div>
-                    <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Specs</div>
+                    <div class="project-details__label shift-up font-size-xs fw-700 letter-spacing-2">Specs</div>
                     <div>{{ .Params.specs | markdownify }}</div>
                 </div>
             {{ end }}
             <div class="project-share-buttons">
-                <div class="project-details__label shift-up font-size-xs fw-700 opacity-80 letter-spacing-2">Share</div>
+                <div class="project-details__label shift-up font-size-xs fw-700 letter-spacing-2">Share</div>
                 {{ partial "portfolio/share-buttons" . }}
             </div>
         </div>

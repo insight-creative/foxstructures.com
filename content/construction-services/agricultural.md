@@ -10,6 +10,7 @@ seo:
   page_title: Agricultural Construction Services in Kaukauna, WI
   meta_description: Fox Structures designs and builds unique agricultural facilities for customers in northeast Wisconsin.
   featured_image: /uploads/plum-creek-dairy-1.jpg
+  featured_image_alt: Drone view of plum creek dairy and three large free-stall cattle barns
 sector: Agricultural
 hero: 
   enabled: true

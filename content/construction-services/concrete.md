@@ -10,6 +10,7 @@ seo:
   page_title: Concrete Construction Services in Kaukauna, WI
   meta_description: Your expert contractor for custom concrete foundations & slabs, commercial parking lots, retaining walls, patios & walkways, irrigation structures & more.
   featured_image: /uploads/concrete-placeholder-small.jpg
+  featured_image_alt: Freshly poured concrete stamped to look like brick cobblestones
 sector: Concrete
 hero: 
   enabled: true

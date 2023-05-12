@@ -10,9 +10,9 @@
                 {{ if not (in $exclude .Title) }}
                     <li class="service-card flex flex-column p-relative col">
                         <div class="service-card__image-wrap p-relative cover-image">
-                            <img src="{{ .Params.seo.featured_image }}" class="image" alt="custom calf barn designed and built by Fox Structures">
+                            <img src="{{ .Params.seo.featured_image }}" class="image" alt="{{ .Params.seo.featured_image_alt }}">
                             <div class="overlay overlay--yellow-gradient">
-                                <div class="btn btn--secondary" aria-label="Learn more about Fox Structures' {{ .Title }} Services">Learn More</div>
+                                <div class="btn btn--secondary">Learn More</div>
                             </div>
                         </div>
                         <div class="service-card__content bg-primary text-color-white flow">

@@ -5,11 +5,11 @@
             {{ $pages := .Site.RegularPages }}
             {{ $blog := where $pages "Type" "resources" }}
             {{ $newsBlog := where $blog "Params.categories" "intersect" (slice "News") }}
-            <div class="columns gap-sm">
+            <ul class="grid-columns-3 max-width-none">
                 {{- range first 3 $newsBlog -}}
                     {{ .Render "blog-card" }}
                 {{- end -}}
-            </div>
+            </ul>
         </div>
         <div class="text-align-center">
             <a href="/resources/" class="btn btn--secondary">View All Posts</a>

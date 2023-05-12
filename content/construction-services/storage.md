@@ -10,6 +10,7 @@ seo:
   page_title: Storage Construction Services in Kaukauna, WI
   meta_description: Start or expand your storage business with custom wood and steel storage structures featuring all siding and roofing options.
   featured_image: /uploads/appleton-northeast-storage-1.jpg
+  featured_image_alt: Drone view of Appleton Northeast Storage and 18 storage buildings
 sector: Storage
 hero: 
   enabled: true

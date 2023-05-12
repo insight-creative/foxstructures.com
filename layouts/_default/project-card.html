@@ -10,12 +10,12 @@
         {{ if .Params.seo.featured_image }}
             <img src="{{ .Params.seo.featured_image }}" alt="" class="card__img dim">
             <div class="overlay overlay--yellow-gradient">
-                <div class="btn btn--secondary" aria-label="Learn more about Fox Structures' {{ .Title }} Services">Learn More</div>
+                <div class="btn btn--secondary">Learn More</div>
             </div>
         {{  end }}
     </div>
     <div class="card__content bg-white">
-        <h3 class="h4 no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <h2 class="h4 no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <p class="opacity-80 font-size-xs no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
     </div>
 </li>
