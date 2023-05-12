@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/foxWeldingEmployeeWorkingInShop-1.jpg
+  featured_image_alt: Fox Structures welder working on a large metal welding project
 draft: false
 author:
 date: 2019-03-24

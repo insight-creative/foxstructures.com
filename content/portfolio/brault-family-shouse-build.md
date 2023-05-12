@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures built the residence and workshop Michelle and her husband Paul had been dreaming about.
   featured_image: /uploads/brault-shouse-1.jpg
+  featured_image_alt: Front exterior of the Bault family shouse with black metal siding and covered front porch
 date: 2022-08-16T07:00:00Z
 gallery: 
   - image: 

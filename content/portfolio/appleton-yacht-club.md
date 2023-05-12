@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures overcame winter weather and strict DNR compliance standards to replace over 50-year-old roof structures at the Appleton Yacht Club.
   featured_image: /uploads/appleton-yacht-club-6-optimized.jpg
+  featured_image_alt: Covered boat docks with new roofing at the Appleton Yacht Club
 date: 2019-11-19T07:00:00Z
 gallery: 
   - image: 

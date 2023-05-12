@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures helped the Kesler Family rebuild a beautiful Amish-style barn to fulfill their ambitions for an even more exciting future.
   featured_image: /uploads/kesler-farms-1-optimized.jpg
+  featured_image_alt: A red and white barn built on the Kesler Family Farm
 date: 2019-11-23T07:00:00Z
 gallery: 
   - image: 

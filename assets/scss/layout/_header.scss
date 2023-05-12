@@ -55,7 +55,7 @@
 }
 
 .header__mobile-nav-link {
-  font-size: $ic-200; 
+  font-size: $ic-100; 
   border-bottom: 1px solid $light-gray;
   color: $black;
 }
@@ -332,8 +332,15 @@
   ul {
     padding: $ic-300 0;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     max-width: 100%;
+  }
+}
+
+#submenu-about .header__sub-menu-inner {
+
+  ul {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 

@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures helped rebuild a larger, more functional structure for Hansen Septic.
   featured_image: 
+  featured_image_alt:
 date: 2020-02-05T07:00:00Z
 gallery: 
   - image: 

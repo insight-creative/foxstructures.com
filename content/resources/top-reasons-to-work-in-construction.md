@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: 
   featured_image: /uploads/Verhasselt-CroppedMedium-2.jpg
+  featured_image_alt: Workers on lifts while constructing a new large free stall cattle barn
 draft: false
 author:
 date: 2022-02-23

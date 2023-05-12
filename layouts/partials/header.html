@@ -34,14 +34,14 @@
                       <div class="header__sub-menu-content grid-4 flow">
                         <span class="h5 fw-700">Quality Structures Built to Last</span>
                         <p class="font-size-xs">Fox Structures has provided the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.</p>
-                        <a href="/portfolio/" class="btn btn--arrow btn--arrow-dark">See Our Work <div class="icon-md icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+                        <a href="/portfolio/" class="btn btn--arrow btn--arrow-dark">See Our Work <div class="icon-md icon-stroke-secondary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
                       </div>
                       {{ end }}                         
                       {{ if eq .Name "About" }}
                       <div class="header__sub-menu-content grid-4 flow">
                         <span class="h5 fw-700">Join Our Team</span>
                         <p class="font-size-xs">Looking to hone your construction expertise with a great team? View our open positions and apply today!</p>
-                        <a href="/careers/" class="btn btn--arrow btn--arrow-dark">Join Our Team <div class="icon-md icon-stroke-primary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
+                        <a href="/careers/" class="btn btn--arrow btn--arrow-dark">Join Our Team <div class="icon-md icon-stroke-secondary">{{ partialCached "svg-icons/double-chevron-right.svg" . }}</div></a>
                       </div>
                       {{ end }}                         
                     </div>
@@ -75,9 +75,9 @@
                   </ul>
                 </li>
                 {{ else }}
-              <li class="header__mobile-nav-item">
-                <a class="header__mobile-nav-link" href="{{ .URL }}" aria-label="{{ .Name }}" title="{{ .Name }}">{{ .Name }}</a>
-              </li>
+                <li class="header__mobile-nav-item">
+                  <a class="header__mobile-nav-link fw-500" href="{{ .URL }}" aria-label="{{ .Name }}" title="{{ .Name }}">{{ .Name }}</a>
+                </li>
               {{ end }}
             {{ end }}
             {{ with .Site.Menus.secondary }}

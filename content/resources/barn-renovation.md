@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Are outdated ag buildings slowing down your farm operation? Watch out for these clear signs it’s time to renovate your barn.
   featured_image: /uploads/old-dilapidated-barn.jpg
+  featured_image_alt: An old dilapidated barn with weathered red paint and warped wood siding
 draft: false
 author:
 date: 2022-11-04

@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/new-printing-1-optimized.jpg
+  featured_image_alt: Front Exterior of the new N.E.W Printing office building
 date: 2019-11-17T07:00:00Z
 gallery: 
   - image: 

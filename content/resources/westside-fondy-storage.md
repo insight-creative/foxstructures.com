@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: When Kurt from Westside Fondy Storage wanted to expand their business and create additional storage units, he reached out to Fox Structures to get the job done right.
   featured_image: /uploads/west-side-fondy-video-preview.jpg
+  featured_image_alt:
 draft: false
 author:
 date: 2022-09-12T07:00:00Z

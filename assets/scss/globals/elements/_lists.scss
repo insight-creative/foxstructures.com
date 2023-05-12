@@ -8,7 +8,7 @@ ol li + li {
 }
 
 .site-main {
-  ul li:not(.service-card, .share-buttons__list-items, .social__list-item, .category-list__item, .card, .project-share-buttons li) {
+  ul li:not(.service-card, .share-buttons__list-items, .social__list-item, .category-list__item, .card, .project-details li, .project-share-buttons li) {
     position: relative;
     list-style-type: none;
     break-inside: avoid;
@@ -20,11 +20,17 @@ ol li + li {
       background-size: contain;
       content: "";
       display: block;
-      height: 16px;
-      width: 16px;
+      height: 14px;
+      width: 14px;
       left: -$ic-400;
       position: absolute;
-      top: 8px;
+      top: 5px;
+
+      @include breakpoint(md) {
+        height: 16px;
+        width: 16px;
+        top: 8px;
+      }
     }
   }
 }

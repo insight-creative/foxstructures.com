@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description:
   featured_image: /uploads/style-guide.jpg
+  featured_image_alt:
 draft: true
 author:
 date: 2022-01-01T00:00:00Z

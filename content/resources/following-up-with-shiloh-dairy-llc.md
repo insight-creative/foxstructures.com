@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: With Fox Structures' agricultural construction, you can count on high-quality ag buildings that stand the test of time! Just ask our customers.
   featured_image: /uploads/shiloh-dairy-new-cover.jpg
+  featured_image_alt: Exterior of a white metal siding cattle barn at Shiloh Dairy
 draft: false
 author:
 date: 2022-09-29

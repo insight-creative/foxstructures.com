@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures built a new structure featuring two fully equipped dairy processing rooms with viewing windows, a storefront, and an office area.
   featured_image: /uploads/two-guernsey-girls-1.jpg
+  featured_image_alt: Signage for Two Guernsey Girls Creamery surrounded by flowers in small planters
 date: 2021-08-16T07:00:00Z
 gallery: 
   - image: 

@@ -39,11 +39,11 @@ intro:
   image:
     enabled: true
     image_url: /uploads/water-rite-remodel-square.jpg
-    image_alt:
+    image_alt: Marble counter with stools in the showroom area at Water Right's Clean Water Center
   image_2:
     enabled: true
     image_url: /uploads/forest-brook-farms.jpg
-    image_alt:
+    image_alt: Front exterior of Forest Brook Farms, a gray office and storage building with black accents and red doors.
 experts_in_construction: 
   enabled: true
   heading: Experts in Commercial and Agricultural Construction
@@ -65,7 +65,7 @@ join_our_team:
   image:
     enabled: true
     image_url: /uploads/hiring-image-3.jpg
-    image_alt:
+    image_alt: We're Hiring
   button:
     enabled: true
     button_url: /careers/

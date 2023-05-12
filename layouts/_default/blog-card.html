@@ -8,7 +8,7 @@
 	{{ end }}
     <div class="card__image-wrap p-relative cover-image">
         {{ if .Params.seo.featured_image }}
-        <img src="{{ .Params.seo.featured_image }}" alt="" class="card__img dim">
+            <img src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" class="card__img dim">
             <div class="overlay overlay--yellow-gradient">
                 <div class="btn btn--secondary" aria-label="Learn more about Fox Structures' {{ .Title }} Services">Read More</div>
             </div>

@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn why Fox Structures was the go-to choice to build Cecil and Green Bay Storage Center’s newest units.
   featured_image: /uploads/cecil-storage-1.jpg
+  featured_image_alt: Drone view of Cecil and Green Bay Storage Centers
 date: 2021-05-10T07:00:00Z
 gallery: 
   - image: 

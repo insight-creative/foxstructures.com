@@ -1,13 +1,15 @@
 {{ define "main" }}
-{{ partial "hero" . }}
+{{ partial "hero-small" . }}
 {{ partial "breadcrumbs" . }}
 <section class="block">
     <div class="wrapper-sm text-center flow">
         <h2>Thank you for your message!</h2>
-        <p>A {{ .Site.Data.site_settings.business_name }} team member will contact you as soon as possible. In the meantime, connect with us on social media to learn more about us.</p>
+        <p>A {{ .Site.Data.site_settings.business_name }} team member will contact you as soon as possible. In the meantime, connect with us on social media to learn more about us or browse some of our featured projects below.</p>
         <div class="text-center">
             {{ partialCached "social-media" . }}
         </div>
     </div>
 </section>
+{{ partialCached "featured-projects" . }}
+{{ partialCached "blog-feed" . }}
 {{ end }}

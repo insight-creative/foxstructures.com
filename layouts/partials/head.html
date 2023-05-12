@@ -39,7 +39,6 @@
   
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="icon" href="/uploads/favicon.svg">
-    <link rel="mask-icon" href="mask-icon.svg" color="#000000">
     <link rel="apple-touch-icon" href="/uploads/apple-touch-icon.png">
   
     {{ if hugo.IsProduction }}
@@ -61,7 +60,7 @@
   
     {{ end }}
   
-    {{ if (or (eq .Title "Home") (eq .Section "portfolio") (eq .Title "Are We the Right Builder for You?")) }}
+    {{ if (or (eq .Title "Home") (eq .Section "portfolio") (eq .Title "Are We the Right Builder for You?") (eq .Title "404 Page not found") (eq .Title "Thank You")) }}
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
     {{ end }}
 

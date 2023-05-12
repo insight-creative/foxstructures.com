@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures worked quickly to create a custom indoor pool buildout fit for their customers’ furry companions at Clever K9s in Kaukauna, WI.
   featured_image: /uploads/clever-canines-1.jpg
+  featured_image_alt: Custom indoor pool room at Clever K9s in Kaukauna, WI
 date: 2022-05-19T07:00:00Z
 gallery: 
   - image: 

@@ -16,7 +16,7 @@ hero:
     Learn more about our mission, construction process, pricing and more to determine if Fox Structures is the right builder for you!
   image: 
     image_url: /uploads/cartech-1.jpg
-    image_alt:
+    image_alt: CarTech Auto Repair signage and landscaping with CarTech building in the background
   button:
     enabled: false
     open_in_new_tab: true
@@ -41,6 +41,7 @@ intro:
     In addition to our top-quality structures, we believe that the long-term relationships we build with our clients are equally important. In fact, **80% of our business** comes from repeat customers who we’ve served for decades. Working with Fox Structures means getting a dedicated construction partner for life.
   image: 
     image_url: /uploads/fox-owners-group.jpg
+    image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: true
     button_url: /about/

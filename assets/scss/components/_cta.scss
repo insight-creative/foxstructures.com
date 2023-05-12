@@ -27,8 +27,12 @@
     margin-inline: auto;
 }
 
-.page-frequently-asked-questions .cta__body {
+.page-frequently-asked-questions .cta__body,
+.page-careers .cta__body {
     max-inline-size: 670px;
+}
+
+.page-frequently-asked-questions .cta__body {
 
     a {
         background-image: linear-gradient($black, $black),linear-gradient(270deg,$secondary-color 0%,$secondary-color 100%) !important;

@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: When Cherryland’s Best needed to remodel their massive production and storage facility, they knew Fox Structures could provide the customization needed.
   featured_image: /uploads/cherrylands-best-1-optimized.jpg
+  featured_image_alt: Large metal food processing tanks inside Cherryland's Best
 date: 2020-02-03T07:00:00Z
 gallery: 
   - image: 

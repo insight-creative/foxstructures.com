@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: After enlisting Fox Structures to build multiple agriculture buildings on their dairy farm, the McCarthys knew they had the creativity and skill for this unique project.
   featured_image: /uploads/mycarthy-gym-1.jpg
+  featured_image_alt: A home gym and training center with weights medicine balls and a variety of other workout equipment
 date: 2020-09-10T07:00:00Z
 gallery: 
   - image: 

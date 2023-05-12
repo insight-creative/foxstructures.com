@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures helped bring to life the whimsical vision for Hidden Hollow ART’s retail space.
   featured_image: /uploads/hidden-hollow-1-optimized.jpg
+  featured_image_alt: Drone view of Hidden Hollow in New Holstein, WI
 date: 2019-11-18T07:00:00Z
 gallery: 
   - image: 

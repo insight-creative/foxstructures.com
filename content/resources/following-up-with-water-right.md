@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: With Fox Structures commercial construction, you can count on high-quality commercial buildings that stand the test of time! Just ask our customers.
   featured_image: /uploads/water-right-inc-new-cover.jpg
+  featured_image_alt: Front exterior of the main Water Right office building
 draft: false
 author:
 date: 2022-08-11

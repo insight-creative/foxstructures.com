@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Vir-Clar Farm’s ongoing partnership with Fox Structures has helped build, maintain and grow their farm with quality ag construction.
   featured_image: /uploads/vir-clar-farms.jpg
+  featured_image_alt: Vir Clar Farms office and retail building exterior
 draft: false
 author:
 date: 2022-12-14

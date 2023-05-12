@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures helped the Waldrons convert their 1950s-style shed into a practice facility for their two sons and teammates.
   featured_image: /uploads/waldron-sports-facility-10.jpg
+  featured_image_alt: Blue and yellow painted basketball court inside an old barn converted into a sports training facility
 date: 2020-07-07T07:00:00Z
 gallery: 
   - image: 

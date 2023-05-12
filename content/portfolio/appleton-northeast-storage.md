@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: After years of working with Fox Structures to build storage units, Appleton Northeast Storage called again to build two additional mini-warehouses.
   featured_image: /uploads/appleton-northeast-storage-1.jpg
+  featured_image_alt: Drone view of Appletong Northeast Storage and their 18 storage buildings
 date: 2021-03-18T07:00:00Z
 gallery: 
   - image: 

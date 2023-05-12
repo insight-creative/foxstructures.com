@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how in just two months, Fox Structures built two new warehouses totaling an additional 54 storage units for Westside Fondy Storage.
   featured_image: /uploads/westside-fondy-storage-1.jpg
+  featured_image_alt: A green sided storage building at Westside Fondy Storage in Fond du Lac, WI
 date: 2022-09-12T07:00:00Z
 gallery: 
   - image: 

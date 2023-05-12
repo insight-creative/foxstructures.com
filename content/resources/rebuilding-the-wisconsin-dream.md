@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: 
   featured_image: /uploads/DogBonestallsfromSturdyBuilt-1.jpg
+  featured_image_alt: Cows laying down in their stalls at a large farm
 draft: false
 author:
 date: 2019-04-12

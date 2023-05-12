@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: When global packaging supply company, Amcor, overhauled its RE&D Campus, they turned to Fox Structures because of its strong reputation for commercial building.
   featured_image: /uploads/amcor-1.jpg
+  featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
 date: 2022-01-05T07:00:00Z
 gallery: 
   - image: 

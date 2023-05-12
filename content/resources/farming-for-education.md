@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: 
   featured_image: /uploads/kessler-barn-cover-fox-structures-low.jpg
+  featured_image_alt: Front exterior of a brand new red and white barn at Kessler family farm
 draft: false
 author:
 date: 2020-01-02

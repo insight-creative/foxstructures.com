@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: When See Farms experienced a structural fire on their livestock farm, they were left without a hay storage shed in the middle of the busy baling season.
   featured_image: /uploads/see-farms-video-preview.jpg
+  featured_image_alt:
 draft: false
 author:
 date: 2022-05-26T07:00:00Z

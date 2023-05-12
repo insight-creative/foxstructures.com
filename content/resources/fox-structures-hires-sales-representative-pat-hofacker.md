@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: 
   featured_image: /uploads/were-building-our-team-cover.jpg
+  featured_image_alt:
 draft: false
 author:
 date: 2021-07-12

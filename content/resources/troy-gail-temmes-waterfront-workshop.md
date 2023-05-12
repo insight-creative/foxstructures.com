@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Way beyond your average workshop! Troy and Gail Temme turned to Fox Structures to design, fabricate and build a multi-use workspace that’s as aesthetically pleasing as it is functional.
   featured_image: /uploads/troy-gail-temme-video-preview.jpg
+  featured_image_alt:
 draft: false
 author:
 date: 2019-11-22T07:00:00Z

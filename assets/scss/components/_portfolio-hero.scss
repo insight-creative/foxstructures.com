@@ -1,13 +1,21 @@
 .hero-portfolio,
 .hero-portfolio .gallerySwiper,
 .hero-portfolio .gallerySwiper img {
-    block-size: 98vh;
+    block-size: 60vh;
+
+    @include breakpoint(md) {
+        block-size: 98vh;
+    }
 }
 
 .hero-portfolio,
 .hero-portfolio .gallerySwiper {
-    block-size: 98vh;
+    block-size: 60vh;
     inline-size: 100vw;
+
+    @include breakpoint(md) {
+        block-size: 98vh;
+    }
 }
 
 .hero-portfolio {
@@ -20,7 +28,7 @@
 
 .hero-portfolio__content,
 .portfolio__curve {
-    inline-size: 100%;
+    inline-size: 101%;
 }
 
 .hero-portfolio__content {
@@ -29,6 +37,8 @@
     transform: translateX(-50%);
     z-index: 2;
     align-items: end;
+    background-color: $white;
+    padding-top: .5rem;
 }
 
 .portfolio__curve {
@@ -48,19 +58,34 @@
 }
 
 .thumbnailSwiper {
-    block-size: 90px;
-    inline-size: 100%;
+    display: none;
+
+    @include breakpoint(md) {
+        display: block;
+        block-size: 90px;
+        inline-size: 100%;
+    }
 }
 
 .thumbnailSwiper .swiper-slide {
-    block-size: 90px;
-    inline-size: 90px !important;
+    // block-size: 50px;
+    // inline-size: 50px !important;
+
+    @include breakpoint(md) {
+        block-size: 90px;
+        inline-size: 90px !important;
+    }
 }
 
 .thumbnailSwiper .swiper-slide img {
-    block-size: 90px;
-    inline-size: 90px !important;
-    object-fit: cover;
+    // block-size: 50px;
+    // inline-size: 50px !important;
+    
+    @include breakpoint(md) {
+        block-size: 90px;
+        inline-size: 90px !important;
+        object-fit: cover;
+    }
 }
 
 .thumbnailSwiper .swiper-slide-thumb-active::after {

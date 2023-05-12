@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how we built a quaint, yet versatile and professional, space for American Family Insurance Agent Leah Burg to meet with clients and house her small business.
   featured_image: /uploads/american-family-insurance-1.jpg
+  featured_image_alt: Front exterior of the new American Family Insurance office for Lean Burg in Chilton, WI
 date: 2021-02-19T07:00:00Z
 gallery: 
   - image: 

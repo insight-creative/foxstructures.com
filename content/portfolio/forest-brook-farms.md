@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: Learn how Fox Structures collaborated with the owner of Forest Brook Farms to design two unique multi-purpose buildings for their farm in Chilton.
   featured_image: /uploads/forest-Brook-Farms-new-cover.jpg
+  featured_image_alt: Front exterior of a large gray barn with black accents and red doors
 date: 2019-11-21T07:00:00Z
 featured: true
 order: 2

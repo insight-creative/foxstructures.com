@@ -4,6 +4,7 @@ seo:
   page_title:
   meta_description: After constructing almost a dozen agricultural buildings on Redtail Ridge’s 1,250-cow dairy, Fox Structures proved to be a go-to source for the family farm’s expansion projects.
   featured_image: /uploads/redtail-ridge-video-preview.jpg
+  featured_image_alt:
 draft: false
 author:
 date: 2020-10-26T07:00:00Z

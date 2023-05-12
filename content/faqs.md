@@ -15,7 +15,7 @@ hero:
   body: We’re here to answer all your construction questions! Get information on the construction services we offer and what it’s like to work with Fox Structures.
   image: 
     image_url: /uploads/plum-creek-dairy-1.jpg
-    image_alt: 
+    image_alt: Drone view of Plum Creek Dairy and three large free-stall cattle barns
   button:
     enabled: false
     open_in_new_tab: false
