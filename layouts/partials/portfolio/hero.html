@@ -4,37 +4,47 @@
             {{ if .Params.gallery }}
                 {{ range .Params.gallery }}
                 <div class="swiper-slide">
-                    <img src="{{ .image.image_url }}" alt="">
+                    <picture>
+                        <source sizes="100vw" srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=70&width=450&height=600&fit=crop 600w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=70&width=800&height=500&fit=crop 800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=85&width=1000&height=700&fit=crop 1000w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=85&width=1200&height=800&fit=crop 1200w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=85&width=1400&height=800&fit=crop 1400w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=85&width=1800&height=1000&fit=crop 1800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=85&width=2000&height=1000&fit=crop 2000w" type="image/avif">
+
+                        <source sizes="100vw" srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=70&width=450&height=600&fit=crop 600w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=70&width=800&height=500&fit=crop 800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=85&width=1000&height=700&fit=crop 1000w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=85&width=1200&height=800&fit=crop 1200w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=85&width=1400&height=800&fit=crop 1400w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=85&width=1800&height=1000&fit=crop 1800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=85&width=2000&height=1000&fit=crop 2000w" type="image/webp">
+
+                        <source sizes="100vw" srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=70&width=450&height=600&fit=crop 600w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=70&width=800&height=500&fit=crop 800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=85&width=1000&height=700&fit=crop 1000w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=85&width=1200&height=800&fit=crop 1200w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=85&width=1400&height=800&fit=crop 1400w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=85&width=1800&height=1000&fit=crop 1800w, https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=85&width=2000&height=1000&fit=crop 2000w" type="image/jpg">
+                    
+                        <img src="{{ .image.image_url }}" alt="{{ .image.image_alt }}" width="1500" height="600">
+                      </picture>
                 </div>
                 {{ end }}
             {{ end }}
         </div>
     </div>
-    <img class="portfolio__curve p-absolute" src="/uploads/portfolio-curves.svg" alt="">
-    <div class="hero-portfolio__content grid gap-sm wrapper-lg p-absolute">
-        <div class="grid-12 grid-6-md">
-            <p class="hero-portfolio__location opacity-80 shift-up letter-spacing-2 font-size-xs fw-700 no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
-            <h1 id="hero-heading" class="h2 no-margin shift-up letter-spacing-2">{{ .Title }}</h1>
-        </div>
-        <div class="grid-12 grid-6-md">
-            <div class="flex shift-up fw-700 font-size-xs letter-spacing-2 opacity-80">Gallery (<div class="swiper-pagination fw-700 font-size-xs">Gallery</div>)</div>
-            <div class="swiper thumbnailSwiper">
-                <div class="swiper-wrapper">
-                    {{ if .Params.gallery }}
-                        {{ range .Params.gallery }}
-                        <div class="swiper-slide">
-                            <picture>
-                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=75&width=100&height=100&fit=crop" type="image/avif">
-                            
-                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=75&width=100&height=100&fit=crop" type="image/webp">
-                            
-                                <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=75&width=100&height=100&fit=crop" type="image/jpg">
-                            
-                                <img src="{{ .image.image_url }}" alt="{{ .image.image_alt }}" width="100" height="100">   
-                            </picture>
-                        </div>
+    <div class="hero-portfolio__header p-absolute">
+        <img class="portfolio__curve p-absolute" src="/uploads/portfolio-curves-3.svg" alt="">
+        <div class="hero-portfolio__header-inner grid gap-sm wrapper-lg">
+            <div class="grid-12 grid-6-md">
+                <p class="hero-portfolio__location opacity-80 shift-up letter-spacing-2 font-size-xs fw-700 no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
+                <h1 id="hero-heading" class="h2 no-margin shift-up letter-spacing-2">{{ .Title }}</h1>
+            </div>
+            <div class="grid-12 grid-6-md">
+                <div class="flex shift-up fw-700 font-size-xs letter-spacing-2 opacity-80">Gallery (<div class="swiper-pagination fw-700 font-size-xs">Gallery</div>)</div>
+                <div class="swiper thumbnailSwiper">
+                    <div class="swiper-wrapper">
+                        {{ if .Params.gallery }}
+                            {{ range .Params.gallery }}
+                            <div class="swiper-slide">
+                                <picture>
+                                    <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=avif&q=10&width=100&height=100&fit=crop" type="image/avif">
+                                
+                                    <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=webp&q=10&width=100&height=100&fit=crop" type="image/webp">
+                                
+                                    <source srcset="https://foxstructures.imgix.net{{ .image.image_url }}?fm=jpg&q=10&width=100&height=100&fit=crop" type="image/jpg">
+                                
+                                    <img src="{{ .image.image_url }}" alt="{{ .image.image_alt }}" width="100" height="100">   
+                                </picture>
+                            </div>
+                            {{ end }}
                         {{ end }}
-                    {{ end }}
+                    </div>
                 </div>
             </div>
         </div>

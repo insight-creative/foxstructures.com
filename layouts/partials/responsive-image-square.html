@@ -5,5 +5,5 @@
 
     <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://foxstructures.imgix.net{{ .image_url }}?fm=jpg&q=75&width=350&height=350&fit=crop 400w, https://foxstructures.imgix.net{{ .image_url }}?fm=jpg&q=75&width=550&height=550&fit=crop 600w" type="image/jpg">
 
-    <img src="{{ .image_url }}" alt="{{ .image_alt }}" width="600" height="450">   
+    <img src="{{ .image_url }}" alt="{{ .image_alt }}" width="600" height="450" loading="lazy">   
 </picture>

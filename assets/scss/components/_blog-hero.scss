@@ -44,5 +44,11 @@
 .post-content {
   picture {
     display: block;
+    
+    @include breakpoint(sm) {
+      margin-left: -50px;
+      margin-right: -50px;
+      box-shadow: 0 30px 30px -15px rgba(0,0,0,.25);
+    }
   }
 }

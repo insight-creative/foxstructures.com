@@ -18,7 +18,15 @@
                     {{ if strings.HasPrefix .RelPermalink "/about/leadership/" }}
                         <li class="card card--staff flex flex-column p-relative">
                             <div class="card__image-wrap">
-                                <img src="{{ .Params.headshot }}" alt="">
+                                <picture>
+                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=avif&q=85&width=400&height=500&fit=crop" type="image/avif">
+                                
+                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=webp&q=85&width=400&height=500&fit=crop" type="image/webp">
+                                
+                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=jpg&q=85&width=400&height=500&fit=crop" type="image/jpg">
+                                
+                                    <img src="{{ .Params.headshot }}" alt="Headshot of Fox Structures {{ .Params.job_position }} {{ .Title }}" width="400" height="500" loading="lazy">   
+                                </picture>
                             </div>
                             <div class="card__content text-align-center text-color-white">
                                 <h3 class="no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>

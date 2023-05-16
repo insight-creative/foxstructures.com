@@ -26,28 +26,31 @@
     object-fit: cover;
 }
 
-.hero-portfolio__content,
+.hero-portfolio__header,
 .portfolio__curve {
     inline-size: 101%;
 }
 
-.hero-portfolio__content {
+.hero-portfolio__header {
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
     z-index: 2;
-    align-items: end;
     background-color: $white;
     padding-top: .5rem;
 }
 
+.hero-portfolio__header-inner {
+    align-items: end;
+}
+
 .portfolio__curve {
     z-index: 1;
-    bottom: -2px;
+    bottom: calc(100% - 2px);
     pointer-events: none;
 }
 
-.hero-portfolio__content h1 {
+.hero-portfolio__header h1 {
     max-inline-size: 24ch;
 }
 

@@ -3,18 +3,18 @@ title: Hansen Septic
 seo:
   page_title:
   meta_description: Learn how Fox Structures helped rebuild a larger, more functional structure for Hansen Septic.
-  featured_image: 
-  featured_image_alt:
+  featured_image: /uploads/hansen-septic-1.jpg
+  featured_image_alt: Light gray metal siding on storage building with white roof and doors
 date: 2020-02-05T07:00:00Z
 gallery: 
   - image: 
-      image_url:
+      image_url: /uploads/hansen-septic-1.jpg
       image_alt:
   - image: 
-      image_url:
+      image_url: /uploads/hansen-septic-2.jpg
       image_alt:
   - image: 
-      image_url:
+      image_url: /uploads/hansen-septic-3.jpg
       image_alt:
 project_features: >-
   - Recycled foundation

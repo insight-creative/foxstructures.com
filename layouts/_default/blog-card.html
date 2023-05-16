@@ -8,7 +8,15 @@
 	{{ end }}
     <div class="card__image-wrap p-relative cover-image">
         {{ if .Params.seo.featured_image }}
-            <img src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" class="card__img dim">
+            <picture>
+                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=85&width=500&height=250&fit=crop" type="image/avif">
+            
+                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=85&width=500&height=250&fit=crop" type="image/webp">
+            
+                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=85&width=500&height=250&fit=crop" type="image/jpg">
+            
+                <img class="card__img dim" src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="500" height="300" loading="lazy">   
+            </picture>
             <div class="overlay overlay--yellow-gradient">
                 <div class="btn btn--secondary">Read More</div>
             </div>

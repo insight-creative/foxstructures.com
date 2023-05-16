@@ -4,7 +4,15 @@
 <div class="block">
     <div class="wrapper-sm columns gap-md">
         <div class="col">
-            <img src="{{ .Params.headshot }}" alt="">
+            <picture>
+                <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=avif&q=85&width=500&height=700&fit=crop" type="image/avif">
+            
+                <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=webp&q=85&width=500&height=700&fit=crop" type="image/webp">
+            
+                <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=jpg&q=85&width=500&height=700&fit=crop" type="image/jpg">
+            
+                <img src="{{ .Params.headshot }}" alt="Headshot of Fox Structures {{ .Params.job_position }} {{ .Title }}" width="500" height="700" loading="lazy">   
+            </picture>
         </div>
         <div class="col flow">
             <h2>About {{ .Title }}</h2>
