@@ -19,6 +19,21 @@
     padding-inline-start: clamp($ic-100, 3vw, $ic-400);
 }
 
+.border-left-gradient {
+    padding-inline-start: clamp($ic-100, 3vw, $ic-400);
+    position: relative;
+
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 10px;
+        background: linear-gradient(180deg, #f4a81d, #d29122, #b07c24, #906625, #715224, #533e21, #362b1e, #1a1a1a);
+    }
+}
+
 .border-top-gray {
     border-block-start: 1px solid $light-gray;
 }

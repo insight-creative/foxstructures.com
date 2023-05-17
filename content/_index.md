@@ -51,7 +51,7 @@ experts_in_construction:
     Large-scale construction projects are where we excel. From commercial **office spaces** and mini-warehouses to pole barns, milking parlors and equestrian riding arenas, our expert construction team has designed and built it all. 
 
 
-    If you’ve got a large-scale building project to complete, Fox Structures has the specialty equipment and expertise to make it happen—on your budget and timeline. Contact us today and learn how we build with you in mind!
+    If you’ve got a large-scale building project to complete, Fox Structures has the specialty equipment and expertise to make it happen—on your budget and timeline. Contact us today and learn how **we build with you in mind**!
   button:
     enabled: true
     button_url: /contact/

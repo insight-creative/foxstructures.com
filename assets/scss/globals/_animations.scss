@@ -58,3 +58,18 @@
       transform: scale(1.1);
     }
 }
+
+// .animate-clip-path-fade {
+//     animation-name: clip-path-fade;
+//     animation-duration: 1s;
+//     animation-delay: 2s;
+
+//     @keyframes clip-path-fade {
+//         0% {
+//             clip-path: ellipse(0% 70% at 100% 40%);
+//         }
+//         100% {
+//             clip-path: ellipse(100% 70% at 100% 40%);
+//         }
+//     }
+// }

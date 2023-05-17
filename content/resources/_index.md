@@ -12,7 +12,8 @@ seo:
 hero: 
   enabled: true
   heading: Fox Structures Resources
-  body: 
+  body: >-
+    Latest company news and resources to help inspire you and your next construction project.
   image: 
     image_url: /uploads/fox-structures-custom-building-plans.jpg
     image_alt:

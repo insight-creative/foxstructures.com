@@ -31,11 +31,33 @@ intro:
   enabled: true
   heading: Join the Fox Structures Team!
   body: >-
-    Our employees are the backbone of our success. Our field and office staff represent the best in their respective fields. We offer benefits such as health insurance, vacation pay, holiday pay, 401(k), life insurance, short term disability, and profit sharing. We are experiencing growth and are looking for dependable, self-motivated team members.
-  image: 
-    image_url: /uploads/fox-owners-group.jpg
+    Our employees are the backbone of our success. Our field and office staff represent the best in their respective fields. We are experiencing growth and are looking for dependable, self-motivated team members.
+
+
+    All inquiries will be kept strictly confidential. Fox Structures Inc. does not discriminate in hiring or employment on the basis of race, color, religion, national origin, age, gender, sexual orientation, disability, military service, or any other basis on which discrimination is prohibited by federal, state or local laws. Women and minorities are strongly encouraged to apply.
   video: >-
     <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/a75s0v1s45?videoFoam=true" title="Tim Video New" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
     <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+benefits: 
+  enabled: true
+  heading: Our Benefits
+  benefits: 
+    - heading: Competitive Pay and Profit Sharing
+      body: Fox Structures offers competitive pay, profit sharing and a benefits package to all full-time employees.
+      icon: /uploads/competitive-pay.svg
+    - heading: Health Benefits and 401K
+      body: Health insurance, plus 401(k) with company match, short-term disability insurance, and life insurance.
+      icon: /uploads/health-insurance.svg
+    - heading: Paid Holidays and Vacation
+      body: At Fox Structures, we work hard, but we also value the importance of rest and time with your family.
+      icon: /uploads/paid-vacation.svg
+our_people: 
+  enabled: true
+  heading: Our People
+  body: >-
+
+  image: 
+    image_url: /uploads/fox-owners-group.jpg
+    image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---
 

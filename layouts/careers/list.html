@@ -2,6 +2,26 @@
 {{ partial "hero" . }}
 {{ partial "breadcrumbs" . }}
 {{ partial "intro" . }}
+{{ if .Params.benefits.enabled }}
+    {{ with .Params.benefits }}
+        <section aria-label="Open Positions at Fox Structures" class="block flow">
+            <div class="wrapper-lg text-align-center">
+                <h2>{{ .heading }}</h2>
+                <div class="columns gap-xl">
+                    {{ range .benefits }}
+                        <div class="benefits col flow">
+                            <img class="benefits__icon" src="{{ .icon }}" alt="">
+                            <div>
+                                <h3 class="h5">{{ .heading }}</h3>
+                                <p class="benefits__body">{{ .body }}</p>
+                            </div>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+    {{ end }}
+{{ end }}
 <section aria-label="Open Positions at Fox Structures" class="block bg-black flow">
     <h2 class="text-align-center">Open Positions</h2>
     <p class="text-align-center text-color-white max-width-none">Browse our open job opportunities and apply online today!</p>

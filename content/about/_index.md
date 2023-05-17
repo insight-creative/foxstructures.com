@@ -39,5 +39,18 @@ intro:
   image: 
     image_url: /uploads/fox-owners-group.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+are_we_right_for_you: 
+  enabled: true
+  heading: Are We the Right Builder for You?
+  body: >-
+    Learn more about our mission, construction process, pricing and more to determine if Fox Structures is the right builder for you!
+  image: 
+    image_url: /uploads/hidden-hollow-1-optimized.jpg
+    image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+  button:
+    enabled: true
+    open_in_new_tab: false
+    button_url: /are-we-the-builder-for-you/
+    button_text: See if we're a good fit
 ---
 

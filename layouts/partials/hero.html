@@ -1,7 +1,6 @@
 {{ $heroClass := lower .Page.Title }}
-<section aria-labelledby="hero-heading" class="hero {{ anchorize $heroClass }}-hero grid">
-  <div class="hero__vertical-curves grid-12 grid-5-md bg-black p-relative">
-    {{ partialCached "svg-icons/curves-vertical.svg" . }}
+<section aria-labelledby="hero-heading" class="hero {{ anchorize $heroClass }}-hero grid bg-black">
+  <div class="hero__vertical-curves grid-12 grid-5-md p-relative">
   </div>
   <div class="grid-12 grid-7-md p-relative">
     {{ partial "hero-image" . }}
@@ -15,9 +14,11 @@
     {{ end }}
   </div>
   <div class="hero__content wrapper-lg">
-    <div class="border-left-secondary flow">
-      <h1 id="hero-heading" class="h2 text-color-white no-margin">{{ .Params.hero.heading | safeHTML }}</h1>
-      <div class="hero__body flow text-color-white">{{ .Params.hero.body | markdownify }}</div>
+    <div class="border-left-gradient flow">
+      <div>
+        <h1 id="hero-heading" class="h2 text-color-white no-margin">{{ .Params.hero.heading | safeHTML }}</h1>
+        <div class="hero__body flow text-color-white">{{ .Params.hero.body | markdownify }}</div>
+      </div>
       {{ if .Params.hero.button.enabled }}
         {{ with .Params.hero.button }}
           {{ partial "button-secondary" . }}

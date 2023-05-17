@@ -1,5 +1,6 @@
 .blog-hero {
   overflow: visible;
+  padding-top: calc(2 * clamp(1.953125rem,10%,5.96046448rem));
 
   h1 {
     font-size: clamp($ic-300, 4vw, $ic-600);
@@ -22,8 +23,12 @@
 
   svg {
     position: relative;
-    top: 4px;
+    top: 2px;
     transition: $transition;
+
+    @include breakpoint(md) {
+      top: 4px;
+    }
   }
 
   &:hover, 

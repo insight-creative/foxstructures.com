@@ -15,7 +15,7 @@ careers_cta:
   button:
     enabled: true
     button_url: /careers/
-    button_text: View Careers
+    button_text: View Open Positions
     open_in_new_tab: false
 
 careers_cta_alt: 
