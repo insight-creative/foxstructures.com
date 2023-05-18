@@ -1,5 +1,5 @@
 ---
-title: N.E.W Printing
+title: N.E.W. Printing
 seo:
   page_title:
   meta_description:
@@ -33,7 +33,7 @@ project_features: >-
 specs: >-
 
 location:
-  street: 1718 E. Wisconsin Ave
+  street: 1718 E. Wisconsin Ave.
   city: Appleton
   state: WI
   zip: 54911

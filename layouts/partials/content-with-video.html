@@ -1,0 +1,40 @@
+<section aria-labelledby="{{ .heading | urlize }}" class="block bg-{{ .background_color }}">
+    <div class="wrapper-lg">
+        <div class="columns gap-xl">
+            <div class="video-trigger col">
+                <script src="https://fast.wistia.com/embed/medias/qppwr45ai7.jsonp" async></script>
+                <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+                <span class="wistia_embed wistia_async_qppwr45ai7 popover=true popoverContent=link" style="display:inline;position:relative">
+                    <a href="#">
+                    {{ if .image.enabled }}  
+                        {{ with .image }}  
+                            {{ partial "responsive-image" . }}
+                        {{ end }}
+                    {{ end }}
+                    </a>
+                    <div class="video-trigger__button-container">
+                        <button title="open the video" aria-label="open the video popup" class="video-trigger__button"><div class="icon-xxl icon-fill-white">
+                            {{ partialCached "svg-icons/play.svg" . }}
+                          </div></button>
+                        <div class="video-trigger__waves">
+                            <div class="video-trigger__wave wave1"></div>
+                            <div class="video-trigger__wave wave2"></div>
+                            <div class="video-trigger__wave wave3"></div>
+                        </div>
+                    </div>
+                </span>
+            </div>
+            <div class="col flow margin-block-auto">
+                {{ partial "heading" . }}
+                {{ if .body }}
+                    <div class="flow">{{ .body | markdownify }}</div>
+                {{ end }} 
+                {{ if .button.enabled }}
+                {{ with .button }}
+                    {{ partial "button-secondary" . }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>

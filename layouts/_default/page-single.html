@@ -2,6 +2,46 @@
 {{ partial "hero" . }}
 {{ partial "breadcrumbs" . }}
 {{ partial "intro" . }}
+{{ if .Params.experts_in_construction.enabled }}
+    {{ with .Params.experts_in_construction }}
+        {{ partial "content-with-video" . }}
+    {{ end }}
+{{ end }}
+{{ if .Params.construction_types.enabled }}
+    {{ with .Params.construction_types }}
+      <section aria-labelledby="{{ .heading | urlize }}" class="page-block block">
+        <div class="wrapper-lg text-align-center">
+            {{ partial "heading" . }}
+        </div>
+        {{ range .construction_type }}
+        <div class="wrapper-lg mb-6">
+          <div class="flex flex-column flex-center gap-lg {{ if .text_column_right }}flex-row-md{{ end }}{{ if .text_column_left }}flex-row-reverse-md{{ end }}">
+            <div class="w-100 w-70-md">
+              {{ if .image.enabled }}  
+                {{ with .image }}  
+                  {{ partial "responsive-image" . }}
+                {{ end }}
+              {{ end }}
+            </div>
+            <div class="page-block__content w-100 w-30-md">
+              <div class="text-block flow">
+                {{ partial "heading" . }}
+                {{ if .body }}
+                    <div class="flow">{{ .body | markdownify }}</div>
+                {{ end }} 
+                {{ if .button.enabled }}
+                    {{ with .button }}
+                        {{ partial "button-secondary" . }}
+                    {{ end }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </section>
+    {{ end }}
+{{ end }}
 {{ if .Content }}
     <div class="block">
         <div class="wrapper-sm flow">

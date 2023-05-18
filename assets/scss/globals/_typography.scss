@@ -102,6 +102,10 @@ p {
   margin: 0;
 }
 
+.no-padding {
+  padding: 0;
+}
+
 .text-color-black {
   color: $black;
   transition: $transition;
@@ -152,7 +156,7 @@ p {
 }
 
 .font-size-md {
-  font-size: $ic-300;
+  font-size: clamp($ic-200, 4vw, $ic-300);
 }
 
 .font-size-lg {

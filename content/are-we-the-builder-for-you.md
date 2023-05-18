@@ -47,28 +47,88 @@ intro:
     button_url: /about/
     button_text: Learn More About Fox Structures
     open_in_new_tab: false
+experts_in_construction: 
+  enabled: true
+  heading: Specializing in Commercial and Agricultural Construction
+  body: >-
+    Though we offer a range of design, construction and concrete services for a variety of industries here at Fox Structures, **large-scale construction projects** are where we excel. 
+
+
+    We especially focus on building lasting relationships with our commercial and agricultural clients, many of whom we have served for decades on various projects. 
+  image: 
+    enabled: true
+    image_url: /uploads/go-pack-storage.jpg
+    image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+  button:
+    enabled: false
+    button_url: /contact/
+    button_text: Get in Touch
+    open_in_new_tab: false
+  background_color: gray
+construction_types: 
+  enabled: true
+  heading: Popular Construction Projects
+  construction_type:
+    - heading: Commercial
+      body: >-
+        - [Commercial office spaces](/construction-services/commercial/office-buildings/)
+
+        - [Mini storage facilities](/construction-services/commercial/mini-storage/)
+
+        - Corporate buildings 
+
+        - Warehouses/workshops 
+      button:
+        enabled: true
+        button_url: /sectors/commercial/
+        button_text: See our commercial work
+        open_in_new_tab: false
+      text_column_left: false
+      text_column_right: true
+      image: 
+        enabled: true
+        image_url: /uploads/fox-valley-auto-auction-3.jpg
+        image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+    - heading: Agricultural
+      body: >-
+        - Pole barns
+        
+        - Milking parlors
+        
+        - Livestock barns
+        
+        - Equestrian barns
+        
+        - Riding arenas
+        
+        - Silos and storage sheds
+      button:
+        enabled: true
+        button_url: /sectors/agricultural/
+        button_text: See our agricultural work
+        open_in_new_tab: false
+      text_column_left: true
+      text_column_right: false
+      image: 
+        enabled: true
+        image_url: /uploads/kesler-farms-2-optimized.jpg
+        image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+    - heading: Storage
+      body: >-
+        - Warehouse facilities
+
+        - Mini warehouses
+        
+        - Commercial storage facilities
+      button:
+        enabled: true
+        button_url: /sectors/storage/
+        button_text: See our storage work
+        open_in_new_tab: false
+      text_column_left: false
+      text_column_right: true
+      image: 
+        enabled: true
+        image_url: /uploads/mr-q-shops-and-storage-1.jpg
+        image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---
-
-## Specializing in Commercial and Agricultural Construction
-
-Though we offer a range of design, construction and concrete services for a variety of industries here at Fox Structures, **large-scale construction projects** are where we excel. 
-
-We especially focus on building lasting relationships with our commercial and agricultural clients, many of whom we have served for decades on various projects. 
-
-### Popular Construction Projects 
-
-#### Commercial
-
-- [Commercial office spaces](/construction-services/commercial/office-buildings/)
-- [Mini storage facilities](/construction-services/commercial/mini-storage/)
-- Corporate buildings 
-- Warehouses/workshops 
-
-#### Agricultural
-
-- Pole barns
-- Milking parlors
-- Livestock barns
-- Equestrian barns
-- Riding arenas
-- Silos and storage sheds

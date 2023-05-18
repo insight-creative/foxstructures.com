@@ -35,7 +35,7 @@ intro:
   enabled: true
   heading: For expert design, welding and construction, count on Fox Structures.
   body: >-
-    Since 1982 Fox Structures has focused on two things: listening to customers and delivering what we promise. That’s a pretty simple business plan for a design/build contractor. But it’s one that works. From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way. Fox Structures’ owners are even present on every job, ensuring we complete projects to our customer’s personal specifications, in the most cost-efficient manner, while always meeting our own demanding quality standards.
+    Since 1982, Fox Structures has focused on two things: listening to customers and delivering what we promise. That’s a pretty simple business plan for a design/build contractor. But it’s one that works. From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way. Fox Structures’ owners are even present on every job, ensuring we complete projects to our customer’s personal specifications, in the most cost-efficient manner, while always meeting our own demanding quality standards.
   image: 
     image_url: /uploads/fox-owners-group.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt

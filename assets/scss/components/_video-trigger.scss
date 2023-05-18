@@ -1,0 +1,72 @@
+.video-trigger {
+    cursor: pointer;
+  
+    svg {
+      position: relative;
+      left: 5px;
+    }
+}
+
+.video-trigger__button-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.video-trigger__button {
+    background: $secondary-color;
+    border-radius: 50%;
+    border: none;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+.video-trigger__waves {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 350px;
+    width: 350px;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.video-trigger__wave {
+    position: absolute;
+    z-index: 1;
+    background: rgba($secondary-color, 0.5);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    animation: animateWaves 3s ease-in-out infinite;
+    transform-origin: center;
+}
+  
+.wave2 {
+    animation-delay: 1s;
+}
+
+.wave3 {
+    animation-delay: 2s;
+}
+
+@keyframes animateWaves {
+    from {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+    }
+
+    to {
+        transform: translate(-50%, -50%) scale(2);
+        opacity: 0;
+    }
+}
+  

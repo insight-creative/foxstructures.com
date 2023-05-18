@@ -38,7 +38,7 @@
   &:hover,
   &:focus {
     color: $black;
-    background-color: #EC9D0B;
+    background-color: #d48d0a;
   }
 }
 
@@ -66,7 +66,6 @@ button {
   align-items: center;
   padding: $ic-100 0;
   transition: $transition;
-  margin: 5rem 0 $ic--200 0;
 
   svg {
     fill: $primary-color;
@@ -80,10 +79,6 @@ button {
   &:hover,
   &:focus {
     color: $primary-color;
-  }
-
-  @include breakpoint(sm) {
-    margin: 0;
   }
 }
 
@@ -110,7 +105,7 @@ button {
 }
 
 .btn--arrow {
-  font-size: $ic-100;
+  font-size: clamp($ic--100, 3vw, $ic-100);
   display: flex; 
   align-items: center;
   padding-block: $ic--200;

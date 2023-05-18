@@ -10,20 +10,34 @@
 }
 
 .swiper-slider__project-quote {
-    block-size: 450px;
     max-inline-size: 550px;
     margin-inline: auto;
+    padding-block-end: $ic-300;
+
+    @include breakpoint(md) {
+        block-size: 450px;
+    }
 
     svg {
         position: absolute;
         top: 0;
-        left: -$ic-800;
+        left: -$ic-500;
+        width: clamp(25px, 4vw, 45px);
+        height: clamp(25px, 4vw, 45px);
+
+        @include breakpoint(md) {
+            left: -$ic-800;
+        }
     }
 
     blockquote {
         border-left: 10px solid $secondary-color;
         padding: 0 $ic-200;
-        margin-left: $ic-800;
+        margin-left: $ic-400;
+
+        @include breakpoint(md) {
+            margin-left: $ic-800;
+        }
     }
 }
 
