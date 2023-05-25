@@ -52,7 +52,7 @@ specs: >-
 
   - 9,800 sq. ft. total renovation
 location:
-  street: 3300 Venture Dr
+  street: 3300 Venture Dr.
   city: Appleton
   state: WI
   zip:

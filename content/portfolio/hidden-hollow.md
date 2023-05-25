@@ -56,7 +56,7 @@ quote:
   quote_short: >-
     “The whole crew was completely amazing—down to Earth and hardworking. We would absolutely recommend Fox Structures.”
   quote_full: >-
-    “When we first met with Mike and Alex, we felt like they were open and up to the challenge of creating a space with a “wow” factor! If we had a question about anything at all, Fox Structures was awesome at explaining why/how things on the project could be done. If we needed something changed, they were accommodating. The whole crew was completely amazing—down to Earth and hardworking. We would absolutely recommend Fox Structures. Their attention to detail and flexibility on design was on point.”
+    “When we first met with Mike and Alex, we felt like they were open and up to the challenge of creating a space with a 'wow' factor! If we had a question about anything at all, Fox Structures was awesome at explaining why/how things on the project could be done. If we needed something changed, they were accommodating. The whole crew was completely amazing—down to earth and hardworking. We would absolutely recommend Fox Structures. Their attention to detail and flexibility on design was on point.”
   name: Jaimie Danes
   position: Owner, Hidden Hollow ART
 video_embed: >-

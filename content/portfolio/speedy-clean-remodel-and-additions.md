@@ -42,7 +42,7 @@ project_features: >-
   
   - Soundproofing
   
-  - Locker room with laundry facility and shower.
+  - Locker room with laundry facility and shower
 specs: >-
   - 3,500 sq. ft. building
   

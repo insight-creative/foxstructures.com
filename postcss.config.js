@@ -55,6 +55,8 @@ module.exports = {
         'blog--grid',
         'video-playing',
         'video-paused',
+        'slider-playing',
+        'slider-paused',
         'swiper-slide-thumb-active',
         'submenu-about',
         'wistia_click_to_play',

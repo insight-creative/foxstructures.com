@@ -31,7 +31,7 @@ hero:
     button_text: Contact Us
 ---
 
-## We Build Winning Equestrian Facilities.
+## We Build Winning Equestrian Facilities
 
 People and horses have a special bond. Your horse is an important part of your life and you want the best possible environment to help them thrive. When it comes to superior facilities to accommodate horses, we have years of experience building unique and functional riding arenas, stall barns, storage areas, run-in shelters and more. No matter what you are looking for in an equestrian facility, we’ll build on your vision to create an end product that meets your needs and exceeds your expectations.
 

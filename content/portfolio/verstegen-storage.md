@@ -35,7 +35,7 @@ quote:
   quote_full: >-
     “We talked to other owners in the area who built similar flex storage buildings, and Fox Structures came highly recommended. Their on-site workers were excellent and professional. They kept a clean job site and were hard workers. Fox Structures’ management team answered questions and provided any information we needed. I would absolutely recommend Fox Structures to others.”
   name: Jerry Verstegen
-  position: Owner
+  position: Owner, Verstegen Storage
 video_embed: >-
 
 sectors:

@@ -43,7 +43,7 @@ quote:
   quote_full: >-
     “We went with Fox Structures for the people. They’re down-to-earth, and there’s no pressure from start to finish. Building went on without a hitch, and it was a smooth process. Foreman on site was amazing. Everything they promised was done and more. If we were in a hurry, they were in a hurry. If our pace changed, they slowed to allow necessary decision making. It was human interaction the entire time, no emails back and forth or ‘let me get with my sales department who needs to get with the finance department who needs to talk with their boss,’ etc. I most definitely would recommend Fox Structures and I have several times.”
   name: Peggy Dean
-  position: Owner
+  position: Owner, Dean Horse Arena
 video_embed: >-
 
 sectors:

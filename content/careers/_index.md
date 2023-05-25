@@ -45,7 +45,7 @@ benefits:
     - heading: Competitive Pay and Profit Sharing
       body: Fox Structures offers competitive pay, profit sharing and a benefits package to all full-time employees.
       icon: /uploads/competitive-pay.svg
-    - heading: Health Benefits and 401K
+    - heading: Health Benefits and 401(K)
       body: Health insurance, plus 401(k) with company match, short-term disability insurance, and life insurance.
       icon: /uploads/health-insurance.svg
     - heading: Paid Holidays and Vacation

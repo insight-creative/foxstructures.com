@@ -35,7 +35,7 @@ hero:
     url: /portfolio/redtail-ridge-dairy/
 ---
 
-## Our Agricultural Expertise can Help You Grow.
+## Our Agricultural Expertise can Help You Grow
 
 Fox Structures designs and builds unique agricultural facilities for customers in northeast Wisconsin. Our significant experience means we understand the specialized challenges facing the agricultural industry.
 

@@ -45,7 +45,8 @@
   max-width: 22ch;
 }
 
-.home-hero__controls {
+.home-hero__controls,
+.portfolio-controls {
   position: absolute;
   z-index: 3;
   bottom: $ic-200;
@@ -60,7 +61,8 @@
   background-color: $secondary-color;
 }
 
-.video-playing {
+.video-playing,
+.slider-playing {
   .play-icon {
     display: none;
   }
@@ -70,7 +72,8 @@
   }
 }
 
-.video-paused {
+.video-paused,
+.slider-paused {
   .play-icon {
     display: block;
   }

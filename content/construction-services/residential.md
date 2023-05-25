@@ -35,7 +35,7 @@ hero:
     url: /portfolio/waldrons-youth-sports-facility/
 ---
 
-## Fox Structures Brings Quality Construction Home.
+## Fox Structures Brings Quality Construction Home
 When it comes to residential construction, the choices and decisions may seem endless. One choice that’s easy is Fox Structures! We take the time to learn your needs and expectations such as space for your hobbies, a cozy lake retreat or an attractive storage shed. Put Fox Structures’ years of experience, attention to detail and craftsmanship to work on your next residential project.
 
 - Cottages

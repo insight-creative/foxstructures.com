@@ -27,7 +27,7 @@ specs: >-
   
   - Installed new steel siding
 location:
-  street: 3266 Williams Grant Dr
+  street: 3266 Williams Grant Dr.
   city: De Pere
   state: WI
   zip: 54115

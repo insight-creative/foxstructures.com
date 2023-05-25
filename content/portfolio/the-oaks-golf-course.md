@@ -35,7 +35,7 @@ specs: >-
   
   - 780 sq. foot Pro Shop addition
 location:
-  street: 4740 Pierceville Rd
+  street: 4740 Pierceville Rd.
   city: Cottage Grove
   state: WI
   zip: 53527

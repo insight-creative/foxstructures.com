@@ -1,5 +1,5 @@
 ---
-title: Water Right
+title: Water-Right
 seo:
   page_title:
   meta_description: During June of 2013 Fox Structures broke ground on a 31,000 sq. ft. addition to Water Right of Appleton.
@@ -45,7 +45,7 @@ project_features: >-
 specs: >-
 
 location:
-  street: 1900 Prospect Ct
+  street: 1900 Prospect Ct.
   city: Appleton
   state: WI
   zip: 54914
@@ -63,4 +63,4 @@ sectors:
 related_projects: 
 ---
 
-During June of 2013 Fox Structures broke ground on a 31,000 sq. ft. addition to Water Right of Appleton. The building features a two story office with increased office and administration space, conference and training facilities, testing lab, product assembly and storage areas, and a unique underground storm water retention system.
+During June of 2013, Fox Structures broke ground on a 31,000 sq. ft. addition to Water-Right of Appleton. The building features a two-story office with increased office and administration space, conference and training facilities, testing lab, product assembly and storage areas, and a unique underground storm water retention system.

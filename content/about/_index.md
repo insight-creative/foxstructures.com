@@ -11,7 +11,7 @@ seo:
   featured_image:
 hero: 
   enabled: true
-  heading: Fox Structures—Experts at Building Success.
+  heading: Fox Structures—Experts at Building Success
   body: >-
     Providing the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.
   image: 
@@ -43,7 +43,7 @@ are_we_right_for_you:
   enabled: true
   heading: Are We the Right Builder for You?
   body: >-
-    Learn more about our mission, construction process, pricing and more to determine if Fox Structures is the right builder for you!
+    Learn about our mission, construction process, pricing and more to determine if Fox Structures is the right builder for you!
   image: 
     image_url: /uploads/hidden-hollow-1-optimized.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt

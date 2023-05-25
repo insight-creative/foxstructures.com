@@ -31,7 +31,7 @@ project_features: >-
 specs: >-
 
 location:
-  street: N4646 Hill Rd
+  street: N4646 Hill Rd.
   city: Bryant
   state: WI
   zip:

@@ -49,7 +49,7 @@ quote:
   quote_short: >-
     “When a builder makes you feel like a valued customer and not just another project, it makes the world of difference. Fox Structures just seemed to be very flexible, making sure the customer is their priority.”
   quote_full: >-
-    “We decided to go with Fox Structures because Mike took the time to listen to our vision for the building. When a builder makes you feel like a valued customer and not just another project, it makes the world of difference. Fox Structures just seemed to be very flexible, making sure the customer is their priority. I would recommend Fox Structures to others.”
+    “We decided to go with Fox Structures because Mike took the time to listen to our vision for the building. When a builder makes you feel like a valued customer and not just another project, it makes a world of difference. Fox Structures just seemed to be very flexible, making sure the customer is their priority. I would recommend Fox Structures to others.”
   name: Leah Burg
   position: Agent, American Family Insurance
 video_embed: >-

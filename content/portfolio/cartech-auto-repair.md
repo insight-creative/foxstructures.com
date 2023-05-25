@@ -37,7 +37,7 @@ project_features: >-
 specs: >-
   - 2,602 sq. ft. addition
 location:
-  street: W968 State Hwy 96
+  street: W968 State Hwy. 96
   city: Kaukauna
   state: WI
   zip: 54130

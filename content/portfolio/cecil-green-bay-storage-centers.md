@@ -57,14 +57,14 @@ After a long history working with Fox Structures, there was never a question of 
 
 ### Locations
 
-526 Lake Dr.
+526 Lake Dr.,
 Cecil, WI
 
-3939 Humboldt Rd.
+3939 Humboldt Rd.,
 Green Bay, WI
 
-E9146 WI-96
+E9146 WI-96,
 Fremont, WI
 
-652 Industrial Park Ave.
+652 Industrial Park Ave.,
 Hortonville, WI

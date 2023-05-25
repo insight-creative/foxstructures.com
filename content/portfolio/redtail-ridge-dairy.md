@@ -52,7 +52,7 @@ quote:
   quote_full: >-
     “We’ve used Fox Structures for all of the construction projects on our farm including a milking parlor, heifer barn, shop with wash bay and many free-stall barns. Each time, we have found their crews to be dependable, timely and always producing high-quality work. They are easy to get along with and particular about details. We have appreciated their flexibility when changes needed to be made. I would recommend Fox Structures.”
   name: Tyler Thome
-  position: Owner
+  position: Owner, Redtail Ridge Dairy
 video_embed: >-
   <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe src="https://fast.wistia.net/embed/iframe/h9ufcwvgw4?videoFoam=true" title="Fox Structures Redtail Ridge Drone Shots Video" allow="autoplay; fullscreen" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" msallowfullscreen width="100%" height="100%"></iframe></div></div>
   <script src="https://fast.wistia.net/assets/external/E-v1.js" async></script>

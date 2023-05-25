@@ -43,7 +43,7 @@ faq_block:
         We specialize in large-scale commercial and agricultural construction projects, such as [farm design](/construction-services/agricultural/farm-design/), [barn construction](/construction-services/agricultural/barn-construction/), [mini storage facilities](/construction-services/commercial/mini-storage/), [corporate offices](/construction-services/commercial/office-buildings/) and more.
     - question: Do you offer building repairs and maintenance?
       answer: >-
-        Yes, we can provide expert building repair and maintenance services. In fact, many of our past clients turn to us when they need to make a building repair, or when they need to remodel or add on to their current structures. We take pride in serving clients for their long-term construction needs.
+        Yes, but we primarily retain these services solely for our clients who have partnered with us for their new construction or building addition needs. If that doesn’t describe you, but you’re in need of construction services for a new addition or large remodel, [contact us](/contact/) to see if we’re the right fit for the job.
     - question: How long have you been in business?
       answer: >-
         Fox Structures has been in business providing top-quality construction services to clients throughout Northeast Wisconsin since 1982.
@@ -61,7 +61,7 @@ faq_block:
         You can view our recent projects and see our work for yourself by visiting our [Portfolio](/portfolio/) page. Here, you’ll find detailed project images, specs and features, as well as testimonials from our clients.
     - question: How do you handle unexpected issues and changes to the scope of work during a project?
       answer: >-
-        We understand that things can change quickly during a construction project, and our team is well-adept at pivoting to meet your needs and expectations. We are also well prepared to handle obstacles like obtaining low-stock materials, working around harsh weather conditions and more. 
+        We understand that things can change quickly during a construction project, and our team is well-adept at pivoting to meet your needs and expectations. Our in-house architects and engineers give us the ability to make changes seamlessly. We are also well prepared to handle obstacles like obtaining low-stock materials, working around harsh weather conditions and more. 
 
 
         Because of our constant open lines of communication throughout your build, you will always be informed of any project setbacks, and our team will work diligently to ensure your project is completed on time, regardless of unforeseen challenges.
@@ -73,7 +73,7 @@ faq_block:
         The length of your project will depend on the size and complexity of your project, your budget and timeline, as well as factors such as procuring the necessary materials to complete your build. Because we have a robust scheduling system and avoid overbooking projects, many of our clients have been impressed with our fast turnaround times. [Contact us](/contact/) to get the most accurate timeline for your project.
     - question: What is the cost of your services?
       answer: >-
-        The cost of your project will depend on many factors, such as the size and complexity of your build, the materials used and the project timeline. Because we specialize in large-scale projects, the average cost of our services range from **$XX-$XX per square foot**. [Contact us](/contact/) for the most accurate pricing estimate for your project.
+        The cost of our services varies widely based on the details of your plan and the ever-changing costs of building supplies, labor and more. At Fox Structures, we go to great lengths to properly estimate your job before we start any work to ensure you’re fully informed and can make an educated decision on how you want to proceed. [Contact us](/contact/) for the most accurate estimate.
     - question: Do you offer financing options?
       answer: >-
         No, Fox Structures does not offer financing options for construction or concrete services. We can, however, assist you in obtaining the proper financing for your project.
@@ -101,10 +101,10 @@ faq_block:
         - And more
     - question: How far in advance should I reach out to schedule my construction project?
       answer: >-
-        We are completely booked for 2023 and are booking into 2024. If you have a specific project in mind, we recommend reaching out to our team as soon as possible to request an estimate and schedule your project.
+        The sooner we begin your building process, the sooner it will finish. However, many factors determine completion dates including permits, project complexities, supply chains and more. We will do our best to finish your project as soon as possible. [Contact us](/contact/) to get started today!
     - question: Can you work with my existing plans or do you provide design services?
       answer: >-
-        We can work with your existing plans, or we can help design a building, farm or commercial campus. Our construction crew is well-adept at reading and interpreting design plans, and our on-site designers are experienced in turning even the most basic concepts into unique final designs.
+        Our preferred model is to use our architectural team to develop and design your plans. This ensures your plan is compatible with our specific methods of building. Our on-site designers are experienced in turning even the most basic concepts into unique final designs.
     - question: How do you ensure safety on the job site?
       answer: >-
         We follow all OSHA standards of safety and take additional precautions like learning about your property and location to ensure the safety of both our employees and anyone else on or near the job site. Our crew is experienced in working on projects at active farms, agricultural properties and commercial businesses that require additional safety precautions to keep the facility or business open and operational.

@@ -35,7 +35,7 @@ hero:
     url: /portfolio/water-rights-clean-water-center-remodel/
 ---
 
-## Quality Commercial Construction is Our Business.
+## Quality Commercial Construction is Our Business
 
 From retail storefronts to light industrial buildings to specialized structures, we know that your needs are unique. That’s why Fox Structures works with you at each stage of the building process to determine the best solution for your company’s needs. From aesthetics and space planning to exterior colors and selecting materials utilizing the latest design technology—we do it all to ensure your finished project works for you. We also assist with local and state approvals, building code reviews, site design and permitting. Our dedication to detail and years of experience make your move to a new facility—or the upgrade of your existing facility—as efficient and hassle free as possible.
 

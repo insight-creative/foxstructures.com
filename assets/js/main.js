@@ -114,8 +114,6 @@ var swiper = new Swiper(".projectSwiper", {
   },
 });
 
-
-
 var thumbnailSwiper = new Swiper(".thumbnailSwiper", {
   grabCursor: true,
   spaceBetween: 10,
@@ -142,4 +140,22 @@ var gallerySwiper = new Swiper(".gallerySwiper", {
   thumbs: {
     swiper: thumbnailSwiper,
   },
+});
+
+var sliderControls = document.querySelector(".portfolio-controls");
+
+sliderControls.addEventListener('click', function () {
+  if (gallerySwiper.autoplay.running) {
+    gallerySwiper.autoplay.stop();
+    sliderControls.classList.remove('slider-playing')
+    sliderControls.classList.add('slider-paused')
+    sliderControls.setAttribute('aria-label', 'play the image gallery')
+    sliderControls.setAttribute('title', 'play the image gallery')
+  } else {
+    gallerySwiper.autoplay.start();
+    sliderControls.classList.remove('slider-paused')
+    sliderControls.classList.add('slider-playing')
+    sliderControls.setAttribute('aria-label', 'pause the image gallery')
+    sliderControls.setAttribute('title', 'pause the image gallery')
+  }
 });

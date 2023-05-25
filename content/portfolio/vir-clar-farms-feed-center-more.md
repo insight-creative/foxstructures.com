@@ -34,7 +34,7 @@ project_features: >-
 specs: >-
   - 100′ x 240’ feed center
 location:
-  street: N5057 Cty Rd K
+  street: N5057 Cty. Rd. K
   city: Fond du Lac
   state: WI
   zip: 54937
@@ -52,4 +52,4 @@ sectors:
 related_projects: 
 ---
 
-Since 1995, Vir-Clar Farms has trusted Fox Structures to help build their thriving, family owned dairy in Fond du Lac. As Vir-Clar has grown, they’ve turned to Fox Structures for a steel frame freestall barn, heifer barn and other buildings. Most recently, Vir-Clar again looked to Fox Structures to design, fabricate and build a unique, partially enclosed, 24,000-square-foot feed center. The center efficiently handles corn deliveries, provides covered bays for feed storage and houses the 200-hp mixer that produces 180 tons of feed daily to satisfy their 2,000 cows.
+Since 1995, Vir-Clar Farms has trusted Fox Structures to help build their thriving, family-owned dairy in Fond du Lac. As Vir-Clar has grown, they’ve turned to Fox Structures for a steel frame freestall barn, heifer barn and other buildings. Most recently, Vir-Clar again looked to Fox Structures to design, fabricate and build a unique, partially enclosed, 24,000-square-foot feed center. The center efficiently handles corn deliveries, provides covered bays for feed storage and houses the 200-hp mixer that produces 180 tons of feed daily to satisfy their 2,000 cows.

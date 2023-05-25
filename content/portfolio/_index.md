@@ -11,7 +11,7 @@ seo:
   featured_image: /uploads/forest-brook-farms-7.jpg
 hero: 
   enabled: true
-  heading: See our Successful Projects for Yourself.
+  heading: See Our Successful Projects for Yourself.
   body: >-
     From commercial office spaces and mini-warehouses to pole barns, milking parlors and equestrian riding arenas, our expert construction team has designed and built it all.
   image:
