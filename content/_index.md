@@ -48,7 +48,7 @@ intro:
     open_in_new_tab: false
   image:
     enabled: true
-    image_url: /amcor-1.jpg
+    image_url: /water-rite-remodel-square.jpg
     image_alt: >-
       Marble counter with stools in the showroom area at Water Right's Clean
       Water Center
