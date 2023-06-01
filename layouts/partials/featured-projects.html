@@ -11,13 +11,13 @@
                     <div class="swiper-slide columns gap-xl">
                         <div class="col swiper-slider__project-image cover-image">
                             <picture>
-                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75&width=400&height=250&fit=crop 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75&width=600&height=450&fit=crop 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75&width=800&height=500&fit=crop 800w" type="image/avif">
+                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_400,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_800,h_500,c_fill{{ .Params.seo.featured_image }} 800w" type="image/avif">
+                                
+                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_400,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_800,h_500,c_fill{{ .Params.seo.featured_image }} 800w" type="image/webp">
+                                
+                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_400,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_800,h_500,c_fill{{ .Params.seo.featured_image }} 800w" type="image/jpg">
                             
-                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75&width=400&height=250&fit=crop 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75&width=600&height=450&fit=crop 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75&width=800&height=500&fit=crop 800w" type="image/webp">
-                            
-                                <source sizes="(min-width: 62rem) 50vw, 100vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75&width=400&height=250&fit=crop 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75&width=600&height=450&fit=crop 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75&width=800&height=500&fit=crop 800w" type="image/jpg">
-                            
-                                <img src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="600" height="450">   
+                                <img src="https://res.cloudinary.com/foxstructures/image/upload{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="600" height="450">   
                             </picture>
                         </div>
                         <div class="col swiper-slider__project-quote">

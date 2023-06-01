@@ -54,7 +54,7 @@ intro:
       Water Center
   image_2:
     enabled: true
-    image_url: /uploads/forest-brook-farms.jpg
+    image_url: /forest-brook-farms_aowawf.jpg
     image_alt: >-
       Front exterior of Forest Brook Farms, a gray office and storage building
       with black accents and red doors.
@@ -73,10 +73,9 @@ experts_in_construction:
     timeline. Contact us today and learn how **we build with you in mind**!
   image:
     enabled: true
-    image_url: /uploads/go-pack-storage-fixed.jpg
+    image_url: /go-pack-storage-fixed_e3suy0.jpg
     image_alt: >-
-      The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad
-      Weyenburg, and Travis Woldt
+      Exterior drone view of the front of Go Pack Storage
   button:
     enabled: true
     button_url: /contact/
@@ -91,7 +90,7 @@ join_our_team:
     positions and apply today!
   image:
     enabled: true
-    image_url: /uploads/hiring-image-3.jpg
+    image_url: /hiring-image-3_rkxrpr.jpg
     image_alt: We're Hiring
   button:
     enabled: true

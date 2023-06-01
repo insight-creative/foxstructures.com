@@ -4,14 +4,14 @@ url: /construction-services/commercial/commercial-storage/
 seo:
   page_title: Commercial Storage | Business Construction
   meta_description: Need more space for your products or business? Design and build your custom commercial storage space in Northeast Wisconsin with Fox Structures!
-  featured_image: /uploads/mr-q-shops-and-storage-1.jpg
+  featured_image: /appleton-northeast-storage-1_om0vtg.jpg
 sector: Commercial
 hero: 
   enabled: true
   heading: Commercial Storage
   body: Design and build your custom commercial office building with strategic, space-saving design layouts and top-quality materials built to last.
   image: 
-    image_url: /uploads/mr-q-shops-and-storage-1.jpg
+    image_url: /appleton-northeast-storage-1_om0vtg.jpg
     image_alt: Drone view of Mr. Q's Shops and Storage and their five storage buildings
   button:
     enabled: true

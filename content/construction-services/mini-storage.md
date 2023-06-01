@@ -4,14 +4,14 @@ url: /construction-services/commercial/mini-storage/
 seo:
   page_title: Mini Storage Construction | Start Your Storage Business
   meta_description: Build your mini storage building with Fox Structures, the commercial storage construction experts in Northeast Wisconsin. Call (920) 766-9305 to get started.
-  featured_image: /uploads/little-chute-storage-1.jpg
+  featured_image: /little-chute-storage-1_vva0hr.jpg
 sector: Storage
 hero: 
   enabled: true
   heading: Mini Storage
   body: Design and build your mini storage building with strategic tactics to maximize unit space and top-quality materials built to last.
   image: 
-    image_url: /uploads/little-chute-storage-1.jpg
+    image_url: /little-chute-storage-1_vva0hr.jpg
     image_alt: Exterior of Little Chute Storage signage with building in the background
   button:
     enabled: true

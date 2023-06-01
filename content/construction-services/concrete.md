@@ -9,7 +9,7 @@ menu:
 seo:
   page_title: Concrete Construction Services in Kaukauna, WI
   meta_description: Your expert contractor for custom concrete foundations & slabs, commercial parking lots, retaining walls, patios & walkways, irrigation structures & more.
-  featured_image: /uploads/concrete-placeholder-small.jpg
+  featured_image: /concrete-placeholder-small_w0n5ie.jpg
   featured_image_alt: Freshly poured concrete stamped to look like brick cobblestones
 sector: Concrete
 hero: 
@@ -17,7 +17,7 @@ hero:
   heading: Concrete
   body: Complete your commercial, agricultural or residential construction project with the expert concrete services at Fox Structures.
   image: 
-    image_url: /uploads/redtail-ridge-dairy-1.jpg
+    image_url: /redtail-ridge-dairy-1_lxnrsg.jpg
     image_alt: 
   button:
     enabled: true

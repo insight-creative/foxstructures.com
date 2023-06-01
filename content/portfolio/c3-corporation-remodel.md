@@ -3,14 +3,14 @@ title: C3 Corporation Remodel
 seo:
   page_title:
   meta_description: When C3 Corporation’s employee and machinery needs began to exceed their 88,000-square-foot building, they turned to Fox Structures for renovation.
-  featured_image: /uploads/c3-remodel-1.jpg
+  featured_image: /c3-remodel-1_ebqov9.jpg
   featured_image_alt: C3 Marshall Building sign with building in the background
 date: 2021-10-14T07:00:00Z
 featured: true
 order: 3
 gallery: 
   - image: 
-      image_url: /uploads/c3-remodel-1.jpg
+      image_url: /c3-remodel-1_ebqov9.jpg
       image_alt:
   - image: 
       image_url: /uploads/c3-remodel-2.jpg
