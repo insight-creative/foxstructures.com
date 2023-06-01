@@ -3,12 +3,12 @@ title: Plum Creek Dairy
 seo:
   page_title:
   meta_description: When Plum Creek Dairy needed three new structures, they relied on Fox Structures and their longstanding reputation as agriculture specialists.
-  featured_image: /uploads/plum-creek-dairy-1.jpg
+  featured_image: /uploads/plum-creek-dairy-fixed.jpg
   featured_image_alt: Drone view of Plum Creek Dairy and three large cattle barns
 date: 2021-12-13T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/plum-creek-dairy-1.jpg
+      image_url: /uploads/plum-creek-dairy-fixed.jpg
       image_alt:
   - image: 
       image_url: /uploads/plum-creek-dairy-2.jpg

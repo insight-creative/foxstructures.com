@@ -54,7 +54,7 @@ experts_in_construction:
     If you’ve got a large-scale building project to complete, Fox Structures has the specialty equipment and expertise to make it happen—on your budget and timeline. Contact us today and learn how **we build with you in mind**!
   image: 
     enabled: true
-    image_url: /uploads/go-pack-storage.jpg
+    image_url: /uploads/go-pack-storage-fixed.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: true

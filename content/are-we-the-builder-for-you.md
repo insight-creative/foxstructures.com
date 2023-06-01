@@ -40,7 +40,7 @@ intro:
 
     In addition to our top-quality structures, we believe that the long-term relationships we build with our clients are equally important. In fact, **80% of our business** comes from repeat customers who we’ve served for decades. Working with Fox Structures means getting a dedicated construction partner for life.
   image: 
-    image_url: /uploads/fox-owners-group.jpg
+    image_url: /uploads/fox-structures-ownership-group.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: true
@@ -57,7 +57,7 @@ experts_in_construction:
     We especially focus on building lasting relationships with our commercial and agricultural clients, many of whom we have served for decades on various projects. 
   image: 
     enabled: true
-    image_url: /uploads/go-pack-storage.jpg
+    image_url: /uploads/go-pack-storage-fixed.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: false
@@ -111,8 +111,8 @@ construction_types:
       text_column_right: false
       image: 
         enabled: true
-        image_url: /uploads/kesler-farms-2-optimized.jpg
-        image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
+        image_url: /uploads/shiloh-dairy.jpg
+        image_alt: Shiloh Dairy
     - heading: Storage
       body: >-
         - Warehouse facilities
@@ -129,6 +129,6 @@ construction_types:
       text_column_right: true
       image: 
         enabled: true
-        image_url: /uploads/mr-q-shops-and-storage-1.jpg
+        image_url: /uploads/appleton-northeast-storage-1.jpg
         image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---

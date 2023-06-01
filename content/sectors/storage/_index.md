@@ -11,7 +11,7 @@ hero:
   body: >-
     
   image:
-    image_url: /uploads/cecil-storage-1.jpg
+    image_url: /uploads/cecil-storage-2-fixed.jpg
   button:
     enabled: false
     button_url: /portfolio/

@@ -57,7 +57,7 @@ our_people:
   body: >-
 
   image: 
-    image_url: /uploads/fox-owners-group.jpg
+    image_url: /uploads/fox-structures-ownership-group.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---
 

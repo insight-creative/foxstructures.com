@@ -8,13 +8,13 @@ menu:
 seo:
   page_title: FAQs About Our Construction Services
   meta_description: Searching for answers to your construction questions? Visit our FAQ page for information on our services, pricing and more. Or contact (920) 766-9305.
-  featured_image: /uploads/plum-creek-dairy-1.jpg
+  featured_image: /uploads/plum-creek-dairy-fixed.jpg
 hero: 
   enabled: true
   heading: Frequently Asked Questions
   body: We’re here to answer all your construction questions! Get information on the construction services we offer and what it’s like to work with Fox Structures.
   image: 
-    image_url: /uploads/plum-creek-dairy-1.jpg
+    image_url: /uploads/plum-creek-dairy-fixed.jpg
     image_alt: Drone view of Plum Creek Dairy and three large free-stall cattle barns
   button:
     enabled: false
