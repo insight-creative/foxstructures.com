@@ -13,31 +13,31 @@ gallery:
       image_url: /c3-remodel-1_ebqov9.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-2.jpg
+      image_url: /c3-remodel-2_olqwe1.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-4.jpg
+      image_url: /c3-remodel-4_pg1rk5.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-5.jpg
+      image_url: /c3-remodel-5_fvqzhi.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-7.jpg
+      image_url: /c3-remodel-7_zivirg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-9.jpg
+      image_url: /c3-remodel-9_aljhwn.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-11.jpg
+      image_url: /c3-remodel-11_mmzmsy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-13.jpg
+      image_url: /c3-remodel-13_atjwdu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-14.jpg
+      image_url: /c3-remodel-14_pcbalf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/c3-remodel-16.jpg
+      image_url: /c3-remodel-16_ajxclv.jpg
       image_alt:
 project_features: >-
   - Accordion-style partitions for flexible room design

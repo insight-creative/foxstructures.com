@@ -13,13 +13,13 @@ gallery:
       image_url: /temme-residential-construction-cover_lzj5rw.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-1.jpg
+      image_url: /temme-residential-construction-exterior-1.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-2.jpg
+      image_url: /temme-residential-construction-exterior-2.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-3.jpg
+      image_url: /temme-residential-construction-exterior-3.jpg
       image_alt:
 project_features: >-
   - Strong, functional steel frame construction

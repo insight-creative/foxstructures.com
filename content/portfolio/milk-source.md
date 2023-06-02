@@ -3,27 +3,27 @@ title: Milk Source
 seo:
   page_title:
   meta_description: Learn how Fox Structures helped restore two collapsed barn roofs at Milk Source and rebuild the farm’s infrastructure to be even stronger than before.
-  featured_image: /uploads/milk-source-1-optimized.jpg
+  featured_image: /milk-source-1-optimized_x2pzgr.jpg
   featured_image_alt: Front exterior of the Tidy View Dairy office building
 date: 2019-11-16T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/milk-source-1-optimized.jpg
+      image_url: /milk-source-1-optimized_x2pzgr.jpg
       image_alt:
   - image: 
-      image_url: /uploads/milk-source-2-optimized.jpg
+      image_url: /milk-source-2-optimized_c3jzqd.jpg
       image_alt:
   - image: 
-      image_url: /uploads/milk-source-3-optimized.jpg
+      image_url: /milk-source-3-optimized_kotlgi.jpg
       image_alt:
   - image: 
-      image_url: /uploads/milk-source-4-optimized.jpg
+      image_url: /milk-source-4-optimized_ze8giy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/milk-source-5-optimized.jpg
+      image_url: /milk-source-5-optimized_ehvsxq.jpg
       image_alt:
   - image: 
-      image_url: /uploads/milk-source-6-optimized.jpg
+      image_url: /milk-source-6-optimized_cyn35m.jpg
       image_alt:
 project_features: >-
   - Crisis response

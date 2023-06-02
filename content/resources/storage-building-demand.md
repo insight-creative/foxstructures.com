@@ -3,7 +3,7 @@ title: "5 Reasons Storage Buildings Are in High Demand"
 seo:
   page_title:
   meta_description: Why are storage buildings in high demand? 1. Rising housing costs. 2. City living. 3. Downsizing. 4. Monetization opportunities. 5. Business expansion.
-  featured_image: /cecil-storage-2-fixed_nykwe4.jpg
+  featured_image: /cecil-storage-1-fixed_nykwe4.jpg
   featured_image_alt: Drone view of five large storage buildings with red roofs 
 draft: false
 author:

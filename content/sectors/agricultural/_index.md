@@ -4,14 +4,14 @@ seo:
   page_title: 
   meta_description: >-
 
-  featured_image: /uploads/see-farms-1.jpg
+  featured_image: /see-farms-1_ivb0k5.jpg
 hero:
   enabled: true
   heading: See our Successful Agricultural Projects for Yourself.
   body: >-
     
   image:
-    image_url: /uploads/see-farms-1.jpg
+    image_url: /see-farms-1_ivb0k5.jpg
   button:
     enabled: false
     button_url: /portfolio/

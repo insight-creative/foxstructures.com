@@ -4,14 +4,14 @@ seo:
   page_title: 
   meta_description: >-
 
-  featured_image: /uploads/cartech-1.jpg
+  featured_image: /cartech-1_tu5nwu.jpg
 hero: 
   enabled: true
   heading: See our Successful Projects for Yourself.
   body: >-
     From commercial office spaces and mini-warehouses to pole barns, milking parlors and equestrian riding arenas, our expert construction team has designed and built it all.
   image:
-    image_url: /uploads/cartech-1.jpg
+    image_url: /cartech-1_tu5nwu.jpg
   button:
     enabled: false
     open_in_new_tab: true

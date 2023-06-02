@@ -3,27 +3,27 @@ title: Brault Family Shouse Build
 seo:
   page_title:
   meta_description: Learn how Fox Structures built the residence and workshop Michelle and her husband Paul had been dreaming about.
-  featured_image: /uploads/brault-shouse-1.jpg
+  featured_image: /brault-shouse-1_xdrocd.jpg
   featured_image_alt: Front exterior of the Bault family shouse with black metal siding and covered front porch
 date: 2022-08-16T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/brault-shouse-1.jpg
+      image_url: /brault-shouse-1_xdrocd.jpg
       image_alt:
   - image: 
-      image_url: /uploads/brault-shouse-2.jpg
+      image_url: /brault-shouse-2_gtt5ag.jpg
       image_alt:
   - image: 
-      image_url: /uploads/brault-shouse-3.jpg
+      image_url: /brault-shouse-3_frzkqr.jpg
       image_alt:
   - image: 
-      image_url: /uploads/brault-shouse-4.jpg
+      image_url: /brault-shouse-4_eu6lq3.jpg
       image_alt:
   - image: 
-      image_url: /uploads/brault-shouse-5.jpg
+      image_url: /brault-shouse-5_sc7x1t.jpg
       image_alt:
   - image: 
-      image_url: /uploads/brault-shouse-6.jpg
+      image_url: /brault-shouse-6_qwehhm.jpg
       image_alt:
 project_features: >-
   - Shouse surrounded by woods

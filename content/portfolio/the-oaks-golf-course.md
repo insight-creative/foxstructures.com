@@ -10,19 +10,19 @@ featured: true
 order: 5
 gallery: 
   - image: 
-      image_url: /uploads/oaks-golf-course-3.jpg
+      image_url: /oaks-golf-course-3_cyo8d4.jpg
       image_alt:
   - image: 
       image_url: /oaks-golf-course-1_ohpgor.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-2.jpg
+      image_url: /oaks-golf-course-2_qjw66l.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-4.jpg
+      image_url: /oaks-golf-course-4_kbx0qo.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-5.jpg
+      image_url: /oaks-golf-course-5_luxdfe.jpg
       image_alt:
 project_features: >-
   - Space-saving Amish barn doors

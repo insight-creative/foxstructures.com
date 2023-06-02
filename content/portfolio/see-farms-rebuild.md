@@ -13,25 +13,25 @@ gallery:
       image_url: /see-farms-1_ivb0k5.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-2.jpg
+      image_url: /see-farms-2_tmnkoe.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-3.jpg
+      image_url: /see-farms-3_nhyryu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-4.jpg
+      image_url: /see-farms-4_cy7gto.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-5.jpg
+      image_url: /see-farms-5_y2ypzy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-6.jpg
+      image_url: /see-farms-6_x4wwj0.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-7.jpg
+      image_url: /see-farms-7_zm12c3.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-11.jpg
+      image_url: /see-farms-11_to1q61.jpg
       image_alt:
 project_features: >-
   - Open-sided

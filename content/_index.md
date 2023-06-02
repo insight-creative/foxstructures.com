@@ -6,7 +6,7 @@ seo:
     With 40+ years of experience, Fox Structures is your go-to construction
     company for large-scale commercial and agricultural construction in
     Northeast Wisconsin.
-  featured_image: /uploads/fox-structures-website-preview.jpg
+  featured_image: /fox-structures-website-preview_bnl2nh.jpg
 hero:
   enabled: true
   heading: Design, Welding and Construction Services in Northeast WI

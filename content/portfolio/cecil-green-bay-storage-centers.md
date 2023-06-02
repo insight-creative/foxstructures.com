@@ -3,30 +3,30 @@ title: Cecil & Green Bay Storage Centers
 seo:
   page_title:
   meta_description: Learn why Fox Structures was the go-to choice to build Cecil and Green Bay Storage Center’s newest units.
-  featured_image: /uploads/cecil-storage-2-fixed.jpg
+  featured_image: /cecil-storage-1-fixed_nykwe4.jpg
   featured_image_alt: Drone view of Cecil and Green Bay Storage Centers
 date: 2021-05-10T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/cecil-storage-2-fixed.jpg
+      image_url: /cecil-storage-1-fixed_nykwe4.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-2.jpg
+      image_url: /cecil-storage-2_urv8mp.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-fixed.jpg
+      image_url: /cecil-storage-3-fixed_yzaveq.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-5.jpg
+      image_url: /cecil-storage-5_mtnp6c.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-6.jpg
+      image_url: /cecil-storage-6_d8zw21.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-7.jpg
+      image_url: /cecil-storage-7_ivtuse.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cecil-storage-8.jpg
+      image_url: /cecil-storage-8_yw6lpi.jpg
       image_alt:
 project_features: >-
   - Large 10×10 overhead doors

@@ -3,7 +3,7 @@ title: "Farming for Education"
 seo:
   page_title:
   meta_description: 
-  featured_image: /uploads/kessler-barn-cover-fox-structures-low.jpg
+  featured_image: /kesler-farms-1-optimized_zjion5.jpg
   featured_image_alt: Front exterior of a brand new red and white barn at Kessler family farm
 draft: false
 author:

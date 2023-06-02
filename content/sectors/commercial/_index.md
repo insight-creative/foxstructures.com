@@ -4,14 +4,14 @@ seo:
   page_title: 
   meta_description: >-
 
-  featured_image: /uploads/temme-residential-construction-cover.jpg
+  featured_image: /temme-residential-construction-cover_lzj5rw.jpg
 hero:
   enabled: true
   heading: See our Successful Commercial Projects for Yourself.
   body: >-
     
   image:
-    image_url: /uploads/temme-residential-construction-cover.jpg
+    image_url: /temme-residential-construction-cover_lzj5rw.jpg
   button:
     enabled: false
     button_url: /portfolio/

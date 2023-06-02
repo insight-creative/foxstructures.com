@@ -3,21 +3,21 @@ title: McCarthy Fitness Studio
 seo:
   page_title:
   meta_description: After enlisting Fox Structures to build multiple agriculture buildings on their dairy farm, the McCarthys knew they had the creativity and skill for this unique project.
-  featured_image: /uploads/mycarthy-gym-1.jpg
+  featured_image: /mycarthy-gym-1_b9p83e.jpg
   featured_image_alt: A home gym and training center with weights medicine balls and a variety of other workout equipment
 date: 2020-09-10T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/mycarthy-gym-1.jpg
+      image_url: /mycarthy-gym-1_b9p83e.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mycarthy-gym-2.jpg
+      image_url: /mycarthy-gym-2_oglvqn.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mycarthy-gym-3.jpg
+      image_url: /mycarthy-gym-3_xrr7cb.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mycarthy-gym-4.jpg
+      image_url: /mycarthy-gym-4_xchyxo.jpg
       image_alt:
 project_features: >-
   - Custom steel i-beam

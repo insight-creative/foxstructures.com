@@ -3,8 +3,8 @@ title: Alex Sudbrink
 seo:
   page_title:
   meta_description: Alex brings a great deal of organization, attention to detail and professionalism to his collaborative role at Fox Structures.
-  featured_image: /uploads/alex-sudbrink.jpg
-headshot: /uploads/alex-sudbrink.jpg
+  featured_image: /alex-sudbrink_gwoiob.jpg
+headshot: /alex-sudbrink_gwoiob.jpg
 job_position: Designer/Draftsman
 ---
 

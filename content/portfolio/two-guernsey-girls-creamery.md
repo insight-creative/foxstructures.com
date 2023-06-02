@@ -3,30 +3,30 @@ title: Two Guernsey Girls Creamery
 seo:
   page_title:
   meta_description: Learn how Fox Structures built a new structure featuring two fully equipped dairy processing rooms with viewing windows, a storefront, and an office area.
-  featured_image: /uploads/two-guernsey-girls-1.jpg
+  featured_image: /two-guernsey-girls-1_ottfzl.jpg
   featured_image_alt: Signage for Two Guernsey Girls Creamery surrounded by flowers in small planters
 date: 2021-08-16T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/two-guernsey-girls-1.jpg
+      image_url: /two-guernsey-girls-1_ottfzl.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-2.jpg
+      image_url: /two-guernsey-girls-2_grke47.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-3.jpg
+      image_url: /two-guernsey-girls-3_al1ogz.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-4.jpg
+      image_url: /two-guernsey-girls-4_q9qvsp.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-7.jpg
+      image_url: /two-guernsey-girls-7_lbbxse.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-8.jpg
+      image_url: /two-guernsey-girls-8_anqqst.jpg
       image_alt:
   - image: 
-      image_url: /uploads/two-guernsey-girls-9.jpg
+      image_url: /two-guernsey-girls-9_jkwfqs.jpg
       image_alt:
 project_features: >-
   - Durable PVC panels

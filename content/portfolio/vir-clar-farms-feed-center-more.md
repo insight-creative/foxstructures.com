@@ -3,27 +3,27 @@ title: Vir-Clar Farms’ Feed Center & More
 seo:
   page_title:
   meta_description: Learn why since 1995, Vir-Clar Farms has trusted Fox Structures to help build their thriving, family owned dairy in Fond du Lac.
-  featured_image: /uploads/vir-clar-farms-1-optimized.jpg
+  featured_image: /vir-clar-farms-1-optimized_mrvycl.jpg
   featured_image_alt: Vir Clar farms front office and retail building
 date: 2019-11-24T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/vir-clar-farms-1-optimized.jpg
+      image_url: /vir-clar-farms-1-optimized_mrvycl.jpg
       image_alt:
   - image: 
-      image_url: /uploads/vir-clar-farms-2-optimized.jpg
+      image_url: /vir-clar-farms-2-optimized_w4i1jy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/vir-clar-farms-3-optimized.jpg
+      image_url: /vir-clar-farms-3-optimized_agmhkg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/vir-clar-farms-4-optimized.jpg
+      image_url: /vir-clar-farms-4-optimized_gu9jrb.jpg
       image_alt:
   - image: 
-      image_url: /uploads/vir-clar-farms-5-optimized.jpg
+      image_url: /vir-clar-farms-5-optimized_brdefc.jpg
       image_alt:
   - image: 
-      image_url: /uploads/vir-clar-farms-6-optimized.jpg
+      image_url: /vir-clar-farms-6-optimized_vac8hh.jpg
       image_alt:
 project_features: >-
   - Sturdy steel-frame construction

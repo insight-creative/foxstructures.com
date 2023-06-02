@@ -22,11 +22,11 @@
                         <li class="card card--staff flex flex-column p-relative">
                             <div class="card__image-wrap">
                                 <picture>
-                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=avif&q=85&width=400&height=500&fit=crop" type="image/avif">
-                                
-                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=webp&q=85&width=400&height=500&fit=crop" type="image/webp">
-                                
-                                    <source srcset="https://foxstructures.imgix.net{{ .Params.headshot }}?fm=jpg&q=85&width=400&height=500&fit=crop" type="image/jpg">
+                                    <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_400,h_500,c_fill{{ .Params.headshot }}" type="image/avif">
+
+                                    <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_400,h_500,c_fill{{ .Params.headshot }}" type="image/webp">
+
+                                    <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_400,h_500,c_fill{{ .Params.headshot }}" type="image/jpg">
                                 
                                     <img src="{{ .Params.headshot }}" alt="Headshot of Fox Structures {{ .Params.job_position }} {{ .Title }}" width="400" height="500" loading="lazy">   
                                 </picture>

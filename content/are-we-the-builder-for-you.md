@@ -8,14 +8,14 @@ menu:
 seo:
   page_title: Are We the Right Builder for You?
   meta_description: Searching for a construction company in Northeast Wisconsin? Find out if Fox Structures is right for you! Contact us today at (920) 766-9305.
-  featured_image: /uploads/cartech-1.jpg
+  featured_image: /v1685602259/cartech-1_tu5nwu.jpg
 hero:
   enabled: true
   heading: Are We the Right Builder for You?
   body: >-
     Learn more about our mission, construction process, pricing and more to determine if Fox Structures is the right builder for you!
   image: 
-    image_url: /uploads/cartech-1.jpg
+    image_url: /cartech-1_tu5nwu.jpg
     image_alt: CarTech Auto Repair signage and landscaping with CarTech building in the background
   button:
     enabled: false
@@ -40,7 +40,7 @@ intro:
 
     In addition to our top-quality structures, we believe that the long-term relationships we build with our clients are equally important. In fact, **80% of our business** comes from repeat customers who we’ve served for decades. Working with Fox Structures means getting a dedicated construction partner for life.
   image: 
-    image_url: /uploads/fox-structures-ownership-group.jpg
+    image_url: /fox-structures-ownership-group_gfsorj.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: true
@@ -57,7 +57,7 @@ experts_in_construction:
     We especially focus on building lasting relationships with our commercial and agricultural clients, many of whom we have served for decades on various projects. 
   image: 
     enabled: true
-    image_url: /uploads/go-pack-storage-fixed.jpg
+    image_url: /go-pack-storage-fixed_e3suy0.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
   button:
     enabled: false
@@ -87,7 +87,7 @@ construction_types:
       text_column_right: true
       image: 
         enabled: true
-        image_url: /uploads/fox-valley-auto-auction-3.jpg
+        image_url: /fox-valley-auto-auction-3_ktictj.jpg
         image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
     - heading: Agricultural
       body: >-
@@ -111,7 +111,7 @@ construction_types:
       text_column_right: false
       image: 
         enabled: true
-        image_url: /uploads/shiloh-dairy.jpg
+        image_url: /shiloh-dairy_ugpmlp.jpg
         image_alt: Shiloh Dairy
     - heading: Storage
       body: >-
@@ -129,6 +129,6 @@ construction_types:
       text_column_right: true
       image: 
         enabled: true
-        image_url: /uploads/appleton-northeast-storage-1.jpg
+        image_url: /appleton-northeast-storage-1_om0vtg.jpg
         image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---

@@ -13,7 +13,7 @@ hero:
   body: >-
     Providing the highest quality design and construction services throughout Northeast Wisconsin for over 40 years.
   image: 
-    image_url: /uploads/oaks-golf-course-drone-shot.jpg
+    image_url: /oaks-golf-course-drone-shot_s5mp9m.jpg
     image_alt: Aerial drone view of the Oak Golf Course clubhouse
   button:
     enabled: false

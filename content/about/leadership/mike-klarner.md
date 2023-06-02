@@ -3,8 +3,8 @@ title: Mike Klarner
 seo:
   page_title:
   meta_description: As an owner of Fox Structures since 2016, Mike brings the vision, experience and competitive drive needed to tackle some of Fox Structures’ largest commercial and agricultural projects.
-  featured_image: /uploads/mike-klarner.jpg
-headshot: /uploads/mike-klarner.jpg
+  featured_image: /mike-klarner_gezqap.jpg
+headshot: /mike-klarner_gezqap.jpg
 job_position: Sales Representative - Commercial Specialist
 ---
 

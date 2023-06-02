@@ -3,39 +3,39 @@ title: Hidden Hollow
 seo:
   page_title:
   meta_description: Learn how Fox Structures helped bring to life the whimsical vision for Hidden Hollow ART’s retail space.
-  featured_image: /uploads/hidden-hollow-1-optimized.jpg
+  featured_image: /hidden-hollow-1-optimized_qxbt2z.jpg
   featured_image_alt: Drone view of Hidden Hollow in New Holstein, WI
 date: 2019-11-18T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/hidden-hollow-1-optimized.jpg
+      image_url: /hidden-hollow-1-optimized_qxbt2z.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-2-optimized.jpg
+      image_url: /hidden-hollow-2-optimized_ufxgeb.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-3-optimized.jpg
+      image_url: /hidden-hollow-3-optimized_glqsuu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-4-optimized.jpg
+      image_url: /hidden-hollow-4-optimized_qormjq.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-5-optimized.jpg
+      image_url: /hidden-hollow-5-optimized_yfqjzn.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-6-optimized.jpg
+      image_url: /hidden-hollow-6-optimized_hs2lvl.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-7-optimized.jpg
+      image_url: /hidden-hollow-7-optimized_akabji.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-8-optimized.jpg
+      image_url: /hidden-hollow-8-optimized_bigz8a.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-9-optimized.jpg
+      image_url: /hidden-hollow-9-optimized_lldn7w.jpg
       image_alt:
   - image: 
-      image_url: /uploads/hidden-hollow-10-optimized.jpg
+      image_url: /hidden-hollow-10-optimized_beyxfm.jpg
       image_alt:
 project_features: >-
   - I-beam interior loft

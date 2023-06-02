@@ -15,7 +15,7 @@ hero:
   body: >-
     Latest company news and resources to help inspire you and your next construction project.
   image: 
-    image_url: /uploads/fox-structures-custom-building-plans.jpg
+    image_url: /fox-structures-custom-building-plans_uhhrwy.jpg
     image_alt:
   button:
     enabled: false
