@@ -3,30 +3,30 @@ title: CarTech Auto Repair
 seo:
   page_title:
   meta_description: Learn how in just three months, Fox Structures helped CarTech rev up their customer experience with a showstopping remodel featuring many new amenities.
-  featured_image: /uploads/cartech-1.jpg
+  featured_image: /cartech-1_tu5nwu.jpg
   featured_image_alt: CarTech Auto Repair signage and landscaping with CarTech building in the background
 date: 2021-11-23T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/cartech-1.jpg
+      image_url: /cartech-1_tu5nwu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-2.jpg
+      image_url: /cartech-2_peeubl.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-3.jpg
+      image_url: /cartech-3_lbnkan.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-4.jpg
+      image_url: /cartech-4_vbvzwu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-5.jpg
+      image_url: /cartech-5_ytf8f6.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-6.jpg
+      image_url: /cartech-6_u5hpz6.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cartech-8.jpg
+      image_url: /cartech-8_p8t2go.jpg
       image_alt:
 project_features: >-
   - Vaulted ceilings

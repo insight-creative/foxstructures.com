@@ -3,7 +3,7 @@ title: Concrete Crew Laborer
 seo:
   page_title:
   meta_description: "Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
-  featured_image: /uploads/poured-concrete.jpg
+  featured_image: /poured-concrete_j61r3v.jpg
 ---
 
 **Position Summary**: Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Perform associated tasks involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensure site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Concrete Foreman/Supervisor and/or Concrete Lead Men.

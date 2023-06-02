@@ -3,30 +3,30 @@ title: Kesler Family Farm
 seo:
   page_title:
   meta_description: Learn how Fox Structures helped the Kesler Family rebuild a beautiful Amish-style barn to fulfill their ambitions for an even more exciting future.
-  featured_image: /uploads/kesler-farms-1-optimized.jpg
+  featured_image: /kesler-farms-1-optimized_zjion5.jpg
   featured_image_alt: A red and white barn built on the Kesler Family Farm
 date: 2019-11-23T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/kesler-farms-1-optimized.jpg
+      image_url: /kesler-farms-1-optimized_zjion5.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-2-optimized.jpg
+      image_url: /kesler-farms-2-optimized_cz9w4l.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-3-optimized.jpg
+      image_url: /kesler-farms-3-optimized_vyefgt.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-4-optimized.jpg
+      image_url: /kesler-farms-4-optimized_hdsefk.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-5-optimized.jpg
+      image_url: /kesler-farms-5-optimized_j79xdg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-6-optimized.jpg
+      image_url: /kesler-farms-6-optimized_oxht5d.jpg
       image_alt:
   - image: 
-      image_url: /uploads/kesler-farms-7-optimized.jpg
+      image_url: /kesler-farms-7-optimized_ny7few.jpg
       image_alt:
 project_features: >-
   - Exterior cross bucks

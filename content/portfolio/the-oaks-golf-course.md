@@ -3,26 +3,26 @@ title: The Oaks Golf Course
 seo:
   page_title:
   meta_description: Learn how Fox Structures collaborated with the owners of The Oaks Golf Course in Cottage Grove to convert their existing retail space into a new office.
-  featured_image: /uploads/oaks-golf-course-1.jpg
+  featured_image: /oaks-golf-course-1_ohpgor.jpg
   featured_image_alt: Drone view of The Oaks Golf Course clubhouse
 date: 2019-11-20T07:00:00Z
 featured: true
 order: 5
 gallery: 
   - image: 
-      image_url: /uploads/oaks-golf-course-3.jpg
+      image_url: /oaks-golf-course-3_cyo8d4.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-1.jpg
+      image_url: /oaks-golf-course-1_ohpgor.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-2.jpg
+      image_url: /oaks-golf-course-2_qjw66l.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-4.jpg
+      image_url: /oaks-golf-course-4_kbx0qo.jpg
       image_alt:
   - image: 
-      image_url: /uploads/oaks-golf-course-5.jpg
+      image_url: /oaks-golf-course-5_luxdfe.jpg
       image_alt:
 project_features: >-
   - Space-saving Amish barn doors

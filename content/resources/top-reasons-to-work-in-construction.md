@@ -3,7 +3,7 @@ title: "Top Reasons to Work in Construction"
 seo:
   page_title:
   meta_description: 
-  featured_image: /uploads/Verhasselt-CroppedMedium-2.jpg
+  featured_image: /Verhasselt-CroppedMedium-2_vqsm7o.jpg
   featured_image_alt: Workers on lifts while constructing a new large free stall cattle barn
 draft: false
 author:

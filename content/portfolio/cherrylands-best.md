@@ -3,27 +3,27 @@ title: Cherryland’s Best
 seo:
   page_title:
   meta_description: When Cherryland’s Best needed to remodel their massive production and storage facility, they knew Fox Structures could provide the customization needed.
-  featured_image: /uploads/cherrylands-best-1-optimized.jpg
+  featured_image: /cherrylands-best-1-optimized_hqm3mw.jpg
   featured_image_alt: Large metal food processing tanks inside Cherryland's Best
 date: 2020-02-03T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/cherrylands-best-1-optimized.jpg
+      image_url: /cherrylands-best-1-optimized_hqm3mw.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cherrylands-best-2-optimized.jpg
+      image_url: /cherrylands-best-2-optimized_gkwnf6.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cherrylands-best-3-optimized.jpg
+      image_url: /cherrylands-best-3-optimized_fpiyox.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cherrylands-best-4-optimized.jpg
+      image_url: /cherrylands-best-4-optimized_wql4jy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cherrylands-best-5-optimized.jpg
+      image_url: /cherrylands-best-5-optimized_abgzji.jpg
       image_alt:
   - image: 
-      image_url: /uploads/cherrylands-best-6-optimized.jpg
+      image_url: /cherrylands-best-6-optimized_ofemp1.jpg
       image_alt:
 project_features: >-
   - Insulated walls & floors

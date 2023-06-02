@@ -9,7 +9,7 @@ menu:
 seo:
   page_title: Agricultural Construction Services in Kaukauna, WI
   meta_description: Fox Structures designs and builds unique agricultural facilities for customers in northeast Wisconsin.
-  featured_image: /uploads/shiloh-dairy.jpg
+  featured_image: /shiloh-dairy_ugpmlp.jpg
   featured_image_alt: Drone view of plum creek dairy and three large free-stall cattle barns
 sector: Agricultural
 hero: 
@@ -17,7 +17,7 @@ hero:
   heading: Agricultural
   body: Design and outfit your farm or other ag property with a team who understands the specialized challenges facing the ag industry.
   image: 
-    image_url: /uploads/redtail-ridge-dairy-1.jpg
+    image_url: /redtail-ridge-dairy-1_lxnrsg.jpg
     image_alt: Drone view of Redtail Ridge dairy and three large barns and storage buildings
   button:
     enabled: true

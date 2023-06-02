@@ -3,7 +3,7 @@ title: "A Life-Long Ag Construction Partnership: Following up with Vir-Clar Farm
 seo:
   page_title:
   meta_description: Learn how Vir-Clar Farm’s ongoing partnership with Fox Structures has helped build, maintain and grow their farm with quality ag construction.
-  featured_image: /uploads/vir-clar-farms.jpg
+  featured_image: /vir-clar-farms_lgi40i.jpg
   featured_image_alt: Vir Clar Farms office and retail building exterior
 draft: false
 author:
@@ -18,7 +18,7 @@ Here at Fox Structures, we’re no strangers to ongoing partnerships with our ag
 
 We recently talked with JR, Vir-Clar Farm’s current owner, who was just ten years old when Fox Structures first began construction on the farm! JR shared how the buildings have performed and how Fox Structures has continued to help upkeep and expand the family farm for nearly three decades.
 
-{{< responsive-image image_url="/uploads/vir-clar-farms-building.jpg" image_alt="Vir Clar Farms Building" >}}
+{{< responsive-image image_url="/vir-clar-farms-building_sruyxv.jpg" image_alt="Vir Clar Farms Building" >}}
 
 ## Vir-Clar Farm’s Expansion
 

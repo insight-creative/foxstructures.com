@@ -3,39 +3,39 @@ title: Waldron’s Youth Sports Facility
 seo:
   page_title:
   meta_description: Learn how Fox Structures helped the Waldrons convert their 1950s-style shed into a practice facility for their two sons and teammates.
-  featured_image: /uploads/waldron-sports-facility-10.jpg
+  featured_image: /waldron-sports-facility-10_wkv3qb.jpg
   featured_image_alt: Blue and yellow painted basketball court inside an old barn converted into a sports training facility
 date: 2020-07-07T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/waldron-sports-facility-1.jpg
+      image_url: /waldron-sports-facility-1_rw7vyi.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-2.jpg
+      image_url: /waldron-sports-facility-2_ltfvic.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-3.jpg
+      image_url: /waldron-sports-facility-3_vno0ep.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-4.jpg
+      image_url: /waldron-sports-facility-4_s9ydxi.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-5.jpg
+      image_url: /waldron-sports-facility-5_sf9vl3.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-6.jpg
+      image_url: /waldron-sports-facility-6_j55mta.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-7.jpg
+      image_url: /waldron-sports-facility-7_gj35cc.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-8.jpg
+      image_url: /waldron-sports-facility-8_xehcya.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-9.jpg
+      image_url: /waldron-sports-facility-9_u8v0ea.jpg
       image_alt:
   - image: 
-      image_url: /uploads/waldron-sports-facility-10.jpg
+      image_url: /waldron-sports-facility-10_wkv3qb.jpg
       image_alt:
 project_features: >-
   - 3/4-inch plywood walls to withstand max impact

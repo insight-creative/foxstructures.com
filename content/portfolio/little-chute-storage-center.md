@@ -3,39 +3,39 @@ title: Little Chute Storage Center
 seo:
   page_title:
   meta_description: When Little Chute Storage Center needed a full-service contractor, they selected Fox Structures based on their strong storage construction reputation.
-  featured_image: /uploads/little-chute-storage-1.jpg
+  featured_image: /little-chute-storage-1_vva0hr.jpg
   featured_image_alt: Tenant signage with Little Chute Storage Center in the background
 date: 2020-04-10T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/little-chute-storage-1.jpg
+      image_url: /little-chute-storage-1_vva0hr.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-2.jpg
+      image_url: /little-chute-storage-2_zedzpq.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-3.jpg
+      image_url: /little-chute-storage-3_wnbdmq.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-4.jpg
+      image_url: /little-chute-storage-4_qysz8e.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-8.jpg
+      image_url: /little-chute-storage-8_foc8gt.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-9.jpg
+      image_url: /little-chute-storage-9_cczppc.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-10.jpg
+      image_url: /little-chute-storage-10_vypbc7.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-11.jpg
+      image_url: /little-chute-storage-11_qqzy9t.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-12.jpg
+      image_url: /little-chute-storage-12_klingm.jpg
       image_alt:
   - image: 
-      image_url: /uploads/little-chute-storage-13.jpg
+      image_url: /little-chute-storage-13_kwfkyq.jpg
       image_alt:
 project_features: >-
   - Covered entrances

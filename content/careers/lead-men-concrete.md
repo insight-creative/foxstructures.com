@@ -3,7 +3,7 @@ title: Lead Men (Concrete)
 seo:
   page_title:
   meta_description: "Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
-  featured_image: /uploads/poured-concrete.jpg
+  featured_image: /poured-concrete_j61r3v.jpg
 ---
 
 **Position Summary**: Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Assists the Concrete Foreman in accomplishing construction project results by calculating resources required; maintaining standards and protocols; assisting in allocating resources; adhering to scheduling and coordination of staff and sub-contractors as set forth by the Concrete Foreman/supervisor. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Performing other duties as assigned by Foreman/Supervisor.

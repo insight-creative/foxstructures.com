@@ -3,8 +3,8 @@ title: Quentin Johnson
 seo:
   page_title:
   meta_description: As a concrete contractor and former owner of R&R Concrete, Quentin brings over 20 years of experience working on large-scale commercial and agricultural concrete projects throughout Northeast Wisconsin.
-  featured_image: /uploads/quentin-johnson.jpg
-headshot: /uploads/quentin-johnson.jpg
+  featured_image: /quentin-johnson_fxcr6m.jpg
+headshot: /quentin-johnson_fxcr6m.jpg
 job_position: Concrete Contractor
 ---
 

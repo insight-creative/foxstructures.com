@@ -3,30 +3,30 @@ title: American Family Insurance Office
 seo:
   page_title:
   meta_description: Learn how we built a quaint, yet versatile and professional, space for American Family Insurance Agent Leah Burg to meet with clients and house her small business.
-  featured_image: /uploads/american-family-insurance-1.jpg
+  featured_image: /american-family-insurance-1_vmcuzf.jpg
   featured_image_alt: Front exterior of the new American Family Insurance office for Lean Burg in Chilton, WI
 date: 2021-02-19T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/american-family-insurance-1.jpg
+      image_url: /american-family-insurance-1_vmcuzf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-2.jpg
+      image_url: /american-family-insurance-2_tubnmo.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-3.jpg
+      image_url: /american-family-insurance-3_xma2uo.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-4.jpg
+      image_url: /american-family-insurance-4_rutje6.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-5.jpg
+      image_url: /american-family-insurance-5_thwqw7.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-6.jpg
+      image_url: /american-family-insurance-6_rgjmra.jpg
       image_alt:
   - image: 
-      image_url: /uploads/american-family-insurance-7.jpg
+      image_url: /american-family-insurance-7_qu83xa.jpg
       image_alt:
 project_features: >-
   - Cathedral ceilings

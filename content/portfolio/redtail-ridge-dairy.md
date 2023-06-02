@@ -3,33 +3,33 @@ title: Redtail Ridge Dairy
 seo:
   page_title:
   meta_description: Learn how after constructing almost a dozen agricultural buildings at Redtail Ridge, Fox Structures is the go-to source for the farm’s expansion projects.
-  featured_image: /uploads/redtail-ridge-dairy-1.jpg
+  featured_image: /redtail-ridge-dairy-1_lxnrsg.jpg
   featured_image_alt: Drone view of Retail Ridge Dairy and their four large storage buildings and cattle barns
 date: 2020-10-26T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-1.jpg
+      image_url: /redtail-ridge-dairy-1_lxnrsg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-2.jpg
+      image_url: /redtail-ridge-dairy-2_vrltx7.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-3.jpg
+      image_url: /redtail-ridge-dairy-3_qmbbcn.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-4.jpg
+      image_url: /redtail-ridge-dairy-4_o0q6c7.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-5.jpg
+      image_url: /redtail-ridge-dairy-5_m9hfq9.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-6.jpg
+      image_url: /redtail-ridge-dairy-6_tqlnqp.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-7.jpg
+      image_url: /redtail-ridge-dairy-7_wiz9ty.jpg
       image_alt:
   - image: 
-      image_url: /uploads/redtail-ridge-dairy-8.jpg
+      image_url: /redtail-ridge-dairy-8_eqdiqu.jpg
       image_alt:
 project_features: >-
   - Innovative calf pen layout

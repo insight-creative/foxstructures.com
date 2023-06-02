@@ -3,24 +3,24 @@ title: Mr. Q’s Shops and Storage
 seo:
   page_title:
   meta_description: When Mr. Q’s Shops and Storage wanted to maximize space for their storage business, Fox Structures added a climate-controlled storage unit to their property.
-  featured_image: /uploads/mr-q-shops-and-storage-1.jpg
+  featured_image: /mr-q-shops-and-storage-1_q61wcf.jpg
   featured_image_alt: Drone view of Mr. Q's shops and storage and their five large storage buildings
 date: 2022-07-21T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/mr-q-shops-and-storage-1.jpg
+      image_url: /mr-q-shops-and-storage-1_q61wcf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mr-q-shops-and-storage-2.jpg
+      image_url: /mr-q-shops-and-storage-2_yw0zvf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mr-q-shops-and-storage-3.jpg
+      image_url: /mr-q-shops-and-storage-3_si0lxg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mr-q-shops-and-storage-4.jpg
+      image_url: /mr-q-shops-and-storage-4_qdafps.jpg
       image_alt:
   - image: 
-      image_url: /uploads/mr-q-shops-and-storage-5.jpg
+      image_url: /mr-q-shops-and-storage-5_zca7pp.jpg
       image_alt:
 project_features: >-
   - Steel building

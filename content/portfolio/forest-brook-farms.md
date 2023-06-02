@@ -3,41 +3,41 @@ title: Forest Brook Farms
 seo:
   page_title:
   meta_description: Learn how Fox Structures collaborated with the owner of Forest Brook Farms to design two unique multi-purpose buildings for their farm in Chilton.
-  featured_image: /uploads/forest-Brook-Farms-new-cover.jpg
+  featured_image: /forest-Brook-Farms-new-cover_ty3w0t.jpg
   featured_image_alt: Front exterior of a large gray barn with black accents and red doors
 date: 2019-11-21T07:00:00Z
 featured: true
 order: 2
 gallery: 
   - image: 
-      image_url: /uploads/forest-brook-farms-7.jpg
+      image_url: /forest-brook-farms-7_vyyhkw.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-6.jpg
+      image_url: /forest-brook-farms-6_ztrnjz.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-5.jpg
+      image_url: /forest-brook-farms-5_ipgqbf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-8.jpg
+      image_url: /forest-brook-farms-8_l0hdbu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-3.jpg
+      image_url: /forest-brook-farms-3_c723jl.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-4.jpg
+      image_url: /forest-brook-farms-4_o9tgll.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-9.jpg
+      image_url: /forest-brook-farms-9_wni4o2.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-10.jpg
+      image_url: /forest-brook-farms-10_ktqexx.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-1.jpg
+      image_url: /forest-brook-farms-1_bkfvgr.jpg
       image_alt:
   - image: 
-      image_url: /uploads/forest-brook-farms-2.jpg
+      image_url: /forest-brook-farms-2_vh4xpe.jpg
       image_alt:
 project_features: >-
   - Industrial wash bay

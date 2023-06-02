@@ -9,7 +9,7 @@ menu:
 seo:
   page_title: Residential Construction Services in Kaukauna, WI
   meta_description: Design and build your shouse, at-home storage facility, warehouse or workshop with top-quality materials built to last.
-  featured_image: /uploads/waldron-sports-facility-8.jpg
+  featured_image: /waldron-sports-facility-8_xehcya.jpg
   featured_image_alt: An old barn converted to sports practice facility with blue and yellow painted basketball court and basketball hoop mounted on wall.
 sector: Residential
 hero: 
@@ -17,7 +17,7 @@ hero:
   heading: Residential
   body: Design and build your shouse, at-home storage facility, warehouse or workshop with top-quality materials built to last.
   image: 
-    image_url: /uploads/waldron-sports-facility-8.jpg
+    image_url: /waldron-sports-facility-8_xehcya.jpg
     image_alt: An old barn converted to sports practice facility with blue and yellow painted basketball court and basketball hoop mounted on wall.
   button:
     enabled: true

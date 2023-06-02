@@ -3,24 +3,24 @@ title: Water-Right’s Clean Water Center Remodel
 seo:
   page_title:
   meta_description: Learn why since 2003 Water-Right’s Clean Water Center has turned to Fox Structures for their commercial construction needs.
-  featured_image: /uploads/clean-water-1.jpg
+  featured_image: /clean-water-1_huu6n8.jpg
   featured_image_alt: Front exterior of the Water Right Clean Water office building
 date: 2019-11-24T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/clean-water-1.jpg
+      image_url: /clean-water-1_huu6n8.jpg
       image_alt:
   - image: 
-      image_url: /uploads/clean-water-2.jpg
+      image_url: /clean-water-2_k1uzo8.jpg
       image_alt:
   - image: 
-      image_url: /uploads/clean-water-3.jpg
+      image_url: /clean-water-3_bpq1az.jpg
       image_alt:
   - image: 
-      image_url: /uploads/clean-water-5.jpg
+      image_url: /clean-water-5_w3uc8y.jpg
       image_alt:
   - image: 
-      image_url: /uploads/clean-water-6.jpg
+      image_url: /clean-water-6_lgr7f1.jpg
       image_alt:
 project_features: >-
   - Complete renovation of existing structure

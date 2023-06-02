@@ -3,39 +3,39 @@ title: Plum Creek Dairy
 seo:
   page_title:
   meta_description: When Plum Creek Dairy needed three new structures, they relied on Fox Structures and their longstanding reputation as agriculture specialists.
-  featured_image: /uploads/plum-creek-dairy-fixed.jpg
+  featured_image: /plum-creek-dairy-fixed_sy8x8b.jpg
   featured_image_alt: Drone view of Plum Creek Dairy and three large cattle barns
 date: 2021-12-13T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/plum-creek-dairy-fixed.jpg
+      image_url: /plum-creek-dairy-fixed_sy8x8b.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-2.jpg
+      image_url: /plum-creek-dairy-2_yqj13z.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-3.jpg
+      image_url: /plum-creek-dairy-3_npa082.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-4.jpg
+      image_url: /plum-creek-dairy-4_wpwk9f.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-5.jpg
+      image_url: /plum-creek-dairy-5_mitpnf.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-6.jpg
+      image_url: /plum-creek-dairy-6_hgmq3g.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-7.jpg
+      image_url: /plum-creek-dairy-7_kvu2o9.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-8.jpg
+      image_url: /plum-creek-dairy-8_gmhpwh.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-9.jpg
+      image_url: /plum-creek-dairy-9_svsy0k.jpg
       image_alt:
   - image: 
-      image_url: /uploads/plum-creek-dairy-10.jpg
+      image_url: /plum-creek-dairy-10_q3av10.jpg
       image_alt:
 project_features: >-
   **Calf Barn**

@@ -3,18 +3,18 @@ title: Verstegen Storage
 seo:
   page_title:
   meta_description: When Jerry Verstegen sought to build multi-use commercial storage space, he leaned on Fox Structures’ solid expertise.
-  featured_image: /uploads/verstagen-storage-1.jpg
+  featured_image: /verstagen-storage-1_skezgm.jpg
   featured_image_alt: Front exterior of Verstegen Storage
 date: 2022-03-30T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/verstagen-storage-1.jpg
+      image_url: /verstagen-storage-1_skezgm.jpg
       image_alt:
   - image: 
-      image_url: /uploads/verstagen-storage-2.jpg
+      image_url: /verstagen-storage-2_op6fpt.jpg
       image_alt:
   - image: 
-      image_url: /uploads/verstagen-storage-3.jpg
+      image_url: /verstagen-storage-3_xa3aal.jpg
       image_alt:
 project_features: >-
   - Full baths, including showers

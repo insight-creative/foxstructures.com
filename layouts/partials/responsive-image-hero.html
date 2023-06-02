@@ -1,9 +1,9 @@
 <picture>
-    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75,width=325&height=250 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75&width=600&height=450 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=75&width=800&height=525 800w" type="image/avif">
+    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_325,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_800,h_525,c_fill{{ .Params.seo.featured_image }} 800w" type="image/avif">
+    
+    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_325,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_800,h_525,c_fill{{ .Params.seo.featured_image }} 800w" type="image/webp">
+    
+    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_325,h_250,c_fill{{ .Params.seo.featured_image }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_600,h_450,c_fill{{ .Params.seo.featured_image }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_800,h_525,c_fill{{ .Params.seo.featured_image }} 800w" type="image/jpeg">
 
-    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75,width=325&height=250 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75&width=600&height=450 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=75&width=800&height=525 800w" type="image/webp">
-
-    <source sizes="(min-width: 993px) 100vw, 50vw" srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75,width=325&height=250 400w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75&width=600&height=450 600w, https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=75&width=800&height=525 800w" type="image/jpeg">
-
-    <img src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="600" height="450" loading="lazy">   
+    <img src="https://res.cloudinary.com/foxstructures/image/upload{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="600" height="450" loading="lazy">   
 </picture>

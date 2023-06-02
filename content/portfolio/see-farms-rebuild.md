@@ -3,35 +3,35 @@ title: See Farms Rebuild
 seo:
   page_title:
   meta_description: Learn how Fox Structures worked quickly to rebuild an essential storage shed in just 20 days, all while helping to keep the farm operational during the build.
-  featured_image: /uploads/see-farms-1.jpg
+  featured_image: /see-farms-1_ivb0k5.jpg
   featured_image_alt: Drone view of See Farms
 date: 2022-05-26T07:00:00Z
 featured: true
 order: 4
 gallery: 
   - image: 
-      image_url: /uploads/see-farms-1.jpg
+      image_url: /see-farms-1_ivb0k5.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-2.jpg
+      image_url: /see-farms-2_tmnkoe.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-3.jpg
+      image_url: /see-farms-3_nhyryu.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-4.jpg
+      image_url: /see-farms-4_cy7gto.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-5.jpg
+      image_url: /see-farms-5_y2ypzy.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-6.jpg
+      image_url: /see-farms-6_x4wwj0.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-7.jpg
+      image_url: /see-farms-7_zm12c3.jpg
       image_alt:
   - image: 
-      image_url: /uploads/see-farms-11.jpg
+      image_url: /see-farms-11_to1q61.jpg
       image_alt:
 project_features: >-
   - Open-sided

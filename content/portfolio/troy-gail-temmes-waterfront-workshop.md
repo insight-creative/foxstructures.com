@@ -3,23 +3,23 @@ title: Troy & Gail Temme’s Waterfront Workshop
 seo:
   page_title:
   meta_description: Troy and Gail Temme turned to Fox Structures to design, fabricate and build a multi-use workspace that’s as aesthetically pleasing as it is functional.
-  featured_image: /uploads/temme-residential-construction-cover.jpg
+  featured_image: /temme-residential-construction-cover_lzj5rw.jpg
   featured_image_alt: Front exterior of Troy & Gail Temme’s Waterfront Workshop
 date: 2019-11-22T07:00:00Z
 featured: true
 order: 1
 gallery: 
   - image: 
-      image_url: /uploads/temme-residential-construction-cover.jpg
+      image_url: /temme-residential-construction-cover_lzj5rw.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-1.jpg
+      image_url: /temme-residential-construction-exterior-1.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-2.jpg
+      image_url: /temme-residential-construction-exterior-2.jpg
       image_alt:
   - image: 
-      image_url: /uploads/temme-residential-construction-exterior-3.jpg
+      image_url: /temme-residential-construction-exterior-3.jpg
       image_alt:
 project_features: >-
   - Strong, functional steel frame construction

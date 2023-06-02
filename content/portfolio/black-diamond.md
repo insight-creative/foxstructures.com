@@ -3,18 +3,18 @@ title: Black Diamond
 seo:
   page_title:
   meta_description: After a great commercial construction experience on the Cherryland’s Best remodel, Black Diamond knew Fox Structures would be perfect for this new build.
-  featured_image: /uploads/black-diamond-1.jpg
+  featured_image: /black-diamond-1_yuaeul.jpg
   featured_image_alt: Front exterior of a gray storage building for Black Diamond
 date: 2020-08-13T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/black-diamond-1.jpg
+      image_url: /black-diamond-1_yuaeul.jpg
       image_alt:
   - image: 
-      image_url: /uploads/black-diamond-2.jpg
+      image_url: /black-diamond-2_mjur3m.jpg
       image_alt:
   - image: 
-      image_url: /uploads/black-diamond-3.jpg
+      image_url: /black-diamond-3_mnpp1c.jpg
       image_alt:
 project_features: >-
   - Full baths, including showers

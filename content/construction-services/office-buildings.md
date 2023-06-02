@@ -4,14 +4,14 @@ url: /construction-services/commercial/office-buildings/
 seo:
   page_title: Office Buildings | Commercial Construction
   meta_description: Design and build your commercial office building with the experts at Fox Structures, providing commercial construction services throughout Northeast Wisconsin.
-  featured_image: /uploads/american-family-insurance-1.jpg
+  featured_image: /american-family-insurance-1_vmcuzf.jpg
 sector: Commercial
 hero: 
   enabled: true
   heading: Office Buildings
   body: Design and build your custom commercial office building with strategic, space-saving design layouts and top-quality materials built to last.
   image: 
-    image_url: /uploads/american-family-insurance-1.jpg
+    image_url: /american-family-insurance-1_vmcuzf.jpg
     image_alt: Exterior of the American Family Insurance office in Chilton, WI
   button:
     enabled: true

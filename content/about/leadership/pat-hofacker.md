@@ -3,8 +3,8 @@ title: Pat Hofacker
 seo:
   page_title:
   meta_description: Pat is a front-facing, go-to resource for our clients, especially in the agriculture industry.
-  featured_image: /uploads/pat-hofacker.jpg
-headshot: /uploads/pat-hofacker.jpg
+  featured_image: /pat-hofacker_dwf7yp.jpg
+headshot: /pat-hofacker_dwf7yp.jpg
 job_position: Sales Representative
 ---
 

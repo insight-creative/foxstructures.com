@@ -4,14 +4,14 @@ seo:
   page_title: 
   meta_description: >-
 
-  featured_image: /uploads/appleton-northeast-storage-1.jpg
+  featured_image: /appleton-northeast-storage-1_om0vtg.jpg
 hero:
   enabled: true
   heading: See our Successful Storage Projects for Yourself.
   body: >-
     
   image:
-    image_url: /uploads/cecil-storage-2-fixed.jpg
+    image_url: /cecil-storage-1-fixed_nykwe4.jpg
   button:
     enabled: false
     button_url: /portfolio/

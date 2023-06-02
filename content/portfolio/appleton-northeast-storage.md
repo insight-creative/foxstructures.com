@@ -3,30 +3,30 @@ title: Appleton Northeast Storage
 seo:
   page_title:
   meta_description: After years of working with Fox Structures to build storage units, Appleton Northeast Storage called again to build two additional mini-warehouses.
-  featured_image: /uploads/appleton-northeast-storage-1.jpg
+  featured_image: /appleton-northeast-storage-1_om0vtg.jpg
   featured_image_alt: Drone view of Appletong Northeast Storage and their 18 storage buildings
 date: 2021-03-18T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/appleton-northeast-storage-1.jpg
+      image_url: /appleton-northeast-storage-1_om0vtg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-2.jpg
+      image_url: /appleton-northeast-storage-2_mvkxph.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-3.jpg
+      image_url: /appleton-northeast-storage-3_ys9jvx.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-4.jpg
+      image_url: /appleton-northeast-storage-4_jqykya.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-5.jpg
+      image_url: /appleton-northeast-storage-5_kiojbn.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-6.jpg
+      image_url: /appleton-northeast-storage-6.jpg
       image_alt:
   - image: 
-      image_url: /uploads/appleton-northeast-storage-7.jpg
+      image_url: /appleton-northeast-storage-7_xt5fyx.jpg
       image_alt:
 project_features: >-
   - Snow stoppers on roof

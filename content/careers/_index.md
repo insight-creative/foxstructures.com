@@ -8,14 +8,14 @@ menu:
 seo:
   page_title: Construction Careers in WI
   meta_description: Our employees are the backbone of our success. Learn about our benefits such as health insurance, 401(k), life insurance, and profit sharing.
-  featured_image: /uploads/hiring-image-3.jpg
+  featured_image: /hiring-image-3_rkxrpr.jpg
 hero: 
   enabled: true
   heading: Careers
   body: >-
     Our employees are the backbone of our success.
   image: 
-    image_url: /uploads/hiring-image-3.jpg
+    image_url: /hiring-image-3_rkxrpr.jpg
     image_alt:
   button:
     enabled: true
@@ -57,7 +57,7 @@ our_people:
   body: >-
 
   image: 
-    image_url: /uploads/fox-structures-ownership-group.jpg
+    image_url: /fox-structures-ownership-group_gfsorj.jpg
     image_alt: The Fox Structures ownership group, Mike Klarner, Mark Mashlan, Brad Weyenburg, and Travis Woldt
 ---
 

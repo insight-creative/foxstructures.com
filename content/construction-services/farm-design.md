@@ -4,14 +4,14 @@ url: /construction-services/agricultural/farm-design/
 seo:
   page_title: Farm Design Services | Build Your Farm in WI
   meta_description: Design your livestock farm, produce farm or other agricultural facility with Fox Structures’ full-service farm design and construction services in Northeast WI.
-  featured_image: /uploads/vir-clar-farms-1-optimized.jpg
+  featured_image: /vir-clar-farms-1-optimized_mrvycl.jpg
 sector: Agricultural
 hero: 
   enabled: true
   heading: Farm Design 
   body: Design and build your pole barn, livestock barn or custom agricultural facility with top-quality materials and advanced farming technology built to improve and support your operation.
   image: 
-    image_url: /uploads/vir-clar-farms-1-optimized.jpg
+    image_url: /vir-clar-farms-1-optimized_mrvycl.jpg
     image_alt: Exterior of Vir-Clar farms main retail building
   button:
     enabled: true

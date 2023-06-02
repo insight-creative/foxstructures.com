@@ -6,13 +6,13 @@ menu:
 seo:
   page_title: Construction Services in Kaukauna | Construction Services in Appleton
   meta_description: Fox Structures is a Full-service Agricultural, Commercial and Residential Contractor.
-  featured_image: /uploads/temme-residential-construction-cover.jpg
+  featured_image: /temme-residential-construction-cover_lzj5rw.jpg
 hero: 
   enabled: true
   heading: Construction Services
   body: Fox Structures is a full-service agricultural, commercial and residential contractor.
   image: 
-    image_url: /uploads/temme-residential-construction-cover.jpg
+    image_url: /temme-residential-construction-cover_lzj5rw.jpg
     image_alt: Troy and Gail Temme's Waterfront Workshop exterior
   button:
     enabled: true

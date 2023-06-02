@@ -3,24 +3,24 @@ title: Dean Horse Arena
 seo:
   page_title:
   meta_description: When the Deans needed a large indoor riding arena attached to their current barn, Fox Structures put their equestrian experience to work.
-  featured_image: /uploads/dean-horse-arena-1.jpg
+  featured_image: /dean-horse-arena-1_swrf5y.jpg
   featured_image_alt: Drone view of the new Dean Horse Arena
 date: 2022-01-28T07:00:00Z
 gallery: 
   - image: 
-      image_url: /uploads/dean-horse-arena-1.jpg
+      image_url: /dean-horse-arena-1_swrf5y.jpg
       image_alt:
   - image: 
-      image_url: /uploads/dean-horse-arena-2.jpg
+      image_url: /dean-horse-arena-2_ctfep2.jpg
       image_alt:
   - image: 
-      image_url: /uploads/dean-horse-arena-3.jpg
+      image_url: /dean-horse-arena-3_wh394p.jpg
       image_alt:
   - image: 
-      image_url: /uploads/dean-horse-arena-4.jpg
+      image_url: /dean-horse-arena-4_b9q0jg.jpg
       image_alt:
   - image: 
-      image_url: /uploads/dean-horse-arena-5.jpg
+      image_url: /dean-horse-arena-5_ibfzvb.jpg
       image_alt:
 project_features: >-
   - Angled transition area

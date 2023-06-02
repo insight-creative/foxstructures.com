@@ -9,13 +9,13 @@
     <div class="card__image-wrap p-relative cover-image">
         {{ if .Params.seo.featured_image }}
             <picture>
-                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=avif&q=85&width=700&height=450&fit=crop" type="image/avif">
+                <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_450,h_250,c_fill{{ .Params.seo.featured_image }}" type="image/avif">
+                
+                <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_450,h_250,c_fill{{ .Params.seo.featured_image }}" type="image/webp">
+                
+                <source srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_450,h_250,c_fill{{ .Params.seo.featured_image }}" type="image/jpg">
             
-                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=webp&q=85&width=700&height=450&fit=crop" type="image/webp">
-            
-                <source srcset="https://foxstructures.imgix.net{{ .Params.seo.featured_image }}?fm=jpg&q=85&width=700&height=450&fit=crop" type="image/jpg">
-            
-                <img class="card__img dim" src="{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="500" height="300" loading="lazy">   
+                <img class="card__img dim" src="https://res.cloudinary.com/foxstructures/image/upload{{ .Params.seo.featured_image }}" alt="{{ .Params.seo.featured_image_alt }}" width="450" height="250" loading="lazy">   
             </picture>
             <div class="overlay overlay--yellow-gradient">
                 <div class="btn btn--secondary">Learn More</div>
@@ -24,6 +24,6 @@
     </div>
     <div class="card__content bg-white">
         <h2 class="h4 no-margin"><a class="card__link no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="opacity-80 font-size-xs no-margin">{{ .Params.location.city }}, {{ .Params.location.state }}</p>
+        <p class="opacity-80 font-size-xs no-margin">{{ if .Params.location.city }}{{ .Params.location.city }},{{ end }} {{ if .Params.location.state }}{{ .Params.location.state }}{{ end }}</p>
     </div>
 </li>

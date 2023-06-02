@@ -4,14 +4,14 @@ seo:
   page_title: 
   meta_description: >-
 
-  featured_image: /uploads/waldron-sports-facility-8.jpg
+  featured_image: /waldron-sports-facility-8_xehcya.jpg
 hero:
   enabled: true
   heading: See our Successful Residential Projects for Yourself.
   body: >-
     
   image:
-    image_url: /uploads/mycarthy-gym-1.jpg
+    image_url: /mycarthy-gym-1_b9p83e.jpg
   button:
     enabled: false
     button_url: /portfolio/
