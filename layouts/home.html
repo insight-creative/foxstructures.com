@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ partial "home/home-intro" . }}
 {{ if .Params.experts_in_construction.enabled }}
     {{ with .Params.experts_in_construction }}
         {{ partial "content-with-video" . }}
