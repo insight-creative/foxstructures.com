@@ -4,7 +4,11 @@ import { toggleMobileMenu, toggleMobileDropdowns, filterPosts, toggleLayout } fr
 
 const siteHeader = document.querySelector(".header")
 const hasSubMenu = document.querySelectorAll(".has-sub-menu")
-const heroVideo = document.querySelector('.hero__video')
+const heroVideo = document.querySelector(".hero__video")
+const projectSlider = document.querySelector(".projectSwiper")
+const thumbnailSlider = document.querySelector(".thumbnailSwiper")
+const gallerySlider = document.querySelector(".gallerySwiper")
+const sliderControls = document.querySelector(".portfolio-controls");
 
 let scrollState = 0;
 
@@ -74,7 +78,7 @@ hasSubMenu.forEach((link) => {
   });
 });
 
-if(document.body.contains(heroVideo)) {
+if(heroVideo) {
   const videoControls = document.querySelector('.home-hero__controls')
 
   videoControls.addEventListener('click', () => {
@@ -94,68 +98,75 @@ if(document.body.contains(heroVideo)) {
   })
 }
 
-var swiper = new Swiper(".projectSwiper", {
-  grabCursor: true,
-  loop: true,
-  keyboard: {
-    enabled: true,
-  },
-  pagination: {
-    el: ".swiper-pagination",
-    type: "fraction",
-  },
-  navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
-  },
-  a11y: {
-    prevSlideMessage: "Previous slide",
-    nextSlideMessage: "Next slide",
-  },
-});
+if(projectSlider) {
+  var swiper = new Swiper(projectSlider, {
+    grabCursor: true,
+    loop: true,
+    keyboard: {
+      enabled: true,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      type: "fraction",
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    a11y: {
+      prevSlideMessage: "Previous slide",
+      nextSlideMessage: "Next slide",
+    },
+  });
+}
 
-var thumbnailSwiper = new Swiper(".thumbnailSwiper", {
-  grabCursor: true,
-  spaceBetween: 10,
-  slidesPerView: 4,
-});
-var gallerySwiper = new Swiper(".gallerySwiper", {
-  grabCursor: true,
-  loop: true,
-  keyboard: {
-    enabled: true,
-  },
-  autoplay: {
-    delay: 6000,
-    disableOnInteraction: false,
-  },
-  pagination: {
-    el: ".swiper-pagination",
-    type: "fraction",
-  },
-  a11y: {
-    prevSlideMessage: "Previous slide",
-    nextSlideMessage: "Next slide",
-  },
-  thumbs: {
-    swiper: thumbnailSwiper,
-  },
-});
+if(thumbnailSlider) {
+  var thumbnailSwiper = new Swiper(thumbnailSlider, {
+    grabCursor: true,
+    spaceBetween: 10,
+    slidesPerView: 4,
+  });
+}
 
-var sliderControls = document.querySelector(".portfolio-controls");
+if(gallerySlider) {
+  var gallerySwiper = new Swiper(gallerySlider, {
+    grabCursor: true,
+    loop: true,
+    keyboard: {
+      enabled: true,
+    },
+    autoplay: {
+      delay: 6000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      type: "fraction",
+    },
+    a11y: {
+      prevSlideMessage: "Previous slide",
+      nextSlideMessage: "Next slide",
+    },
+    thumbs: {
+      swiper: thumbnailSwiper,
+    },
+  });
+}
 
-sliderControls.addEventListener('click', function () {
-  if (gallerySwiper.autoplay.running) {
-    gallerySwiper.autoplay.stop();
-    sliderControls.classList.remove('slider-playing')
-    sliderControls.classList.add('slider-paused')
-    sliderControls.setAttribute('aria-label', 'play the image gallery')
-    sliderControls.setAttribute('title', 'play the image gallery')
-  } else {
-    gallerySwiper.autoplay.start();
-    sliderControls.classList.remove('slider-paused')
-    sliderControls.classList.add('slider-playing')
-    sliderControls.setAttribute('aria-label', 'pause the image gallery')
-    sliderControls.setAttribute('title', 'pause the image gallery')
-  }
-});
+if(sliderControls) {
+  sliderControls.addEventListener('click', function () {
+    if (gallerySwiper.autoplay.running) {
+      gallerySwiper.autoplay.stop();
+      sliderControls.classList.remove('slider-playing')
+      sliderControls.classList.add('slider-paused')
+      sliderControls.setAttribute('aria-label', 'play the image gallery')
+      sliderControls.setAttribute('title', 'play the image gallery')
+    } else {
+      gallerySwiper.autoplay.start();
+      sliderControls.classList.remove('slider-paused')
+      sliderControls.classList.add('slider-playing')
+      sliderControls.setAttribute('aria-label', 'pause the image gallery')
+      sliderControls.setAttribute('title', 'pause the image gallery')
+    }
+  });
+}

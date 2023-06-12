@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ partialCached "home/home-hero" . }}
 {{ partial "home/home-intro" . }}
 {{ if .Params.experts_in_construction.enabled }}
     {{ with .Params.experts_in_construction }}
