@@ -1,14 +1,52 @@
-# Quintessence a Hugo Boilerplate With Substance
+# MilkSource Website by Insight Creative
 
-The [Hugo](https://gohugo.io/) boilerplate we use for our projects.
+Welcome to your new Jamstack website! At Insight Creative we firmly believe in simplicity and strive for that in our technology stack. You won’t find any fancy front-end fameworks, needlessly complex build tools, or overweight content management systems, just simple HTML, CSS, and JS.
 
-**Disclaimer** - This boilerplate has been heavily integrated with [Netlify](https://www.netlify.com/) or [CloudCannon](https://cloudcannon.com/), and therefore many features are specific to these platforms and may not work with other hosting providers.
+Jamstack creates a simple website architecture that makes your website faster, more secure and scalable. Jamstack’s core principles of pre-rendering and decoupling enable your website to be delivered with greater confidence and resilience than ever before.
 
-**Disclaimer** - Quintessence is a boilerplate (starter kit) for Hugo projects. It's not a Hugo theme. Check the [theme](#themes) docs for more information.
+Here are the main benefits of Jamstack:
+
+## Faster Performance
+Serve pre-built markup and assets over a Content Delivery Network.
+
+## More Secure
+No need to worry about server or database vulnerabilities, we’ve removed them all! Jamstack websites are pre-built static HTML files and are hosted on CDNs (content delivery networks), so they don’t require the dynamic interactions with servers that put websites at risk.
+
+## Scalability
+If your website suddenly goes viral and has many active users, the CDN seamlessly compensates.
+
+## Zero Maintenance
+Most common content management systems rely on database, themes and plugins. These all require constant monitoring and updates. These updates are difficult to keep up with and are often buggy and can break your entire website. We’ve removed them all from the equation and regular maintenance is no longer needed. Going forward the focus is 100% on your content and meeting your goals. 
+
+## Development Guide
+
+### Technologies You Should Be Familiarize Yourself With
+
+[Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [imgix](https://imgix.com/) + [mapbox](https://www.mapbox.com/)
+
+## Hugo 
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. We choose to build with Hugo because of it’s amazing speed. Try it out, you will be impressed.
+
+## CloudCannon 
+The CMS marketers *and* developers love to use.
+
+## Image/Video Transformations and Optimizations
+Image/video transformations and optimizations are handled through a third-party service called [imgix](https://imgix.com/). imgix’s real-time image and video optimizations, transformations, and digital asset management help developers and marketers deliver better visual experiences on the web.
+
+## Mapbox
+
+The store locator used on the locations and contact page is powered by [Mapbox](https://www.mapbox.com/).
+
+## PostCSS | [PurgeCSS](https://purgecss.com/) (removes unused CSS)
+
+## Installation
+Install Hugo. That's it!
+
+[Read the HUGO quickstart guide](https://gohugo.io/getting-started/quick-start/)
 
 ## Getting Started
 
-To get started, you can either clone the repository. Then run the following from the project root:
+To get started, you can either clone the repository, or deploy straight to [Netlify](#deploy-to-netlify). Then run the following from the project root:
 
 ```
 npm install
@@ -16,70 +54,44 @@ hugo server
 
 ```
 
-## File Structure
+That’s it! 
+
+When Hugo is done building, you should see a success message like:
 
 ```
-│   │
-|   └──── /assets            - Source files for assets (SASS, JS, Images, Fonts etc)
-│
-└──── /layouts               - Template files
-│   │ 404.html               - 404 Template
-│   │ index.headers          - Custom Netlify HTTP headers
-│   │ index.redirects        - Custom Netlify redirect rules
-│   │ robots.txt             - Template for robots.txt
-│   │
-│   └──── /_default          - Base templates for list & singular pages
-│   │   │ baseof.html        - Base template
-│   │   │ list.html          - List/taxonomy template
-│   │   │ single.html        - Singular page/post template
-│   │
-│   └──── /partials          - Partials
-│       │ header.html    - Sites primary <header>
-│       │ footer.html    - Sites primary <footer>
-│   │
-│   └──── /static            - Hugo static resources
-│
-│ .gitignore
-│ LICENSE
-│ README.md
-│ config.toml                - Hugo configuration
-│ postcss.config.js          - PostCSS configuration for Hugo Pipes
-│ netlify.toml               - Netlify configuration
-│ package.json
+Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
 ```
 
-## Responsive Image Partial
+You may then view your local site in the browser at http://localhost:1313/.
 
-The responsive image partial was built in an attempt to server responsive next gen images in layouts as efficiently as possible. To use the partial call it in your template file as you would any other partial. Then use a [dict](https://gohugo.io/functions/dict/) to pass in all the parameters that you want to pass on through to the partial. **Note** Make sure to always include the reference to "Page" . in order to properly pass the current page context through to the partial. The partial is already configured to use Hugo's image processing to create a srcset of images of different sizes both as webp and jpg fallbacks. No additional work is needed!
+Local development is powered by:
 
-### Example responsive image partial usage
+* A local development server at http://localhost:1313/.
+* Automatic CSS & JS updates without reloading the page
+* Automatic page reloads when content is changed
 
-```
-{{ partial "responsive-image" (dict "Page" . "image" .Params.block.image1.image "alt" .Params.block.image1.image_alt "sizes" "20vw" ) }}
-```
+You now have a local environment up and running, start developing!
 
-## Hero and CTA Partials
+Need more information about Hugo? Visit the [Hugo docs](https://gohugo.io/documentation/) or get a jump start with the great [Jamstack tutorials](https://cloudcannon.com/community/learn/) from CloudCannon.
 
-The hero and cta partials were built very similarly to the responsive image partial. Call your partial in the same manner as above passing in all your necessary data. With very little work you should have a typical marketing site style hero or cta section ready to go! The best part is these are flexible and you change easily pass in your content based on the page needs without needing to build a new component each time.
+## Images
+Images can be found in static/uploads and will be optimized and transformed by imgix.com for usage in your layouts and content.
 
-### Example hero partial usage
+## Accessibility Tests
+We do our best to follow the WCAG2AA standard, and one of the ways we check that we're following the right rules is through automated tools, like [pa11y](https://github.com/pa11y/pa11y/). For more info on the rules being tested checkout the [pa11y wiki](https://github.com/pa11y/pa11y/wiki/HTML-CodeSniffer-Rules).
 
-```
-{{ partial "hero" (dict "Page" . "image" .Params.hero.image "alt" .Params.hero.image_alt "sizes" "100vw" ) }}
-```
+### Running Tests
+To run a web accessibility test do the following:
 
-### Example cta partial usage
-
-```
-{{ partial "cta" (dict "Page" . "image" .Params.cta.image "alt" .Params.cta.image_alt "sizes" "100vw" ) }}
-```
-
-## Algolia Search
-
-Quickly add a dynamic search feature with Algolia and the Algolia + Netlify plugin. To create a new set of app credentials navigate to https://crawler.algolia.com/admin/netlify and login to your Algoia account. Link your new site through git and the Algolia plugin will be installed. Update your API keys to match your new application. Learn more in the [Algolia docs](https://www.algolia.com/doc/tools/crawler/netlify-plugin/quick-start/).
+* Install and run the site locally following the Install and Run instructions above. Site must be running locally to perform the scan.
+* If this is your first time running pa11y, then you'll need to run npm install to make sure pa11y is installed.
+* In a separate terminal window, run pa11y-ci to initiate the accessibility checker.
 
 ## Deploy to Netlify
 
 You can deploy directly to Netlify using this button:
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/insight-creative/Quintessence)
+
+[Additional CMS documentation](https://client-training.insightcreative.info/stadium-bike/)
