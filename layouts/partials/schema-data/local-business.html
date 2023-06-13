@@ -25,11 +25,14 @@
       }
     ],
     "sameAs": [
-    {{ range $i, $platform := .Site.Data.site_settings.social_media }}
-        {{ if .link }}
-            "{{ .link }}"{{ if not .Last }},{{ end }}
-        {{ end }}
-    {{ end }}
+      {{- $socialMedia := .Site.Data.site_settings.social_media -}}
+      {{- $links := slice -}}
+      {{- range $platform := $socialMedia -}}
+          {{- if .link -}}
+              {{- $links = $links | append .link -}}
+          {{- end -}}
+      {{- end -}}
+      "{{- delimit $links "\",\"" -}}"
     ]
   },
   {
