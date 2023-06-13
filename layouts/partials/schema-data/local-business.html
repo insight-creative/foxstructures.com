@@ -25,7 +25,14 @@
         "closes": ""
       }
     ],
-    "sameAs": [{{ $socialMedia := .Site.Data.site_settings.social_media }}{{ $links := slice }}{{ range $socialMedia }}{{ if .link }}{{ $links = $links | append .link }}{{ end }}{{ end }}{{ $output := delimit $links "," }}{{ $output }}]
+    "sameAs": [
+      {{ $socialMedia := .Site.Data.site_settings.social_media }}
+      {{ range $index, $platform := $socialMedia }}
+        {{ if .link }}
+          "{{ .link }}"{{ if not (eq $index (sub (len $socialMedia) 1)) }},{{ end }}
+        {{ end }}
+      {{ end }}
+    ]
   },
   {
     "@context": "http://schema.org/",
