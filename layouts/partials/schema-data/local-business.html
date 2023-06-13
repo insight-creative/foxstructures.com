@@ -25,7 +25,11 @@
       }
     ],
     "sameAs": [
-      "{{ range $i, $platform := .Site.Data.site_settings.social_media }}{{ if .link }}{{ .link }}{{ if not (eq $i (sub (len $socialMedia) 1)) }},{{ end }}{{ end }}"
+    {{ range .Site.Data.site_settings.social_media }}
+        {{ if .link }}
+        "{{ .link }}",
+        {{ end }}
+    {{ end }}
     ]
   },
   {
