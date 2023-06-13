@@ -3,19 +3,18 @@
 <script type="application/ld+json">
   {
     "@context": "http://schema.org/",
-    {"@type": "LocalBusiness",
-    "name": "Mind Team",
-    "image": "https://www.mymindteam.com/uploads/Mind-Team-Logo-Tag-Long.svg",
+    "@type": "LocalBusiness",
+    "name": "{{ .Site.Data.site_settings.business_name }}",
+    "image": "{{ site.BaseURL }}{{ .Site.Data.site_settings.logo }}",
     "priceRange": "$$$$$",
-    "telephone": "715-301-0302",
-    "url": "https://www.mymindteam.com/",
+    "telephone": "{{ .Site.Data.site_settings.phone_local }}",
+    "url": "{{ site.BaseURL }}",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "2417 Post Road, Bldg A",
-      "addressLocality": "Stevens Point",
-      "addressRegion": "WI",
-      "postalCode": "54481",
-      "addressCountry": "United States"
+      "streetAddress": "{{ .Site.Data.site_settings.address.street }}",
+      "addressLocality": "{{ .Site.Data.site_settings.address.city }}",
+      "addressRegion": "{{ .Site.Data.site_settings.address.state }}",
+      "addressCountry": "US"
     },
     "openingHoursSpecification": [
       {
@@ -27,7 +26,7 @@
     ],
     "sameAs": [{{ $socialMedia := .Site.Data.site_settings.social_media }}{{ $links := slice }}{{ range $socialMedia }}{{ if .link }}{{ $links = $links | append .link }}{{ end }}{{ end }}{{ $output := delimit $links "," }}{{ $output }}],
     {"@type": "WebSite",
-    "url": "https://www.mymindteam.com/",
+    "url": "{{ site.BaseURL }}",
     "potentialAction": {
       "@type": "SearchAction",
       "target": "{search_term_string}",

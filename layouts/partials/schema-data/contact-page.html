@@ -32,7 +32,7 @@
       "name": "{{ .Site.Data.site_settings.business_name }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.BaseURL }}uploads{{ .Site.Data.site_settings.logo }}"
+        "url": "{{ site.BaseURL }}{{ .Site.Data.site_settings.logo }}"
       },
       "address": {
         "@type": "PostalAddress",

@@ -31,6 +31,15 @@
   
     <!-- <link href="{{ site.Params.imgixDomain }}" rel="preconnect"> -->
 
+    <link href="https://res.cloudinary.com/" rel="preconnect">
+    <link href="https://fast.wistia.com/" rel="preconnect">
+    <link href="https://embed-ssl.wistia.com/" rel="preconnect">
+    <link href="https://pipedream.wistia.com/" rel="preconnect">
+
+    <!-- Preconnect to Google Services -->
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin="">
+
     <link rel="canonical" href="{{ site.BaseURL }}{{ .Permalink }}">
   
     {{ $scss := resources.Get "scss/main.scss" | toCSS }}
@@ -43,6 +52,15 @@
   
     {{ if hugo.IsProduction }}
     <!-- Enter Google Analytics or any other tracking scripts here -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LFPR56B417"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-LFPR56B417');
+    </script>
     {{ end }}
   
     {{ $pageSection := .Section }}

@@ -16,11 +16,11 @@
       "name": "{{ .Site.Data.site_settings.business_name }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ site.BaseURL }}uploads{{ .Site.Data.site_settings.logo }}"
+        "url": "{{ site.BaseURL }}{{ .Site.Data.site_settings.logo }}"
       }
     },
     "headline": "{{ .Title }}",
-    "image": "{{ site.BaseURL }}uploads{{ .Params.seo.featured_image }}",
+    "image": "https://res.cloudinary.com/foxstructures/image/upload{{ .Params.seo.featured_image }}",
     "datePublished": "{{ .Params.date }}"
   }
 </script>

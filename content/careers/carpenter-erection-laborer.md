@@ -4,6 +4,12 @@ seo:
   page_title:
   meta_description: "Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
   featured_image: /erection-laborers-on-jobsite_jiu4ja.jpg
+location: 
+  street: 2201 Eastline Line Rd
+  city: Kaukauna
+  state: WI
+  zip: 54130
+job_type: Full Time
 ---
 
 **Position Summary**: Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring site is clean and safe by following standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Foreman/Supervisor and/or Lead Men.
