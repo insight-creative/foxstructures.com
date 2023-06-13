@@ -24,16 +24,17 @@
         "closes": ""
       }
     ],
-    "sameAs": [
-      {{ $socialMedia := slice }}
-      {{ range .Site.Data.site_settings.social_media }}
-          {{ if .link }}
-              {{ $socialMedia = $socialMedia | append .link }}
-          {{ end }}
-      {{ end }}
-      {{ range $i, $val := $socialMedia }}
-          "{{ $val }}"{{ if not (eq $i (sub (len $socialMedia) 1)) }},{{ end }}
-      {{ end }}
+    "sameAs": [{{ with .Site.Data.site_settings.social_media }}
+        {{ $socialMedia := slice }}
+        {{- range . -}}
+            {{- if .link -}}
+                {{- $socialMedia = $socialMedia | append .link -}}
+            {{- end -}}
+        {{- end -}}
+        {{- range $i, $val := $socialMedia -}}
+            "{{ $val }}"{{ if not (eq $i (sub (len $socialMedia) 1)) }},{{ end }}
+        {{- end -}}
+      {{- end -}}
     ]
   },
   {
