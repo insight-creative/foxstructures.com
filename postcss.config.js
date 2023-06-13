@@ -24,6 +24,7 @@ module.exports = {
         'page-welding',
         'page-concrete',
         'page-careers',
+        'page-thank-you',
         'page-frequently-asked-questions',
         'page-are-we-the-right-builder-for-you',
         'parent-page-home',
