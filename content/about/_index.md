@@ -7,8 +7,8 @@ menu:
     weight: 1
 seo:
   page_title:
-  meta_description:
-  featured_image:
+  meta_description: From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way.
+  featured_image: /oaks-golf-course-drone-shot_s5mp9m.jpg
 hero: 
   enabled: true
   heading: Fox Structures—Experts at Building Success
