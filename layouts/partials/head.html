@@ -29,7 +29,7 @@
     <meta property="twitter:site" content="@">
     <meta property="twitter:image" content="{{ if .Params.seo.featured_image }}https://res.cloudinary.com/foxstructures/image/upload{{ .Params.seo.featured_image }}{{ end }}">
   
-    <link href="{{ site.Params.imgixDomain }}" rel="preconnect">
+    <!-- <link href="{{ site.Params.imgixDomain }}" rel="preconnect"> -->
 
     <link rel="canonical" href="{{ site.BaseURL }}{{ .Permalink }}">
   
@@ -61,7 +61,8 @@
     {{ end }}
   
     {{ if (or (eq .Title "Home") (eq .Section "portfolio") (eq .Title "Are We the Right Builder for You?") (eq .Title "404 Page not found") (eq .Title "Thank You")) }}
-    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+    <!-- <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/> -->
+    <link rel="stylesheet" href="/plugins/swiper-bundle.min.css">
     {{ end }}
 
     {{ if eq .Title "Contact" }}

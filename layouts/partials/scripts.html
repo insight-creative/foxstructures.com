@@ -1,5 +1,6 @@
 {{ if (or (eq .Title "Home") (eq .Section "portfolio") (eq .Title "Are We the Right Builder for You?") (eq .Title "404 Page not found") (eq .Title "Thank You")) }}
-<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<!-- <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script> -->
+<script src="/plugins/swiper-bundle.min.js"></script>
 {{ end }}
 
 {{ $opts := (dict "minify" true "target" "es2017" "format" "cjs") }}
