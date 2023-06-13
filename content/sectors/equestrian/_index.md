@@ -1,10 +1,9 @@
 ---
 title: Equestrian
 seo:
-  page_title: 
-  meta_description: >-
-
-  featured_image:  /dean-horse-arena-1_swrf5y.jpg
+  page_title: Equestrian Construction Projects
+  meta_description: See our Successful Equestrian Projects for Yourself.
+  featured_image: /dean-horse-arena-1_swrf5y.jpg
 hero:
   enabled: true
   heading: See our Successful Equestrian Projects for Yourself.

@@ -1,9 +1,8 @@
 ---
 title: Commercial
 seo:
-  page_title: 
-  meta_description: >-
-
+  page_title: Commercial Construction Projects
+  meta_description: See our Successful Commercial Projects for Yourself.
   featured_image: /temme-residential-construction-cover_lzj5rw.jpg
 hero:
   enabled: true

@@ -1,10 +1,9 @@
 ---
 title: Storage
 seo:
-  page_title: 
-  meta_description: >-
-
-  featured_image: /appleton-northeast-storage-1_om0vtg.jpg
+  page_title: Storage Construction Projects
+  meta_description: See our Successful Storage Projects for Yourself.
+  featured_image: /cecil-storage-1-fixed_nykwe4.jpg
 hero:
   enabled: true
   heading: See our Successful Storage Projects for Yourself.

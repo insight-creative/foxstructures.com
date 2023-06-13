@@ -1,9 +1,8 @@
 ---
 title: Agricultural
 seo:
-  page_title: 
-  meta_description: >-
-
+  page_title: Agricultural Construction Projects
+  meta_description: See our Successful Agricultural Projects for Yourself.
   featured_image: /see-farms-1_ivb0k5.jpg
 hero:
   enabled: true

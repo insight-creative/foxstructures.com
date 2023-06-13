@@ -1,10 +1,9 @@
 ---
 title: Residential
 seo:
-  page_title: 
-  meta_description: >-
-
-  featured_image: /waldron-sports-facility-8_xehcya.jpg
+  page_title: Residential Construction Projects
+  meta_description: See our Successful Residential Projects for Yourself.
+  featured_image: /mycarthy-gym-1_b9p83e.jpg
 hero:
   enabled: true
   heading: See our Successful Residential Projects for Yourself.

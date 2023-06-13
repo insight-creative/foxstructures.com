@@ -6,9 +6,9 @@ menu:
   explore:
     weight: 6
 seo:
-  page_title:
-  meta_description:
-  featured_image:
+  page_title: Fox Structures Resources
+  meta_description: Latest company news and resources to help inspire you and your next construction project.
+  featured_image: /fox-structures-custom-building-plans_uhhrwy.jpg
 hero: 
   enabled: true
   heading: Fox Structures Resources
