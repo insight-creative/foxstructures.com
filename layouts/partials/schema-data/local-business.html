@@ -26,9 +26,13 @@
     ],
     "sameAs": [
       {{ $socialMedia := .Site.Data.site_settings.social_media }}
-      {{ range $i, $platform := $socialMedia }}
-        {{ if .link }}"{{ .link }}"{{ if ne $i (sub (len $socialMedia) 1) }},{{ end }}{{ end }}
+      {{ $links := slice }}
+      {{ range $platform := $socialMedia }}
+        {{ if .link }}
+          {{ $links = $links | append (printf "\"%s\"" .link) }}
+        {{ end }}
       {{ end }}
+      {{ delimit $links "," }}
     ]
   },
   {
