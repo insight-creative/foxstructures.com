@@ -27,7 +27,7 @@
     "sameAs": [
     {{ range .Site.Data.site_settings.social_media }}
         {{ if .link }}
-        "{{ .link }}",
+        "{{ .link }}"{{ if not .Last }},{{ end }}
         {{ end }}
     {{ end }}
     ]
