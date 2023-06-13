@@ -25,11 +25,14 @@
       }
     ],
     "sameAs": [
-      {{ $socialMedia := .Site.Data.site_settings.social_media }}
-      {{ range $i, $val := $socialMedia }}
-          {{ if $val.link }}
-              "{{ $val.link }}"{{ if not (eq $i (sub (len $socialMedia) 1)) }},{{ end }}
+      {{ $socialMedia := slice }}
+      {{ range .Site.Data.site_settings.social_media }}
+          {{ if .link }}
+              {{ $socialMedia = $socialMedia | append .link }}
           {{ end }}
+      {{ end }}
+      {{ range $i, $val := $socialMedia }}
+          "{{ $val }}"{{ if not (eq $i (sub (len $socialMedia) 1)) }},{{ end }}
       {{ end }}
     ]
   },
