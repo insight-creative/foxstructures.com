@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://foxstructures.com/"
 languageCode = "en-us"
 title = "Fox Structures, Inc."
 enableRobotsTXT = true
