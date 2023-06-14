@@ -42,7 +42,7 @@ Wondering what it looks like on the inside of a shouse? The answer is, your shou
 
 For example, here is the interior of the wooded cottage shouse we showed above.
 
-<img src="/brault-shouse-interior-combined-3_dgtbqz.jpg" alt="Kitchen with large island and living room with large rock corner fire place">
+{{< responsive-image image_url="/brault-shouse-interior-combined-3_dgtbqz.jpg" image_alt="Kitchen with large island and living room with large rock corner fire place" >}}
 
 The open floor plan from kitchen to living room makes this smaller-sized shouse feel large and airy inside. Plus, the lightwood accents and stone fireplace keep the log cabin feeling with a modern upgrade.
 

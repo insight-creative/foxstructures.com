@@ -79,7 +79,7 @@ faq_block:
         No, Fox Structures does not offer financing options for construction or concrete services. We can, however, assist you in obtaining the proper financing for your project.
     - question: How do I request a quote or estimate for a project?
       answer: >-
-        You can request a quote by [contacting us via our online form](/contact-us/), or by calling us at <a href="tel:920-766-9305">(920) 766-9305</a>. Our team will gather the information we need to provide you with the most accurate price quote, as well as a project timeline.
+        You can request a quote by [contacting us via our online form](/contact/), or by calling us at <a href="tel:920-766-9305">(920) 766-9305</a>. Our team will gather the information we need to provide you with the most accurate price quote, as well as a project timeline.
     - question: What materials do you typically use for construction projects?
       answer: >-
         We use a variety of top-quality materials on our projects, including (but not limited to):
