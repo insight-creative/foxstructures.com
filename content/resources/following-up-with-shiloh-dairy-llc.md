@@ -1,7 +1,7 @@
 ---
-title: "Agricultural Construction Built to Last: Follow up with Shiloh Dairy "
+title: "Agricultural Construction Built to Last: Follow up with Shiloh Dairy"
 seo:
-  page_title:
+  page_title: Follow up with Shiloh Dairy
   meta_description: With Fox Structures' agricultural construction, you can count on high-quality ag buildings that stand the test of time! Just ask our customers.
   featured_image: /shiloh-dairy_ugpmlp.jpg
   featured_image_alt: Exterior of a white metal siding cattle barn at Shiloh Dairy

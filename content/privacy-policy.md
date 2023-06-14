@@ -101,5 +101,4 @@ For information about how to manage cookies for individual browsers, here are re
 <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" class ="primaryLink">Firefox</a><br>
 <a href="https://www.opera.com/help/tutorials/security/cookies/" target="_blank" class="primaryLink">Opera</a><br>
 <a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" class="primaryLink">Internet Explorer</a><br>
-<a href="https://support.apple.com/kb/PH21411?locale=en_US" target="_blank" class="primaryLink">Safari</a><br>
 <a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank" class="primaryLink">Edge</a><br>

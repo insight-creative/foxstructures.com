@@ -2,7 +2,7 @@
 title: "Rebuilding the Wisconsin Dream"
 seo:
   page_title:
-  meta_description: 
+  meta_description: Read more about the Wisconsin dairy crisis and how businesses like Fox Structures are adapting.
   featured_image: /DogBonestallsfromSturdyBuilt-1_xi9hrc.jpg
   featured_image_alt: Cows laying down in their stalls at a large farm
 draft: false

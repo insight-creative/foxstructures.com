@@ -1,7 +1,7 @@
 ---
 title: "Fox Structures Hires Sales Representative Pat Hofacker"
 seo:
-  page_title:
+  page_title: Fox Structures Hires Sales Representative
   meta_description: Learn more about the latest Fox Structures hire of Pat Hofacker as sales representative.
   featured_image: /were-building-our-team-cover_n32xgn.jpg
   featured_image_alt:

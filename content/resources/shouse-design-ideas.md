@@ -1,7 +1,7 @@
 ---
 title: "Shouse Design Examples: Three Beautiful Custom Shouses to Inspire You"
 seo:
-  page_title:
+  page_title: Shouse Design Examples
   meta_description: Need shouse design ideas? Get inspiration from the beautiful custom shouse builds we’ve completed for clients throughout Northeast Wisconsin!
   featured_image: /swaney-shouse_nzduwu.jpg
   featured_image_alt: Drone view of a dark gray shouse with black metal roof and wrap around covered porch

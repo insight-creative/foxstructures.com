@@ -1,7 +1,7 @@
 ---
 title: "Want to Automate Your Agricultural Buildings? Fox Structures can Help."
 seo:
-  page_title:
+  page_title: Automate Your Agricultural Buildings
   meta_description: Automate your farm operations with Fox Structures, integrating the latest farming technology into your agricultural buildings.
   featured_image: /fox-structures-spring-breeze-dairy-agricultural-construction_pg10yy.jpg
   featured_image_alt: A view down the center alley of a long free stall barn at spring breeze dairy

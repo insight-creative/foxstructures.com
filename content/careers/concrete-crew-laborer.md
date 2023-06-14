@@ -2,7 +2,7 @@
 title: Concrete Crew Laborer
 seo:
   page_title:
-  meta_description: "Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
+  meta_description: "As a concrete crew caborer you'll assist the concrete foreman/supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
   featured_image: /poured-concrete_j61r3v.jpg
 location: 
   street: 2201 Eastline Line Rd

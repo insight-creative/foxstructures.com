@@ -52,7 +52,7 @@ faq_block:
         The designers and ag construction team here at Fox Structures can help you determine the best materials for your unique barn construction project.
     - question: What kind of flooring is best for a barn?
       answer: >-
-        Concrete flooring is typically best for barn buildings, especially those used for livestock and/or storage. Concrete is not only very sturdy and can withstand a heavy amount of wear and tear, but it is also extremely easy to clean. Plus, <a href="https://clmfireproofing.com/understanding-the-fire-resistance-of-concrete/" target="_blank" rel="noopener noreferrer nofollower">concrete is one of the most fire-resistant materials available for barn construction</a>. This makes it the optimal choice for most barn buildings, no matter what kind of ag operation you have.
+        Concrete flooring is typically best for barn buildings, especially those used for livestock and/or storage. Concrete is not only very sturdy and can withstand a heavy amount of wear and tear, but it is also extremely easy to clean. Plus, <a href="https://clmfireproofing.com/understanding-the-fire-resistance-of-concrete/" target="_blank" rel="noopener noreferrer nofollow">concrete is one of the most fire-resistant materials available for barn construction</a>. This makes it the optimal choice for most barn buildings, no matter what kind of ag operation you have.
     - question: Can Fox Structures complete the concrete pouring for my barn construction project?
       answer: >-
         Yes! Fox Structures provides full-service barn construction, including concrete work. Thanks to our merger with R&R Concrete, our team can now complete large-scale concrete projects faster and more precisely than ever.

@@ -1,7 +1,7 @@
 ---
 title: "Fox Structures Announces new Division, Fox Welding and Fabrication, Inc."
 seo:
-  page_title:
+  page_title: Fox Structures Announces new Fox Welding
   meta_description: Fox Structures recently opened its own welding division, Fox Welding and Fabrication, Inc., to offer a variety of benefits to customers including accuracy, efficiency, cost savings and customization.
   featured_image: /fox-employee-welding-metal_x3ko4m.jpg
   featured_image_alt: Fox Structures welder working on a large metal welding project

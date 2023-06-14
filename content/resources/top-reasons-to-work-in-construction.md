@@ -2,7 +2,7 @@
 title: "Top Reasons to Work in Construction"
 seo:
   page_title:
-  meta_description: 
+  meta_description: There’s no denying it. Construction is tough. A career in construction also can be very rewarding. Find out how.
   featured_image: /Verhasselt-CroppedMedium-2_vqsm7o.jpg
   featured_image_alt: Workers on lifts while constructing a new large free stall cattle barn
 draft: false
