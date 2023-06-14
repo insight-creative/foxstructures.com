@@ -1,7 +1,7 @@
 ---
 title: "See Farms Rebuild"
 seo:
-  page_title:
+  page_title: See Farms Rebuild Video
   meta_description: When See Farms experienced a structural fire on their livestock farm, they were left without a hay storage shed in the middle of the busy baling season.
   featured_image: /see-farms-1_ivb0k5.jpg
   featured_image_alt:

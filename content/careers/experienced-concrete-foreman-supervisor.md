@@ -2,7 +2,7 @@
 title: Experienced Concrete Foreman/Supervisor
 seo:
   page_title:
-  meta_description: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.
+  meta_description: As an experienced concrete foreman/supervisor you'll complete construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.
   featured_image: /poured-concrete_j61r3v.jpg
 location: 
   street: 2201 Eastline Line Rd

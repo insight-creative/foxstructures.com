@@ -2,7 +2,7 @@
 title: "Farming for Education"
 seo:
   page_title:
-  meta_description: 
+  meta_description: Learn how the Kesler family turned a tragic barn fire into an opportunity to rebuild again
   featured_image: /kesler-farms-1-optimized_zjion5.jpg
   featured_image_alt: Front exterior of a brand new red and white barn at Kessler family farm
 draft: false

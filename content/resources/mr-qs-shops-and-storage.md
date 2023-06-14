@@ -1,7 +1,7 @@
 ---
 title: "Mr. Q’s Shops and Storage"
 seo:
-  page_title:
+  page_title: Mr. Q’s Shops and Storage Video
   meta_description: When Mr. Q’s Shops and Storage wanted to maximize space for their storage business, Fox Structures delivered results by helping to add a climate-controlled storage unit to their commercial property.
   featured_image: /mr-q-shops-and-storage-1_q61wcf.jpg
   featured_image_alt:

@@ -2,7 +2,7 @@
 title: Barn Construction 
 url: /construction-services/agricultural/barn-construction/
 seo:
-  page_title: Barn Construction in Kaukauna, WI | Build Your Barn in WI
+  page_title: Barn Construction in Kaukauna, WI
   meta_description: For high quality pole barns, livestock barns, steel barns and more, Fox Structures is your local barn builder in Wisconsin. Contact us today at (920) 766-9305.
   featured_image: /plum-creek-dairy-fixed_sy8x8b.jpg
 sector: Agricultural

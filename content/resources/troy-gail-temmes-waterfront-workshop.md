@@ -1,7 +1,7 @@
 ---
 title: "Troy & Gail Temme’s Waterfront Workshop"
 seo:
-  page_title:
+  page_title: Troy & Gail Temme’s Waterfront Workshop Video
   meta_description: Way beyond your average workshop! Troy and Gail Temme turned to Fox Structures to design, fabricate and build a multi-use workspace that’s as aesthetically pleasing as it is functional.
   featured_image: /temme-residential-construction-cover_lzj5rw.jpg
   featured_image_alt:

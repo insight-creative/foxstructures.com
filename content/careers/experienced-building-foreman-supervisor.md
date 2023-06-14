@@ -2,7 +2,7 @@
 title: Experienced Building Foreman/Supervisor
 seo:
   page_title:
-  meta_description: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.
+  meta_description: As an experienced building foreman/supervisor you'll complete construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.
   featured_image: /fox-structures-build-project_fclnbi.jpg
 location: 
   street: 2201 Eastline Line Rd

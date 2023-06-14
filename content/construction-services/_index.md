@@ -4,7 +4,7 @@ menu:
   main:
     weight: 1
 seo:
-  page_title: Construction Services in Kaukauna | Construction Services in Appleton
+  page_title: Construction Services in Kaukauna, WI
   meta_description: Fox Structures is a Full-service Agricultural, Commercial and Residential Contractor.
   featured_image: /temme-residential-construction-cover_lzj5rw.jpg
 hero: 

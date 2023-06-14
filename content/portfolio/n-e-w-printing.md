@@ -2,7 +2,7 @@
 title: N.E.W. Printing
 seo:
   page_title:
-  meta_description:
+  meta_description: See the N.E.W. Printing office building built by Fox Structures
   featured_image: /new-printing-1-optimized_hrdk1p.jpg
   featured_image_alt: Front Exterior of the new N.E.W Printing office building
 date: 2019-11-17T07:00:00Z

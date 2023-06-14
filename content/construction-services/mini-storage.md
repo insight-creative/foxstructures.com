@@ -2,7 +2,7 @@
 title: Mini Storage
 url: /construction-services/commercial/mini-storage/
 seo:
-  page_title: Mini Storage Construction | Start Your Storage Business
+  page_title: Mini Storage Construction in Kaukauna, WI
   meta_description: Build your mini storage building with Fox Structures, the commercial storage construction experts in Northeast Wisconsin. Call (920) 766-9305 to get started.
   featured_image: /little-chute-storage-1_vva0hr.jpg
 sector: Storage

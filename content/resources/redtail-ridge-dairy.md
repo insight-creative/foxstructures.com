@@ -1,7 +1,7 @@
 ---
 title: "Redtail Ridge Dairy"
 seo:
-  page_title:
+  page_title: Redtail Ridge Dairy Video
   meta_description: After constructing almost a dozen agricultural buildings on Redtail Ridge’s 1,250-cow dairy, Fox Structures proved to be a go-to source for the family farm’s expansion projects.
   featured_image: /redtail-ridge-dairy-1_lxnrsg.jpg
   featured_image_alt:
