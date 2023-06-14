@@ -5,7 +5,7 @@ menu:
     weight: 2
 seo:
   page_title: Our Leadership
-  meta_description: From planning and design, through construction to your final walk-through, you’ll have our dedicated attention every step of the way.
+  meta_description: Meet the Fox Structures core leadership team.
   featured_image: /oaks-golf-course-drone-shot_s5mp9m.jpg
 hero: 
   enabled: true

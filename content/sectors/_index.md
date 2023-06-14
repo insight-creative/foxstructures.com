@@ -2,8 +2,7 @@
 title: Sectors
 seo:
   page_title: 
-  meta_description: >-
-
+  meta_description: View a wide variety of construction projects, from commercial office spaces and mini-warehouses to pole barns, milking parlors and equestrian riding arenas.
   featured_image: /cartech-1_tu5nwu.jpg
 hero: 
   enabled: true

@@ -50,7 +50,7 @@ We followed up with JR to see how the barn buildings have been holding up, and a
 
 When asked if he would recommend Fox Structures to other ag owners in the area, JR said, “absolutely. They are constantly looking at our buildings and addressing anything they think is a problem. It’s been great to have their expertise on our side.”
 
-Barns and Partnerships Built to Last
+## Barns and Partnerships Built to Last
 At Fox Structures, we don’t just construct ag buildings—we partner with farms to design, maintain, update, repair and remodel quality barns and ag buildings that stand the test of time.
 
-View our ag construction services and learn how we can help build, maintain and grow your farm.
+View our [ag construction services](/construction-services/agricultural/) and learn how we can help build, maintain and grow your farm.

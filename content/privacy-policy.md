@@ -2,8 +2,9 @@
 title: Privacy Policy
 layout: privacy-policy
 seo:
-  title:
-  description:
+  page_title:
+  meta_description: Fox Structures privacy policy
+  featured_image:
 ---
 
 By accessing or using Fox Structures's website, you agree to the terms of this Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
