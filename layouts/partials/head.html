@@ -40,7 +40,7 @@
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
     <link href="https://www.googletagmanager.com" rel="preconnect" crossorigin="">
 
-    <link rel="canonical" href="{{ site.BaseURL }}{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}">
   
     {{ $scss := resources.Get "scss/main.scss" | toCSS }}
     {{ $postcss := $scss | resources.PostCSS | minify }}
