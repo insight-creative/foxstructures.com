@@ -9,7 +9,7 @@ menu:
 seo:
   page_title: Equestrian Construction Services in Kaukauna, WI
   meta_description: Our team has years of experience building functional riding arenas, stall barns, run-in shelters and more.
-  featured_image: /equestrian-hero-image_tc4zir.jpg
+  featured_image: /dean-horse-arena-1_swrf5y.jpg
   featured_image_alt: Small custom horse barn with natural wood pillars
 sector: Equestrian
 hero: 
@@ -17,7 +17,7 @@ hero:
   heading: Equestrian
   body: Our team has years of experience building functional riding arenas, stall barns, run-in shelters and more.
   image: 
-    image_url: /equestrian-hero-image_tc4zir.jpg
+    image_url: /dean-horse-arena-1_swrf5y.jpg
     image_alt: Small custom horse barn with natural wood pillars
   button:
     enabled: true
