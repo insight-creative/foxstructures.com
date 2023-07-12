@@ -1,4 +1,4 @@
-# MilkSource Website by Insight Creative
+# Fox Structures Website by Insight Creative
 
 Welcome to your new Jamstack website! At Insight Creative we firmly believe in simplicity and strive for that in our technology stack. You won’t find any fancy front-end fameworks, needlessly complex build tools, or overweight content management systems, just simple HTML, CSS, and JS.
 
@@ -22,7 +22,7 @@ Most common content management systems rely on database, themes and plugins. The
 
 ### Technologies You Should Be Familiarize Yourself With
 
-[Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [imgix](https://imgix.com/) + [mapbox](https://www.mapbox.com/)
+[Hugo](https://gohugo.io/) + [CloudCannon](https://cloudcannon.com/) + [Cloudinary](https://cloudinary.com/)
 
 ## Hugo 
 Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. We choose to build with Hugo because of it’s amazing speed. Try it out, you will be impressed.
@@ -31,11 +31,7 @@ Hugo is one of the most popular open-source static site generators. With its ama
 The CMS marketers *and* developers love to use.
 
 ## Image/Video Transformations and Optimizations
-Image/video transformations and optimizations are handled through a third-party service called [imgix](https://imgix.com/). imgix’s real-time image and video optimizations, transformations, and digital asset management help developers and marketers deliver better visual experiences on the web.
-
-## Mapbox
-
-The store locator used on the locations and contact page is powered by [Mapbox](https://www.mapbox.com/).
+Image/video transformations and optimizations are handled through a third-party service called [Cloudinary](https://cloudinary.com/). Cloudinary’s real-time image and video optimizations, transformations, and digital asset management help developers and marketers deliver better visual experiences on the web.
 
 ## PostCSS | [PurgeCSS](https://purgecss.com/) (removes unused CSS)
 
