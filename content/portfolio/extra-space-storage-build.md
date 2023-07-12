@@ -44,8 +44,8 @@ quote:
     “The level of professionalism and quality of the Fox Structures team is
     phenomenal. They were great to partner with because they’re great people! We
     definitely recommend them for your construction needs.”
-  name: Owner test
-  position: Extra Space Storage
+  name:
+  position: Owner, Extra Space Storage
 video_embed: >-
   <div class="wistia_responsive_padding" style="padding:56.25% 0 0
   0;position:relative;"><div class="wistia_responsive_wrapper"
