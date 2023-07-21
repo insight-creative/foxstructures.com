@@ -170,3 +170,35 @@ if(sliderControls) {
     }
   });
 }
+
+window.addEventListener('DOMContentLoaded', (event) => {
+  setVideoSource();
+});
+
+window.addEventListener('resize', debounce(setVideoSource, 250));
+
+function setVideoSource() {
+  var video = document.querySelector('.hero__video');
+  if (window.innerWidth < 720) {
+      video.src = '/uploads/Fox-Structures-Video-540.mp4';
+  } else if (window.innerWidth < 1024) {
+      video.src = '/uploads/Fox-Structures-Video-720.mp4';
+  } else {
+      video.src = '/uploads/Fox-Structures-Video-1080.mp4';
+  }
+}
+
+function debounce(func, wait) {
+  let timeout;
+  return function() {
+      const context = this, args = arguments;
+      clearTimeout(timeout);
+      timeout = setTimeout(function() {
+          timeout = null;
+          func.apply(context, args);
+      }, wait);
+  };
+}
+
+
+

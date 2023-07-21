@@ -10,7 +10,6 @@ seo:
 hero:
   enabled: true
   heading: Design, Welding and Construction Services in Northeast WI
-  video: /uploads/FoxStructuresVideo-7.m4v
   button:
     enabled: true
     button_url: /portfolio/
