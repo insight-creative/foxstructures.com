@@ -32,15 +32,9 @@
 
 .breadcrumbs__nav {
   flex-wrap: nowrap;
-  overflow-x: scroll;
   overflow-y: hidden;
   padding: $ic-100 0;
   margin: 0;
-
-  @include breakpoint(md) {
-    position: relative;
-    top: 8px;
-  }
 }
 
 .breadcrumbs__list-item {

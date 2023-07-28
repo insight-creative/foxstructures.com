@@ -5,7 +5,7 @@
             {{ $pages := .Site.RegularPages }}
             {{ $blog := where $pages "Type" "resources" }}
             {{ $newsBlog := where $blog "Params.categories" "intersect" (slice "News") }}
-            <ul class="grid-columns-3 max-width-none">
+            <ul class="grid-columns-3 max-width-none no-padding">
                 {{- range first 3 $newsBlog -}}
                     {{ .Render "blog-card" }}
                 {{- end -}}
