@@ -1,5 +1,8 @@
 ---
+_schema: default
 title: Lead Men (Erection/Carpentry)
+draft: false
+layout: careers-single
 seo:
   page_title:
   meta_description: "Assist the Construction Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
@@ -10,6 +13,11 @@ location:
   state: WI
   zip: 54130
 job_type: Full Time
+date: 2023-06-01T09:00:00Z
+button:
+  enabled: true
+  button_url: /apply/
+  button_text: Apply Now
 ---
 
 ## Position Summary
@@ -26,5 +34,3 @@ Fox Structures offers competitive pay. Wages vary based on experience.
 
 ## Hours per Week
 40-60 average
-
-<a class="btn btn--secondary" href="/apply/">Apply Now</a>

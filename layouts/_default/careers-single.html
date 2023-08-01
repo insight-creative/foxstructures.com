@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "blog/blog-hero" . }}
+{{ partial "breadcrumbs" . }}
+<section aria-label="Blog Post Content Body" class="block">
+    <div class="post-content wrapper-sm flex flex-column-reverse flex-row-md">
+        <div class="w-100 w-20-md">
+            {{ partial "blog/share-buttons" . }}
+        </div>
+        <div class="w-100 w-80-md">
+            <article class="flow">
+                {{ .Content  }}
+                {{ if .Params.button.enabled }}
+                    {{ with .Params.button }}
+                        <a class="btn btn--secondary" href="{{ .button_url }}">{{ .button_text }}</a>
+                    {{ end }}
+                {{ end }}
+            </article>
+        </div>
+    </div>
+</section>
+{{ partial "post-navigation" . }}
+{{ partial "cta" . }}
+{{ end }}

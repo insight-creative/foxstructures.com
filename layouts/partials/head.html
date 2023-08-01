@@ -75,6 +75,9 @@
   
     {{ else if eq .RelPermalink "/contact/" }}
       {{ partialCached "schema-data/contact-page" . }}
+
+    {{ else if eq $pageSection "careers" }}
+      {{ partial "schema-data/job-posting" . }}
   
     {{ end }}
   

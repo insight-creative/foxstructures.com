@@ -1,5 +1,8 @@
 ---
+_schema: default
 title: Concrete Crew Laborer
+draft: false
+layout: careers-single
 seo:
   page_title:
   meta_description: "As a concrete crew caborer you'll assist the concrete foreman/supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc."
@@ -10,6 +13,11 @@ location:
   state: WI
   zip: 54130
 job_type: Full Time
+date: 2023-06-01T09:00:00Z
+button:
+  enabled: true
+  button_url: /apply/
+  button_text: Apply Now
 ---
 
 ## Position Summary
@@ -26,5 +34,3 @@ Fox Structures offers competitive pay. Wages vary based on experience.
 
 ## Hours per week
 40-60 average
-
-<a class="btn btn--secondary" href="/apply/">Apply Now</a>
