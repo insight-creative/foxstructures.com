@@ -94,7 +94,7 @@ Whether you’re building a commercial office building, mini warehouse facility,
 
 ### Commercial Concrete Services
 
-{{< responsive-image image_url="/fox-structures-commercial-concrete-1.jpg" image_alt="Large concrete slab being poured at storage facility" >}}
+{{< responsive-image image_url="/fox-structures-commercial-concrete-2.jpg" image_alt="Large concrete slab being poured at storage facility" >}}
 
 * Concrete slabs
 * Concrete stairs
