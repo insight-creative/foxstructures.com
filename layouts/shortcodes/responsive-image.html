@@ -2,11 +2,11 @@
 {{ $imageAlt := .Get "image_alt" }}
 
 <picture>
-  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_800{{ $imageURL }} 800w" type="image/avif">
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_800{{ $imageURL }} 800w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_1000{{ $imageURL }} 1000w, https://res.cloudinary.com/foxstructures/image/upload/f_avif,q_85,w_1200{{ $imageURL }} 1200w" type="image/avif">
   
-  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_800{{ $imageURL }} 800w" type="image/webp">
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_800{{ $imageURL }} 800w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_1000{{ $imageURL }} 1000w, https://res.cloudinary.com/foxstructures/image/upload/f_webp,q_85,w_1200{{ $imageURL }} 1200w" type="image/webp">
   
-  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_800{{ $imageURL }} 800w" type="image/jpg">
+  <source sizes="(min-width: 993px) 50vw, 100vw" srcset="https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_400{{ $imageURL }} 400w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_600{{ $imageURL }} 600w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_800{{ $imageURL }} 800w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_1000{{ $imageURL }} 1000w, https://res.cloudinary.com/foxstructures/image/upload/f_jpg,q_85,w_1200{{ $imageURL }} 1200w" type="image/jpg">
 
   <img src="https://res.cloudinary.com/foxstructures/image/upload{{ $imageURL }}" width="600" height="450" alt="{{ $imageAlt }}">   
 </picture>
