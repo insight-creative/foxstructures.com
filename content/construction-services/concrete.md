@@ -35,7 +35,7 @@ hero:
     button_url:
     button_text: Contact Us
   featured_project:
-    enabled: true
+    enabled: false
     name: Redtail Ridge Dairy
     url: /portfolio/redtail-ridge-dairy/
 faq_block:
