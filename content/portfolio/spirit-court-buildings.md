@@ -1,6 +1,5 @@
 ---
 title: Spirit Court Buildings
-draft: true
 seo:
   page_title:
   meta_description: >-
@@ -21,6 +20,9 @@ gallery:
       image_alt:
   - image:
       image_url: /image/upload/v1698120602/spirit-court-storage-building-3.jpg
+      image_alt:
+  - image:
+      image_url: /spirit-court-storage-building-4.jpg
       image_alt:
 project_features: >-
   - 288’ x 60’ light industrial building with six units - 216’ x 40’ second
