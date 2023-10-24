@@ -2,6 +2,12 @@ collections_config:
   pages:
     _enabled_editors:
       - visual
+  portfolio:
+    add_options:
+      - name: Add New Case Study
+    schemas:
+      default:
+        path: schemas/portfolio.md
   careers:
     add_options:
       - name: Add New Job Post
@@ -63,6 +69,14 @@ _inputs:
         - white
         - gray
   body:
+    type: markdown
+  project_features:
+    type: markdown
+  specs:
+    type: markdown
+  quote.quote_short:
+    type: markdown
+  quote.quote_full:
     type: markdown
   button.button_url:
     type: url

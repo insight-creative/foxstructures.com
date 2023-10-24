@@ -1,6 +1,6 @@
 ---
 title: Spirit Court Buildings
-draft: true
+draft: false
 seo:
   page_title:
   meta_description: >-
@@ -22,18 +22,28 @@ gallery:
   - image:
       image_url: /spirit-court-storage-building-3.jpg
       image_alt:
-  - image:
-      image_url: /spirit-court-storage-building-4.jpg
-      image_alt:
 project_features: >-
-  - 288’ x 60’ light industrial building with six units - 216’ x 40’ second
-  building with five units - 116’ x 80’ planned third building with two units -
-  Third building built deep enough to accommodate semi-trucks - Three different
-  unit widths to accommodate tenant needs
+  - 288’ x 60’ light industrial building with six units
+
+  - 216’ x 40’ second building with five units
+
+  - 116’ x 80’ planned third building with two units
+
+  - Third building built deep enough to accommodate semi-trucks
+
+  - Three different unit widths to accommodate tenant needs
 specs: >-
-  - One or two large overhead garage doors per unit  - ADA bathrooms in each
-  unit - Floor drains - All units are insulated and heated - LED lighting -
-  Trench drains in 116’ x 80’ building
+  - One or two large overhead garage doors per unit 
+
+  - ADA bathrooms in each unit
+
+  - Floor drains
+
+  - All units are insulated and heated
+
+  - LED lighting
+
+  - Trench drains in 116’ x 80’ building
 location:
   street: 3090 Spirit Court
   city: Little Chute
@@ -46,7 +56,7 @@ quote:
     industrial properties we had planned for. He knew what we needed and how we
     should proceed—he was very good at seeing us through these projects.”
   quote_full: >-
-    “Fox Structures sales representative-commercial specialist) Mike Klarner was
+    “(Fox Structures sales representative-commercial specialist) Mike Klarner was
     very good at brainstorming, giving us options, and giving us ideas for the
     industrial properties we had planned for. He knew what we needed and how we
     should proceed—he was very good at seeing us through these projects.”
