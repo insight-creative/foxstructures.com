@@ -1,5 +1,6 @@
 ---
 title: Spirit Court Buildings
+draft: true
 seo:
   page_title:
   meta_description: >-

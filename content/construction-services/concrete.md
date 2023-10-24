@@ -12,7 +12,7 @@ seo:
     Your expert contractor for custom concrete foundations & slabs, commercial
     parking lots, retaining walls, patios & walkways, irrigation structures &
     more.
-  featured_image: /concrete-placeholder-small_w0n5ie.jpg
+  featured_image: /fox-structures-commercial-concrete-cured-1.jpg
   featured_image_alt: Freshly poured concrete stamped to look like brick cobblestones
 sector: Concrete
 hero:
