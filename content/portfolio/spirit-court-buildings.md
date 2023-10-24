@@ -1,25 +1,26 @@
 ---
 title: Spirit Court Buildings
+draft: true
 seo:
   page_title:
   meta_description: >-
     Learn how Fox Structures worked with Spirit Investments, LLC, to create 11
     leasable units of light industrial space in Little Chute, Wisconsin.
-  featured_image: /amcor-1_oksvaj.jpg
+  featured_image: /spirit-court-storage-building.jpg
   featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
 date: 2023-10-23T07:00:00Z
 gallery:
   - image:
-      image_url: /image/upload/v1698120578/spirit-court-storage-building.jpg
+      image_url: /spirit-court-storage-building.jpg
       image_alt:
   - image:
-      image_url: /image/upload/v1698120586/spirit-court-storage-building-1.jpg
+      image_url: /spirit-court-storage-building-1.jpg
       image_alt:
   - image:
-      image_url: /image/upload/v1698120594/spirit-court-storage-building-2.jpg
+      image_url: /spirit-court-storage-building-2.jpg
       image_alt:
   - image:
-      image_url: /image/upload/v1698120602/spirit-court-storage-building-3.jpg
+      image_url: /spirit-court-storage-building-3.jpg
       image_alt:
   - image:
       image_url: /spirit-court-storage-building-4.jpg
