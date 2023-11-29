@@ -80,8 +80,6 @@ This way, you can add more space to your barn without having to invest in an ent
 
 Environ-Tech, Agrimesh AI and various other farming technologies are essential to [automate your farming operations](/resources/farming-technology-automating-agricultural-buildings/) and keep up with the competition. If your barn isn’t outfitted with the latest technology, it’s likely time for an upgrade.
 
-{{< responsive-image image_url="" image_alt="" >}}
-
 Since most high-tech farming equipment needs to be fully integrated within your barn, they can be difficult to add to existing buildings without expert help. Our ag team has helped prep barns for seamless installation and integration of various farm technologies.
 
 {{< responsive-image image_url="/farmer-inspecting-cows_aftt8e.jpg" image_alt="Dairy farmer in lab coat and hair net interacting with cows" >}}
