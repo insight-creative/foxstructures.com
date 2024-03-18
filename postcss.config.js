@@ -61,6 +61,7 @@ module.exports = {
         'swiper-slide-thumb-active',
         'submenu-about',
         'wistia_click_to_play',
+        'mc_embed_signup',
       ],
     }),
   ],
