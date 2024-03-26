@@ -32,7 +32,7 @@ gallery:
       image_url: /trident-one-interior-4_uocees.jpg
       image_alt:
 project_features: >-
-  - 60 x 240 light industrial facility
+  - 60' x 240' light industrial facility
 
   - Large amount of natural lighting
 specs: >-
