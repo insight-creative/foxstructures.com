@@ -8,10 +8,12 @@
           {{ else if eq .Section "careers" }}
             <a href="/careers/" class="back flex no-decoration"><div class="icon-md icon-stroke-white">{{ partialCached "svg-icons/chevron-left.svg" . }}</div> Back to all positions</a>
           {{ end }}
-          <h1 class="no-margin">{{ .Title | markdownify }}</h1>
-          {{ if .Params.seo.meta_description }}
-            <p class="text-color-white">{{ .Params.seo.meta_description }}</p>
-          {{ end }}
+          <div>
+            <h1 id="hero-heading" class="h2 text-color-white no-margin">{{ .Title | markdownify }}</h1>
+            {{ if .Params.seo.meta_description }}
+              <div class="text-color-white">{{ .Params.seo.meta_description }}</div>
+            {{ end }}
+          </div>
           <div class="columns-two-thirds-left gap-sm">
             <div class="col flex flex-wrap gap-sm">
               {{ if .Params.Categories }}
