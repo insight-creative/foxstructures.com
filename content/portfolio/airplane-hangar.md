@@ -1,6 +1,6 @@
 ---
-title: Galuska Farm
-draft: true
+title: Galuska Airplane Hangar
+draft: false
 seo:
   page_title:
   meta_description: Learn how the Fox Structures team helped airline mechanics Kimberly Galuska and Geff Galbari construct a dream airplane hangar on their property.
