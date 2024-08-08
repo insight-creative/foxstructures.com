@@ -52,7 +52,7 @@ quote:
 video_embed: >-
 
 sectors:
-  - Storage
+  - Commercial
 related_projects: 
 ---
 
