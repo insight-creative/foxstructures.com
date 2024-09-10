@@ -1,5 +1,6 @@
 ---
 title: Pat Hofacker
+draft: true
 seo:
   page_title:
   meta_description: Pat is a front-facing, go-to resource for our clients, especially in the agriculture industry.

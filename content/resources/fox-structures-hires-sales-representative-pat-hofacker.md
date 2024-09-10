@@ -5,7 +5,7 @@ seo:
   meta_description: Learn more about the latest Fox Structures hire of Pat Hofacker as sales representative.
   featured_image: /were-building-our-team-cover_n32xgn.jpg
   featured_image_alt:
-draft: false
+draft: true
 author:
 date: 2021-07-12
 categories:
