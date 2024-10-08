@@ -1,6 +1,6 @@
 ---
 title: Lowney's Landscaping
-draft: true
+draft: false
 seo:
   page_title:
   meta_description: Learn how the Fox Structures team helped Lowney's Landscaping expand one of their buildings and repair hail damage to others. 
@@ -36,7 +36,7 @@ quote:
   quote_short: >-
     “”
   quote_full: >-
-    “We’ve built a good relationship with Fox Structures over the years. They understand our needs and they follow through. And I do like that they do their flatwork in-house—Quentin does a great job on the concrete.”
+    “We’ve built a good relationship with Fox Structures over the years. They understand our needs and they follow through. And I do like that they do their flatwork in-house. They did a great job on the concrete.”
   name: Joe Lowney
   position: Owner
 video_embed: >-
