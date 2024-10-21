@@ -47,15 +47,7 @@ quote:
   name:
   position: Owner, Extra Space Storage
 video_embed: >-
-  <div class="wistia_responsive_padding" style="padding:56.25% 0 0
-  0;position:relative;"><div class="wistia_responsive_wrapper"
-  style="height:100%;left:0;position:absolute;top:0;width:100%;"><iframe
-  src="https://fast.wistia.net/embed/iframe/qqqttv4y8w?videoFoam=true"
-  title="extra-space-storage-drone-video" allow="autoplay; fullscreen"
-  allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed"
-  name="wistia_embed" msallowfullscreen width="100%"
-  height="100%"></iframe></div></div> <script
-  src="https://fast.wistia.net/assets/external/E-v1.js" async></script>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p3AN4nIHbGY?si=U7ka-y5Bimoqa3ap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 sectors:
   - Storage
 related_projects:
