@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Carpenter/Erection Laborer
-draft: false
+draft: true
 layout: careers-single
 seo:
   page_title:

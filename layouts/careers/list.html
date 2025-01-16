@@ -24,24 +24,28 @@
 {{ end }}
 <section aria-label="Open Positions at Fox Structures" class="block bg-black flow">
     <h2 class="text-align-center">Open Positions</h2>
-    <p class="text-align-center text-color-white max-width-none">Browse our open job opportunities and apply online today!</p>
-    <div id="open-positions" class="wrapper-lg grid-columns-3">
-        {{ $pages := .Site.RegularPages }}
-        {{ $careers := where $pages "Type" "careers" }}
-        {{ range $careers }}
-        <a href="{{ .Permalink }}" class="careers-card bg-primary no-decoration">
-            <div class="careers-card__content flex flex-justify-between">
-                <h3 class="careers-card__heading h6 text-primary no-margin">{{ .Title }}</h3>
-                <div class="animated__arrow">
-                    <div class="animated__arrow-body"></div>
+    {{ $pages := .Site.RegularPages }}
+    {{ $careers := where $pages "Type" "careers" }}
+    {{ if $careers }}
+        <p class="text-align-center text-color-white max-width-none">Browse our open job opportunities and apply online today!</p>
+        <div id="open-positions" class="wrapper-lg grid-columns-3">
+            {{ range $careers }}
+            <a href="{{ .Permalink }}" class="careers-card bg-primary no-decoration">
+                <div class="careers-card__content flex flex-justify-between">
+                    <h3 class="careers-card__heading h6 text-primary no-margin">{{ .Title }}</h3>
+                    <div class="animated__arrow">
+                        <div class="animated__arrow-body"></div>
+                    </div>
                 </div>
-            </div>
-        </a>
-        {{ end }}        
-    </div>
-    <div class="text-align-center">
-        <a href="/apply/" class="btn btn--secondary">Apply Now</a>
-    </div>
+            </a>
+            {{ end }}      
+        </div>
+        <div class="text-align-center">
+            <a href="/apply/" class="btn btn--secondary">Apply Now</a>
+        </div>
+    {{ else }}
+        <p class="text-align-center text-color-white max-width-none">Sorry, we currently do not have any positions available. Please check back later, or submit a resume for us to keep on file.</p>    
+    {{ end }}        
 </section>
 {{ partialCached "news-feed" . }}
 {{ partial "careers-cta-alt" . }}
