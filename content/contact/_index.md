@@ -2,7 +2,7 @@
 title: Contact Us
 menu:
   main:
-    weight: 5
+    weight: 6
   explore:
     weight: 5
 seo:

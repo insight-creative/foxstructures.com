@@ -2,7 +2,7 @@
 title: Careers
 menu:
   main:
-    weight: 6
+    weight: 5
   explore:
     weight: 3
 seo:
