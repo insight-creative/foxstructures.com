@@ -24,12 +24,20 @@
             {{ if .Params.location }}
                 <div>
                     <div class="project-details__label shift-up font-size-xs fw-700 letter-spacing-2">Location</div>
-                    <address>
-                        <p>
-                            {{ .Params.location.street }}<br>
-                            {{ .Params.location.city }}, {{ .Params.location.state }} {{ .Params.location.zip }}
-                        </p>
-                    </address>
+                    <div class="flow">
+                        <address>
+                            <p>
+                                {{ .Params.location.street }}<br>
+                                {{ .Params.location.city }}, {{ .Params.location.state }} {{ .Params.location.zip }}
+                            </p>
+                        </address>
+                        <address>
+                            <p>
+                                {{ .Params.location_2.street }}<br>
+                                {{ .Params.location_2.city }}, {{ .Params.location_2.state }} {{ .Params.location_2.zip }}
+                            </p>
+                        </address>
+                    </div>
                 </div>
             {{ end }}
             {{ if .Params.specs }}
