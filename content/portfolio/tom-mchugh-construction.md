@@ -1,6 +1,6 @@
 ---
 title: Tom McHugh Construction
-draft: true
+draft: false
 seo:
   page_title:
   meta_description: Learn how the Fox Structures team partnered with Tom McHugh Construction to build a unique office and showroom space! 
