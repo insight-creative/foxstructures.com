@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Bimbo Bakeries
-draft: true
+draft: false
 seo:
   page_title:
   meta_description: >-
