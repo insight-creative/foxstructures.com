@@ -8,7 +8,7 @@ seo:
   meta_description: >-
     Assist the Welding Foreman and Lead Welders in all aspects of fabrication
     and field welding projects.
-  featured_image: /welder-working-in-shop_mzdp0s.jpg
+  featured_image: /fox-employee-welding-metal_x3ko4m.jpg
 location:
   street: 2201 Eastline Line Rd
   city: Kaukauna
