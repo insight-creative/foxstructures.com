@@ -25,6 +25,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   blog:
+    path: content/resources
     icon: notes
     disable_url: false
     add_options:
@@ -32,6 +33,7 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    include_developer_files: true
     schemas:
       default:
         path: schemas/blog.md
