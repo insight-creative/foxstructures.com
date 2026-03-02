@@ -7,10 +7,17 @@ seo:
     Learn how the Fox Structures team helped Plum Creek Dairy install ridge fans
     and a tunnel ventilation system into an existing free-stall barn on a newly
     purchased property.
-  featured_image: /airplane-hangar-exterior_bv7pf3.jpg
-  featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
+  featured_image: /plum-creek-dairy-exterior-after.jpg
+  featured_image_alt: >-
+    Exterior of tunnel ventilation system and ridge fans for Plum Creek Dairy in
+    Fox Lake, Wisconsin
 date: 2024-07-16T07:00:00Z
 gallery:
+  - image:
+      image_url: /plum-creek-dairy-exterior-after.jpg
+      image_alt: >-
+        Exterior of tunnel ventilation system and ridge fans for Plum Creek
+        Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-dairy-interior-ventilation.jpg
       image_alt: >-
@@ -32,37 +39,46 @@ gallery:
       image_alt: Dairy cows at Plum Creek Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-dairy-exterior.jpg
-      image_alt: ''
+      image_alt: >-
+        Exterior of ventilation system for Plum Creek Dairy in Fox Lake,
+        Wisconsin
   - image:
       image_url: /plum-creek-dairy-exterior-fan-installation.jpg
-      image_alt: ''
-  - image:
-      image_url: /plum-creek-dairy-exterior-after.jpg
-      image_alt: ''
+      image_alt: Ventilation system for Plum Creek Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-exterior-fans.jpg
-      image_alt: ''
+      image_alt: Exterior of fan system for Plum Creek Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-exterior-after-fan-installation.jpg
-      image_alt: ''
+      image_alt: >-
+        Exterior of ventilation and fan system for Plum Creek Dairy in Fox Lake,
+        Wisconsin
   - image:
       image_url: /plum-creek-exterior-ventilation.jpg
-      image_alt: ''
+      image_alt: Ventilation and fan system for Plum Creek Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-fan-installation.jpg
-      image_alt: ''
+      image_alt: >-
+        Close up of ventilation system for Plum Creek Dairy in Fox Lake,
+        Wisconsin
   - image:
       image_url: /plum-creek-exterior.jpg
-      image_alt: ''
+      image_alt: Ridge fan system for Plum Creek Dairy in Fox Lake, Wisconsin
   - image:
       image_url: /plum-creek-dairy-exterior-fans.jpg
-      image_alt: ''
+      image_alt: >-
+        Close up of ventilation and ridge fan system for Plum Creek Dairy in Fox
+        Lake, Wisconsin
   - image:
       image_url: /plum-creek-dairy-exterior-close-up-fan.jpg
-      image_alt: ''
+      image_alt: >-
+        Close up of ventilation system for Plum Creek Dairy in Fox Lake,
+        Wisconsin
   - image:
       image_url: /plum-creek-exterior-after.jpg
-      image_alt: ''
+      image_alt: >-
+        Exterior fan and ventilation system for Plum Creek Dairy in Fox Lake,
+        Wisconsin
 project_features: '* Installation of 53 55-inch fans, 32 74-inch fans and 39 Ridge fans'
 specs: |-
   * New ventilation system in 120’x1300’ free stall barn
@@ -87,8 +103,6 @@ sectors:
   - Agricultural
 related_projects:
 ---
-## Project Overview
-
 Fox Structures has partnered with Plum Creek Dairy on multiple projects at its Waupun-based operation, including a recent three-structure build completed during the pandemic. So when owner Abe Lemmenes purchased an additional dairy farm in Fox Lake, Fox Structures was the clear choice to handle the facility upgrades.
 
 One of the primary needs was improving airflow in a freestyle barn that was more than 10 years old. The existing ventilation system was no longer providing adequate air movement, impacting cow comfort and overall performance.
