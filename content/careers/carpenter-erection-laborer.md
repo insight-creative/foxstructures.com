@@ -30,8 +30,8 @@ Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Techni
 ## Benefits
 Fox Structures offers many great benefits such as health insurance, vacation pay, holiday pay, 401(k), life insurance, short-term disability, AD&D and profit-sharing. As a growing company, our experienced team is willing to train and there are opportunities to advance. In addition, Fox Structures is a local company with local jobs—no overnight travel!
 
+## Hours Per Week
+Typical weekly hours: 40 to 60 hours/week
+
 ## Pay Range
 Fox Structures offers competitive pay. Wages vary based on experience.
-
-## Hours per week
-40-60 average
