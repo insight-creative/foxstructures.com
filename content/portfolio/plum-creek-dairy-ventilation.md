@@ -79,9 +79,9 @@ gallery:
       image_alt: >-
         Exterior fan and ventilation system for Plum Creek Dairy in Fox Lake,
         Wisconsin
-project_features: '* Installation of 53 55-inch fans, 32 74-inch fans and 39 Ridge fans'
+project_features: '* Installation of 53 55-inch fans, 32 74-inch fans and 39 ridge fans'
 specs: |-
-  * New ventilation system in 120’x1300’ free stall barn
+  * New ventilation system in 120’x1300’ freestall barn
   * Roofing and other repairs completed
 location:
   street: W8998 Laurel Hill Road
@@ -105,7 +105,7 @@ related_projects:
 ---
 Fox Structures has partnered with Plum Creek Dairy on multiple projects at its Waupun-based operation, including a recent three-structure build completed during the pandemic. So when owner Abe Lemmenes purchased an additional dairy farm in Fox Lake, Fox Structures was the clear choice to handle the facility upgrades.
 
-One of the primary needs was improving airflow in a freestyle barn that was more than 10 years old. The existing ventilation system was no longer providing adequate air movement, impacting cow comfort and overall performance.
+One of the primary needs was improving airflow in a freestall barn that was more than 10 years old. The existing ventilation system was no longer providing adequate air movement, impacting cow comfort and overall performance.
 
 Fox Structures designed and installed a new tunnel ventilation system, converting the existing barn into a tunnel-ventilated facility. Retrofitting a ventilation system into an existing structure presents unique challenges, but Fox Structures collaborated closely with ventilation experts at Munters to deliver an effective solution.
 
