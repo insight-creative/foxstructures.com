@@ -11,7 +11,7 @@ seo:
   featured_image_alt: >-
     Exterior of tunnel ventilation system and ridge fans for Plum Creek Dairy in
     Fox Lake, Wisconsin
-date: 2024-07-16T07:00:00Z
+date: 2026-03-09T07:00:00Z
 gallery:
   - image:
       image_url: /plum-creek-dairy-exterior-after.jpg
