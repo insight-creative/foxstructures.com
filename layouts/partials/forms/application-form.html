@@ -24,12 +24,11 @@
   </div>
   <div class="contact-form__form-group">
       <label for="education">Do you have a high school diploma? *</label>
-      <label for="education_yes">
-        <input name="Education" id="education_yes" type="radio">Yes
-      </label>
-      <label for="education_no">
-        <input name="Education" id="education_no" type="radio">No
-      </label>
+      <select name="education" id="education" class="contact-form__form-control" required>
+        <option value="">Please choose an option:</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
   </div>
   <div class="contact-form__form-group">
       <label for="additional_education">Do you have any additional education?</label>
@@ -37,12 +36,11 @@
   </div>
   <div class="contact-form__form-group">
       <label for="experience">Do you have any construction experience? *</label>
-      <label for="experience_yes">
-        <input name="Experience" id="experience_yes" type="radio">Yes
-      </label>
-      <label for="experience_no">
-        <input name="Experience" id="experience_no" type="radio">No
-      </label>
+      <select name="experience" id="experience" class="contact-form__form-control" required>
+        <option value="">Please choose an option:</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
   </div>
   <div class="contact-form__form-group">
       <label for="additional_experience">If so, list construction experience here:</label>
@@ -50,21 +48,19 @@
   </div>
   <div class="contact-form__form-group">
       <label for="drivers_license">Do you have a driver's license? *</label>
-      <label for="drivers_license_yes">
-        <input name="Drivers License" id="drivers_license_yes" type="radio">Yes
-      </label>
-      <label for="drivers_license_no">
-        <input name="Drivers License" id="drivers_license_no" type="radio">No
-      </label>
+      <select name="drivers_license" id="drivers_license" class="contact-form__form-control" required>
+        <option value="">Please choose an option:</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
   </div>
   <div class="contact-form__form-group">
       <label for="cdl_license">Do you have a CDL? *</label>
-      <label for="cdl_license_yes">
-        <input name="CDL License" id="cdl_license_yes" type="radio">Yes
-      </label>
-      <label for="cdl_license_no">
-        <input name="CDL License" id="cdl_license_no" type="radio">No
-      </label>
+      <select name="cdl_license" id="cdl_license" class="contact-form__form-control" required>
+        <option value="">Please choose an option:</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
   </div>
   {{ if eq .Title "Apply" }}
     <div class="contact-form__form-group">
