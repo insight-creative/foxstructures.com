@@ -86,7 +86,7 @@
     <link rel="stylesheet" href="/plugins/swiper-bundle.min.css">
     {{ end }}
 
-    {{ if (or (eq .Title "Contact Us") (eq .Title "Apply") }}
+    {{ if (or (eq .Title "Contact Us") (eq .Title "Apply")) }}
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
     {{ end }}
   
