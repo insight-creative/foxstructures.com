@@ -8,7 +8,7 @@ seo:
     freestall barn and included a state-of-the-art ventilation system!
   featured_image: /airplane-hangar-exterior_bv7pf3.jpg
   featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
-date: 2024-07-16T07:00:00Z
+date: 2026-04-01T07:00:00Z
 gallery:
   - image:
       image_url: /redtail-ridge-dairy-expansion.jpg
