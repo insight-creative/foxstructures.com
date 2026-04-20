@@ -20,13 +20,13 @@
   </div>
   <div class="contact-form__form-group">
       <label for="email">Email *</label>
-      <input name="email" id="email" type="email" class="contact-form__form-control" required>
+      <input name="Email Address" id="email" type="email" class="contact-form__form-control" required>
   </div>
   <h3 class="h4 text-primary">Education</h3>
   <hr>
   <div class="contact-form__form-group">
       <label for="education">Do you have a high school diploma? *</label>
-      <select name="education" id="education" class="contact-form__form-control" required>
+      <select name="Education - HS Diploma" id="education" class="contact-form__form-control" required>
         <option value="">Please choose an option:</option>
         <option value="Yes">Yes</option>
         <option value="No">No</option>
@@ -40,7 +40,7 @@
   <hr>
   <div class="contact-form__form-group">
       <label for="experience">Do you have any construction experience? *</label>
-      <select name="experience" id="experience" class="contact-form__form-control" required>
+      <select name="Construction Experience" id="experience" class="contact-form__form-control" required>
         <option value="">Please choose an option:</option>
         <option value="Yes">Yes</option>
         <option value="No">No</option>
@@ -107,7 +107,7 @@
   <hr>
   <div class="contact-form__form-group">
       <label for="drivers_license">Do you have a driver's license? *</label>
-      <select name="drivers_license" id="drivers_license" class="contact-form__form-control" required>
+      <select name="Drivers License" id="drivers_license" class="contact-form__form-control" required>
         <option value="">Please choose an option:</option>
         <option value="Yes">Yes</option>
         <option value="No">No</option>
@@ -115,7 +115,7 @@
   </div>
   <div class="contact-form__form-group">
       <label for="cdl_license">Do you have a CDL? *</label>
-      <select name="cdl_license" id="cdl_license" class="contact-form__form-control" required>
+      <select name="CDL License" id="cdl_license" class="contact-form__form-control" required>
         <option value="">Please choose an option:</option>
         <option value="Yes">Yes</option>
         <option value="No">No</option>
@@ -123,8 +123,8 @@
   </div>
   {{ if eq .Title "Apply" }}
     <div class="contact-form__form-group">
-        <label for="contact_preference">Position Applying For? *</label>
-        <select name="Contact Preference" id="contact_preference" class="contact-form__form-control" required>
+        <label for="position">Position Applying For? *</label>
+        <select name="Position Applying For" id="position" class="contact-form__form-control" required>
             <option value="">Please choose an option</option>
             {{ range where site.RegularPages "Section" "careers" }}
                 <option value="{{ .Title }}">{{ .Title }}</option>
@@ -134,7 +134,7 @@
   {{ end }}
     <div class="contact-form__form-group">
       <label for="resume">Resume/Cover Letter</label>
-      <input aria-label="resume" name="resume" type="file">
+      <input aria-label="resume" name="Resume" type="file">
     </div>
     <div class="contact-form__form-group">
       <label for="message">Additional Information</label>
