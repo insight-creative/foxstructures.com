@@ -6,8 +6,8 @@ seo:
   meta_description: >-
     Learn how the Fox Structures team expanded Redtail Ridge Dairy’s new
     freestall barn and included a state-of-the-art ventilation system!
-  featured_image: /airplane-hangar-exterior_bv7pf3.jpg
-  featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
+  featured_image: /redtail-ridge-dairy-expansion.jpg
+  featured_image_alt: Drone view of the Redtail Ridge Dairy after expansion by Fox Structures
 date: 2026-04-01T07:00:00Z
 gallery:
   - image:
