@@ -6,47 +6,47 @@ seo:
   meta_description: >-
     Learn how the Fox Structures team expanded Redtail Ridge Dairy’s new
     freestall barn and included a state-of-the-art ventilation system!
-  featured_image: /airplane-hangar-exterior_bv7pf3.jpg
-  featured_image_alt: Drone view of the Amcor RE&D Building after restoration by Fox Structures
+  featured_image: /redtail-ridge-dairy-expansion_cllf76.jpg
+  featured_image_alt: Drone view of the Redtail Ridge Dairy after expansion by Fox Structures
 date: 2026-04-01T07:00:00Z
 gallery:
   - image:
-      image_url: /redtail-ridge-dairy-expansion.jpg
+      image_url: /redtail-ridge-dairy-expansion_cllf76.jpg
       image_alt: >-
         Redtail Ridge Dairy expansion with freestall barn, vac/electrical room,
         milking parlor, heifer barn, and shop with wash bay
   - image:
-      image_url: /redtail-ridge-dairy-expansion-after.jpg
+      image_url: /redtail-ridge-dairy-expansion-after_xgn7xm.jpg
       image_alt: >-
         Redtail Ridge Dairy addition featuring multiple freestall barns, shop
         with wash bay, milking parlor, and vac/electrical room
   - image:
-      image_url: /redtail-ridge-dairy-maternity.jpg
+      image_url: /redtail-ridge-dairy-maternity_vcwdht.jpg
       image_alt: Redtail Ridge Dairy expansion featuring calving and maternity area
   - image:
-      image_url: /redtail-ridge-dairy-maternity-barn.jpg
+      image_url: /redtail-ridge-dairy-maternity-barn_vvqlot.jpg
       image_alt: Redtail Ridge Dairy maternity barn expansion
   - image:
-      image_url: /redtail-ridge-diary-maternity-addition.jpg
+      image_url: /redtail-ridge-dairy-maternity-addition_fstd3c.jpg
       image_alt: Redtail Ridge Dairy maternity barn addition
   - image:
-      image_url: /redtail-ridge-dairy-automated-tunnel-ventilation-system.jpg
+      image_url: /redtail-ridge-dairy-automated-tunnel-ventilation-system_ltkccw.jpg
       image_alt: Redtail Ridge Dairy state-of-the-art tunnel ventilation system
   - image:
-      image_url: /redtail-ridge-dairy-tunnel-ventilation-system.jpg
+      image_url: /redtail-ridge-dairy-tunnel-ventilation-system_er5xhm.jpg
       image_alt: >-
         Redtail Ridge Dairy expansion featuring an automated tunnel ventilation
         system
   - image:
-      image_url: /redtail-ridge-dairy-addition.jpg
+      image_url: /redtail-ridge-dairy-addition_n1ihek.jpg
       image_alt: >-
         Fox Structures expanded Redtail Ridge Dairy's square footage to 72600
         square feet
   - image:
-      image_url: /redtail-ridge-dairy-freestall-barn-addition.jpg
+      image_url: /redtail-ridge-freestall-barn-addition_n7skhw.jpg
       image_alt: Freestall barn addition to Redtail Ridge Dairy
   - image:
-      image_url: /redtail-ridge-dairy-freestall-addition.jpg
+      image_url: /redtail-ridge-dairy-freestall-addition_jfyk7a.jpg
       image_alt: Freestall barn expansion to Redtail Ridge Dairy
 project_features: |-
   * Expanded freestall barn for dairy cows
