@@ -16,6 +16,9 @@ const scrollTop = () => window.scrollY;
 
 const scrollDetect = (collapse, expand) => {
   const currentScroll = scrollTop();
+  if (scrollState === -1) {
+    scrollState = 0;
+  }
   if (currentScroll > scrollState) {
     collapse();
   } else {
