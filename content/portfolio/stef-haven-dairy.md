@@ -14,34 +14,34 @@ gallery:
       image_alt: Custom building connecting two barns at Stef Haven Dairy
   - image:
       image_url: /stef-haven-parlor-exterior_dqklju.jpg
-      image_alt:
+      image_alt: Exterior addition connecting two existing barns
   - image:
       image_url: /stef-haven-parlor-entry_eks1is.jpg
-      image_alt:
+      image_alt: Entryway into Stef Haven Dairy new building addition
   - image:
       image_url: /stef-haven-connect-parlor_b5et2y.jpg
-      image_alt:
+      image_alt: Stef Haven Dairy connecting parlor
   - image:
       image_url: /stef-haven-exterior-parlor_df52ey.jpg
-      image_alt:
+      image_alt: Exterior building addition for Stef Haven Dairy
   - image:
       image_url: /stef-haven-connecting-parlor-entry_jg26st.jpg
-      image_alt:
+      image_alt: Exterior entryway for new building addition at Stef Haven Dairy
   - image:
       image_url: /stef-haven-parlor_zxobpo.jpg
-      image_alt:
+      image_alt: Stef Haven Dairy maternity pen in new building addition
   - image:
       image_url: /stef-haven-exterior-connecting-parlor_c8hgxi.jpg
-      image_alt:
+      image_alt: Exterior of new addition connecting two existing barns
   - image:
       image_url: /stef-haven-interior-connecting-parlor_zpnxrt.jpg
-      image_alt:
+      image_alt: Stef Haven Dairy maternity pen
   - image:
       image_url: /stef-haven-parlor-interior_wix2fo.jpg
-      image_alt:
+      image_alt: Stef Haven Dairy new parlor addition
   - image:
       image_url: /stef-haven-interior-parlor_wjvttx.jpg
-      image_alt:
+      image_alt: Stef Haven Dairy interior parlor
 project_features: |-
   * Tunnel-ventilated freestall barn addition
   * Metal roof and concrete floor
