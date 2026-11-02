@@ -2,73 +2,76 @@
 title: Stef Haven Dairy
 draft: false
 seo:
-  page_title:
-  meta_description: Learn how the Fox Structures team partnered with Stef Haven
-    Dairy on a challenging addition to their operation!
-  featured_image: /stef-haven-connecting-parlor-exterior_acn4b0.jpg
-  featured_image_alt: Stef Haven new build connecting freestall barn and two-story barn
+    page_title:
+    meta_description: Learn how the Fox Structures team partnered with Stef Haven
+        Dairy on a challenging addition to their operation!
+    featured_image: /Stef-Haven-Drone-Photo1_1_xq0lqh.jpg
+    featured_image_alt: Stef Haven new build connecting freestall barn and two-story barn
 date: 2026-10-26T07:00:00Z
 gallery:
-  - image:
-      image_url: /stef-haven-connecting-parlor-exterior_acn4b0.jpg
-      image_alt: Custom building connecting two barns at Stef Haven Dairy
-  - image:
-      image_url: /stef-haven-parlor-exterior_dqklju.jpg
-      image_alt: Exterior addition connecting two existing barns
-  - image:
-      image_url: /stef-haven-parlor-entry_eks1is.jpg
-      image_alt: Entryway into Stef Haven Dairy new building addition
-  - image:
-      image_url: /stef-haven-connect-parlor_b5et2y.jpg
-      image_alt: Stef Haven Dairy connecting parlor
-  - image:
-      image_url: /stef-haven-exterior-parlor_df52ey.jpg
-      image_alt: Exterior building addition for Stef Haven Dairy
-  - image:
-      image_url: /stef-haven-connecting-parlor-entry_jg26st.jpg
-      image_alt: Exterior entryway for new building addition at Stef Haven Dairy
-  - image:
-      image_url: /stef-haven-parlor_zxobpo.jpg
-      image_alt: Stef Haven Dairy maternity pen in new building addition
-  - image:
-      image_url: /stef-haven-exterior-connecting-parlor_c8hgxi.jpg
-      image_alt: Exterior of new addition connecting two existing barns
-  - image:
-      image_url: /stef-haven-interior-connecting-parlor_zpnxrt.jpg
-      image_alt: Stef Haven Dairy maternity pen
-  - image:
-      image_url: /stef-haven-parlor-interior_wix2fo.jpg
-      image_alt: Stef Haven Dairy new parlor addition
-  - image:
-      image_url: /stef-haven-interior-parlor_wjvttx.jpg
-      image_alt: Stef Haven Dairy interior parlor
+    - image:
+          image_url: /Stef-Haven-Drone-Photo1_1_xq0lqh.jpg
+          image_alt: Stef Haven Dairy barn expansion drone view
+    - image:
+          image_url: /stef-haven-connecting-parlor-exterior_acn4b0.jpg
+          image_alt: Custom building connecting two barns at Stef Haven Dairy
+    - image:
+          image_url: /stef-haven-parlor-exterior_dqklju.jpg
+          image_alt: Exterior addition connecting two existing barns
+    - image:
+          image_url: /stef-haven-parlor-entry_eks1is.jpg
+          image_alt: Entryway into Stef Haven Dairy new building addition
+    - image:
+          image_url: /stef-haven-connect-parlor_b5et2y.jpg
+          image_alt: Stef Haven Dairy connecting parlor
+    - image:
+          image_url: /stef-haven-exterior-parlor_df52ey.jpg
+          image_alt: Exterior building addition for Stef Haven Dairy
+    - image:
+          image_url: /stef-haven-connecting-parlor-entry_jg26st.jpg
+          image_alt: Exterior entryway for new building addition at Stef Haven Dairy
+    - image:
+          image_url: /stef-haven-parlor_zxobpo.jpg
+          image_alt: Stef Haven Dairy maternity pen in new building addition
+    - image:
+          image_url: /stef-haven-exterior-connecting-parlor_c8hgxi.jpg
+          image_alt: Exterior of new addition connecting two existing barns
+    - image:
+          image_url: /stef-haven-interior-connecting-parlor_zpnxrt.jpg
+          image_alt: Stef Haven Dairy maternity pen
+    - image:
+          image_url: /stef-haven-parlor-interior_wix2fo.jpg
+          image_alt: Stef Haven Dairy new parlor addition
+    - image:
+          image_url: /stef-haven-interior-parlor_wjvttx.jpg
+          image_alt: Stef Haven Dairy interior parlor
 project_features: |-
-  * Tunnel-ventilated freestall barn addition
-  * Metal roof and concrete floor
+    * Tunnel-ventilated freestall barn addition
+    * Metal roof and concrete floor
 specs: |-
-  * Custom 127’ 8” x 140’ build
-  * Adjoins two existing buildings
-  * Maternity pen
-  * 130 stalls for dairy cows
+    * Custom 127’ 8” x 140’ build
+    * Adjoins two existing buildings
+    * Maternity pen
+    * 130 stalls for dairy cows
 location:
-  street: W601 Kiel Rd
-  city: New Holstein
-  state: WI
-  zip: 53061
+    street: W601 Kiel Rd
+    city: New Holstein
+    state: WI
+    zip: 53061
 quote:
-  quote_short: “”
-  quote_full: “Every day we were working with a Fox Structures owner—that’s what I
-    loved most about working with them. We could talk with an owner and someone
-    who cared about our project as much as we did.”
-  name: Derek Steffes
-  position: Co-owner
+    quote_short: “”
+    quote_full: “Every day we were working with a Fox Structures owner—that’s what I
+        loved most about working with them. We could talk with an owner and
+        someone who cared about our project as much as we did.”
+    name: Derek Steffes
+    position: Co-owner
 video_embed: <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/KOmN7o3ZIqQ?si=3hXWV4xWAQSkChd9"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    src="https://www.youtube.com/embed/KOmN7o3ZIqQ?si=3hXWV4xWAQSkChd9"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 sectors:
-  - Agricultural
+    - Agricultural
 related_projects:
 ---
 When Stef Haven Dairy planned to expand its operations, it turned to Fox Structures to help with a unique and challenging project.
